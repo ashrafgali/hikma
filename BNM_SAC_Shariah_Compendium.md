@@ -1,7 +1,7 @@
-# Bank Negara Malaysia – Shariah Advisory Council (SAC) Resolutions and Shariah Policy Documents
+# Bank Negara Malaysia – Shariah Advisory Council (SAC) Resolutions and Shariah Policy Documents (English and Bahasa Malaysia)
 ## Comprehensive Compendium compiled from the BNM website
 
-**Compiled:** 10 November 2026  
+**Compiled:** 10 November 2026 (updated with Bahasa Malaysia versions and latest-update check the same day)  
 **Source:** https://www.bnm.gov.my (SAC pages, "SAC Updates" listing, "Standards & Guidelines" listing and linked PDFs)
 
 > **Important.** This is a research compilation, not legal or Shariah advice. Quoted text is reproduced from BNM web pages / PDFs as retrieved on the compile date. Always verify against the current BNM-published document before relying on it, as rulings may be amended, superseded or withdrawn. Section headings and classifications labelled *"Compiler's note"* are the compiler's own and not BNM's.
@@ -12,11 +12,12 @@
 
 1. **SAC rulings/statements:** every item on BNM's *SAC Updates* page (https://www.bnm.gov.my/committees/sac/updates, 4 pages, 67 entries) was opened; page text and each attached PDF were retrieved. 
 2. **Reference compilations:** the five items under *SAC References* (https://www.bnm.gov.my/shariah-advisory-council) were retrieved; tables of contents of the 2nd and 3rd editions of *Shariah Resolutions in Islamic Finance* are reproduced in Appendix A/B.
-3. **Shariah policy documents:** BNM's *Standards & Guidelines* listing (https://www.bnm.gov.my/standardsandguidelines, 146 entries) was parsed and every Shariah/Islamic-finance related entry was selected (51 entries) by keyword (Shariah, Islamic, contract names, takaful, -i products, Hajah and Darurah, etc.). The selection is the compiler's judgement; borderline items are marked.
-4. **Known limits**
+3. **Bahasa Malaysia:** the Malay version of the SAC Updates page (67 entries) and its BM PDFs were retrieved and are reproduced in Section 6; Malay reference documents are in Section 8; the latest-update check is Section 7.
+4. **Shariah policy documents:** BNM's *Standards & Guidelines* listing (https://www.bnm.gov.my/standardsandguidelines, 146 entries) was parsed and every Shariah/Islamic-finance related entry was selected (51 entries) by keyword (Shariah, Islamic, contract names, takaful, -i products, Hajah and Darurah, etc.). The selection is the compiler's judgement; borderline items are marked.
+5. **Known limits**
    - The *SAC Updates* page is not a complete archive of all SAC resolutions. Resolutions from 1997 to 2017 are principally in the compilations (Section 3); several hundred are not individually posted online. The 2nd edition alone lists 135 numbered resolutions (Appendix A).
    - The 3rd edition (2011–2017 resolutions) is published **in Bahasa Malaysia only**; titles are reproduced in Malay, not translated.
-   - Where a Bahasa Malaysia version of a statement is posted alongside the English one, only the link is listed.
+   - Bahasa Malaysia versions of the SAC statements are in Section 6 (Malay text extracted from BNM's Malay pages and BM PDFs). Several 2015–2017 entries have no Malay text on the BNM website. Malay text was extracted automatically from PDFs and pages and has not been proofread.
    - Policy documents may have been superseded or amended since their listed date; the BNM listing does not always show the current status. Verify on BNM's site.
    - Some PDFs in the BNM listing are scanned or are forms/templates (e.g. feedback forms in `.doc`, `.xlsx` templates). These are listed as attachments but their text was not analysed.
    - I was not able to confirm legal status (e.g. whether a specific SAC ruling is binding on a particular institution) beyond what BNM's own pages say.
@@ -1796,6 +1797,1005 @@ Source listing: https://www.bnm.gov.my/standardsandguidelines. "Introductory tex
 
 ---
 
+## 6. Bahasa Malaysia (Malay) SAC resolutions and statements
+
+Source: the Malay version of BNM's SAC "Kemas Kini" (Updates) page, https://www.bnm.gov.my/committees/sac/updates (language set to Bahasa Malaysia), and the Malay (BM) PDFs it links. The Malay listing has the same 67 entries as the English listing. 
+
+How BNM presents the Malay text (this affects what could be reproduced):
+- **2021–2026 entries (mostly)** have a **dedicated Malay page** (slug ending `-bm`, or a Malay title) and a **Malay PDF**. These are reproduced below in Malay.
+- **2018–2020 meeting summaries** (and a few 2021 ones) use a single bilingual page: the English paragraph is followed by a Malay paragraph, and they have an English and a BM PDF. The Malay paragraphs are extracted below; the BM PDF is linked and its opening extracted.
+- **2013–2017 entries** (134th–177th meetings): the page is in English and, for most, the attached PDF is an **Arabic** version (not Malay). The one exception is the 135th meeting, which has a separate Malay page (*Mesyuarat MPS ke-135*). For the rest I found **no Bahasa Malaysia text on the BNM website**; they are marked accordingly. Malay versions of the 2011–2017 resolutions may exist in the 3rd edition compilation (*Kompilasi Keputusan Syariah*, Appendix B), but I have not checked entry-by-entry.
+- Some Malay pages and PDFs spell the term "Shariah" and others "Syariah"; the text is reproduced as published.
+
+### 6.1 Index – Malay listing (67 entries)
+
+| # | Tarikh (listed) | Tajuk (BM listing title) | Malay page | BM text available? |
+|---|---|---|---|---|
+| 1 | 3 Jul 2026 | Pernyataan Majlis Penasihat Shariah Bank Negara Malaysia (MPS) tentang Pengenaan Fi Pendahuluan Tunai dan Fi Tahunan Kad Kredit-i serta Perkara Berban… | https://www.bnm.gov.my/-/sacbnm-mtg250-bm | Page + PDF |
+| 2 | 19 Dis 2025 | Pernyataan Majlis Penasihat Shariah Bank Negara Malaysia (MPS) dan Standard bawah Seksyen 29(1) Akta Perkhidmatan Kewangan Islam 2013 (APKI) dan Seksy… | https://www.bnm.gov.my/-/sacbnm-mtg-1225-bm | PDF |
+| 3 | 17 Okt 2025 | Pernyataan Majlis Penasihat Shariah Bank Negara Malaysia (MPS) dan Standard bawah Seksyen 29(1) Akta Perkhidmatan Kewangan Islam 2013 (APKI) dan Seksy… | https://www.bnm.gov.my/-/sacbnm-mtg-249-bm | PDF |
+| 4 | 17 Okt 2025 | Ringkasan Pernyataan Majlis Penasihat Shariah Bank Negara Malaysia (MPS) dan Standard bawah Seksyen 29(1) Akta Perkhidmatan Kewangan Islam 2013 (APKI)… | https://www.bnm.gov.my/-/sacbnm-mtg-247-bm | PDF |
+| 5 | 17 Okt 2025 | Ringkasan Pernyataan Majlis Penasihat Shariah Bank Negara Malaysia (MPS) dan Standard bawah Seksyen 29(1) Akta Perkhidmatan Kewangan Islam 2013 (APKI)… | https://www.bnm.gov.my/-/sacbnm-mtg-245-247-bm | PDF |
+| 6 | 17 Okt 2025 | Pernyataan Majlis Penasihat Shariah Bank Negara Malaysia (MPS) tentang Kemudahan Pendanaan bagi Penyelesaian Pembayaran Runcit (FRPS) Melalui Sistem P… | https://www.bnm.gov.my/-/sacbnm-mtg-230-234-235-bm | PDF |
+| 7 | 17 Okt 2025 | Pernyataan Majlis Penasihat Shariah Bank Negara Malaysia (MPS) dan Standard bawah Seksyen 29(1) Akta Perkhidmatan Kewangan Islam 2013 (APKI) dan Seksy… | https://www.bnm.gov.my/-/sacbnm-mtg-239-bm | PDF |
+| 8 | 16 Jul 2024 | Ringkasan Keputusan Majlis Penasihat Shariah (MPS) Bank Negara Malaysia Berhubung dengan Pelaksanaan Ciri-ciri Baharu Instrumen Perjanjian Jual dan Be… | https://www.bnm.gov.my/-/sacbnm-239-mtg-ruling-bm | Page + PDF |
+| 9 | 31 Mei 2024 | Keputusan Majlis Penasihat Shariah Bank Negara Malaysia (MPS) berhubung Parameter Syariah bagi Pemindahan Dana untuk Tujuan Pendanaan dan Pengurusan R… | https://www.bnm.gov.my/-/sacbnm-217-mtg-ruling-bm | Page + PDF |
+| 10 | 29 Mei 2024 | Ringkasan Keputusan Majlis Penasihat Shariah (MPS): Pengeluaran Terbitan Pelaburan Kerajaan Malaysia (MGII) Berdasarkan Konsep Wakalah | https://www.bnm.gov.my/-/ringkasan-keputusan-majlis-penasihat-shariah-mps-pengeluaran-terbitan-pelaburan-kerajaan-malaysia-mgii-berdasarkan-konsep-wakalah | Page |
+| 11 | 29 Mei 2024 | Keputusan Majlis Penasihat Shariah Bank Negara Malaysia (MPS) berhubung dengan Lindung Nilai Jangkaan | https://www.bnm.gov.my/-/sacbnm-234mtg-ruling-bm | Page + PDF |
+| 12 | 24 Jan 2024 | Keputusan Majlis Penasihat Shariah BNM berhubung Kemudahan Beli Sekarang Bayar Kemudian | https://www.bnm.gov.my/-/sac-ruling-bnpl-bm | Page + PDF |
+| 13 | 5 Jan 2024 | Keputusan Majlis Penasihat Shariah BNM berhubung Pengagihan Risiko Takaful Secara Alir Keluar kepada Syarikat Insurans dalam Situasi Kesukaran | https://www.bnm.gov.my/-/sacbnm-226mtg-ruling-bm | Page + PDF |
+| 14 | 25 Jan 2023 | Pelantikan Ahli-ahli Majlis Penasihat Shariah Bank Negara Malaysia | https://www.bnm.gov.my/-/reappointment-sacbnm-members-2023-bm | Page |
+| 15 | — | Ruling of the Bank's Shariah Advisory Council | https://www.bnm.gov.my/-/keputusan-mesyuarat-majlis-penasihat-shariah-bnm-ke-218 | Page + PDF |
+| 16 | 27 Dis 2021 | Keputusan Mesyuarat Majlis Penasihat Shariah BNM ke-217 | https://www.bnm.gov.my/-/bnm-sac-217th-mtg-ruling-bm | Page + PDF |
+| 17 | — | Ruling of the Bank's Shariah Advisory Council | https://www.bnm.gov.my/-/sac20210708 | Page + PDF |
+| 18 | — | Ruling of the Bank's Shariah Advisory Council on the Adoption of Risk-Free Rate | https://www.bnm.gov.my/-/ruling-of-the-bank-s-shariah-advisory-council-on-the-adoption-of-risk-free-rate | Page + PDF |
+| 19 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 30th Special meeting (revised on 16 October 2020) | https://www.bnm.gov.my/-/the-shariah-advisory-council-of-bank-negara-malaysia-the-sac-30th-special-meeting-1 | Page |
+| 20 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 190th Meeting | https://www.bnm.gov.my/-/sac-190th-meeting | Page + PDF |
+| 21 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 194th and 195th Meeting | https://www.bnm.gov.my/-/mesyuarat-ke-194-195-majlis-penasihat-shariah-bank-negara-malaysia | Page + PDF |
+| 22 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 194th Meeting | https://www.bnm.gov.my/-/sac-194th-meeting | Page + PDF |
+| 23 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 191st Meeting | https://www.bnm.gov.my/-/sac-191st-meeting | Page + PDF |
+| 24 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 188th Meeting | https://www.bnm.gov.my/-/sac-188th-meeting | Page + PDF |
+| 25 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 187th Meeting | https://www.bnm.gov.my/-/sac-187th-meeting | Page + PDF |
+| 26 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 186th Meeting | https://www.bnm.gov.my/-/sac186th-meeting | Page + PDF |
+| 27 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 182nd Meeting | https://www.bnm.gov.my/-/sac-182nd-meeting | Page + PDF |
+| 28 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 181st Meeting | https://www.bnm.gov.my/-/sac-181st-meeting | Page + PDF |
+| 29 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 179th Meeting | https://www.bnm.gov.my/-/sac-179th-meeting | Page + PDF |
+| 30 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 178th Meeting | https://www.bnm.gov.my/-/sac-178th-meeting | Page + PDF |
+| 31 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 177th Meeting | https://www.bnm.gov.my/-/sac-177th-meeting | No (English only on page) |
+| 32 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 176th Meeting | https://www.bnm.gov.my/-/sac-176th-meeting | No (English only on page) |
+| 33 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 174th Meeting | https://www.bnm.gov.my/-/sac-174th-meeting | No (English only on page) |
+| 34 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 173rd Meeting | https://www.bnm.gov.my/-/sac-173rd-meeting | No (English only on page) |
+| 35 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 172nd Meeting | https://www.bnm.gov.my/-/sac-172nd-meeting | No (English only on page) |
+| 36 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 170th Meeting | https://www.bnm.gov.my/-/sac-170th-meeting | No (English only on page) |
+| 37 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 169th Meeting | https://www.bnm.gov.my/-/sac-169th-meeting | No (English only on page) |
+| 38 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 168th Meeting | https://www.bnm.gov.my/-/sac-168th-meeting | No (English only on page) |
+| 39 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 167th Meeting | https://www.bnm.gov.my/-/sac-167th-meeting | No (English only on page) |
+| 40 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 166th Meeting | https://www.bnm.gov.my/-/sac-166th-meeting | No (English only on page) |
+| 41 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 165th Meeting | https://www.bnm.gov.my/-/sac-165th-meeting | No (English only on page) |
+| 42 | — | Shariah Staff Working Paper | https://www.bnm.gov.my/-/shariah-staff-working-paper | No Malay text (page English; PDF Arabic/English) |
+| 43 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 162nd Meeting | https://www.bnm.gov.my/-/sac-162nd-meeting | No (English only on page) |
+| 44 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 160th Meeting | https://www.bnm.gov.my/-/sac-160th-meeting | No Malay text (page English; PDF Arabic/English) |
+| 45 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 159th Meeting | https://www.bnm.gov.my/-/sac-159th-meeting | No (English only on page) |
+| 46 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 158th Meeting | https://www.bnm.gov.my/-/sac-158th-meeting | No (English only on page) |
+| 47 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 157th Meeting | https://www.bnm.gov.my/-/sac-157th-meeting | No (English only on page) |
+| 48 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 156th Meeting | https://www.bnm.gov.my/-/sac-156th-meeting | No Malay text (page English; PDF Arabic/English) |
+| 49 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 155th Meeting | https://www.bnm.gov.my/-/sac-155th-meeting | No Malay text (page English; PDF Arabic/English) |
+| 50 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 154th Meeting | https://www.bnm.gov.my/-/sac-154th-meeting | No Malay text (page English; PDF Arabic/English) |
+| 51 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 153rd Meeting | https://www.bnm.gov.my/-/sac-153rd-meeting | No Malay text (page English; PDF Arabic/English) |
+| 52 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 150th Meeting | https://www.bnm.gov.my/-/sac-150th-meeting | No Malay text (page English; PDF Arabic/English) |
+| 53 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 151st Meeting | https://www.bnm.gov.my/-/sac-151st-meeting | No Malay text (page English; PDF Arabic/English) |
+| 54 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 148th Meeting | https://www.bnm.gov.my/-/sac-148th-meeting-1 | No Malay text (page English; PDF Arabic/English) |
+| 55 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 147th Meeting | https://www.bnm.gov.my/-/sac-147th-meeting-1 | No Malay text (page English; PDF Arabic/English) |
+| 56 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 146th Meeting | https://www.bnm.gov.my/-/sac-146th-meeting | No Malay text (page English; PDF Arabic/English) |
+| 57 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 145th Meeting | https://www.bnm.gov.my/-/sac-145th-meeting | No Malay text (page English; PDF Arabic/English) |
+| 58 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 144th Meeting | https://www.bnm.gov.my/-/sac-144th-meeting | No Malay text (page English; PDF Arabic/English) |
+| 59 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 143rd Meeting | https://www.bnm.gov.my/-/sac-143rd-meeting | No Malay text (page English; PDF Arabic/English) |
+| 60 | — | Exposure Drafts on Islamic Financial Contracts (Shariah Requirements and Optional Practices) | https://www.bnm.gov.my/-/exposure-drafts-on-islamic-financial-contracts-shariah-requirements-and-optional-practices-3 | No Malay text (page English; PDF Arabic/English) |
+| 61 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 142nd Meeting | https://www.bnm.gov.my/-/sac-142nd-meeting | No Malay text (page English; PDF Arabic/English) |
+| 62 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 141st Meeting | https://www.bnm.gov.my/-/sac-141st-meeting | No (English only on page) |
+| 63 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 140th Meeting | https://www.bnm.gov.my/-/sac-140th-meeting | No Malay text (page English; PDF Arabic/English) |
+| 64 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 139th Meeting | https://www.bnm.gov.my/-/sac-139th-meeting | No Malay text (page English; PDF Arabic/English) |
+| 65 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 135th Meeting | https://www.bnm.gov.my/-/sac-135th-meeting | No Malay text (page English; PDF Arabic/English) |
+| 66 | — | Mesyuarat MPS ke-135 (28 Mei 2013) | https://www.bnm.gov.my/-/mesyuarat-sac-135 | Page |
+| 67 | — | The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 134th Meeting | https://www.bnm.gov.my/-/sac-134th-meeting | No Malay text (page English; PDF Arabic/English) |
+
+### 6.2 Detailed entries (Bahasa Malaysia)
+
+#### 6.2.1 Pernyataan Majlis Penasihat Shariah Bank Negara Malaysia (MPS) tentang Pengenaan Fi Pendahuluan Tunai dan Fi Tahunan Kad Kredit-i serta Perkara Berbangkit berhubung dengan Kad Kredit-i Ujrah dan Tawarruq
+
+- **Tarikh (listed):** 3 Jul 2026
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sacbnm-mtg250-bm
+- **English counterpart:** https://www.bnm.gov.my/-/sacbnm-mtg250
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/12144436/Pernyataan_MPS_tentang_Kad+Kredit-i_Ujrah_dan_Kad_Kredit-i_Tawarruq.pdf
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> Pernyataan Majlis Penasihat Shariah (MPS) ini menetapkan parameter yang perlu dipatuhi oleh institusi kewangan Islam (IKI) dalam mengenakan fi pendahuluan tunai dan fi tahunan bagi produk kad kredit-i. Pernyataan ini juga memberikan kejelasan mengenai pelaksanaan kad kredit-i berasaskan ujrah dan tawarruq.  
+> Pengenaan Fi Pendahuluan Tunai dan Fi Tahunan Kad Kredit-i serta Perkara Berbangkit berhubung dengan Kad Kredit-i Ujrah dan Tawarruq  
+
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Bahagian I: Pernyataan MPS menurut seksyen 52(1)(a) Akta Bank Negara Malaysia 2009 MPS dalam mesyuarat ke-221 bertarikh 29 Mac 2022, mesyuarat yang ke-229 bertarikh 30 Mac 2023 dan mesyuarat yang ke-250 bertarikh 27 Ogos 2025 telah menetapkan perkara yang berikut: Fi Pendahuluan Tunai, Fi Tahunan dan Keutamaan Penyelesaian Baki Kad Kredit-i 1. Pengenaan fi bagi perkhidmatan pendahuluan/pengeluaran tunai hendaklah berdasarkan kos tetap dan/atau peratusan yang hanya merangkumi kos langsung sebenar yang ditanggung oleh institusi kewangan Islam (IKI) yang menawarkan perkhidmatan, tanpa sebarang elemen keuntungan atau tokokan (mark-up). Kaedah penentuan kos sebenar boleh dibuat berdasarkan anggaran yang munasabah sekiranya terdapat kesukaran untuk menentukan kos sebenar. 2. Pengenaan fi tahunan yang berbeza bagi jenis-jenis kad kredit-i yang menawarkan perkhidmatan, manfaat dan keistimewaan yang berbeza adalah dibenarkan, tertakluk pada syarat-syarat yang berikut: (i) Fi yang dikenakan mestilah merupakan imbalan bagi keseluruhan manfaat secara kolektif (bundled benefits) dan bukan semata-mata berdasarkan manfaat monetari seperti pulangan tunai (cashback) dan rebat; dan (ii) Manfaat monetari hendaklah tidak menjadi asas untuk membezakan fi tahunan setiap jenis kad. 3. Penyelesaian baki (iaitu item yang tertera pada penyata) mengikut kadar keuntungan atau fi, dengan item yang mempunyai kadar keuntungan atau fi tertinggi dibayar dahulu, adalah patuh Syariah. Pengiraan Ibra’ ke atas Ujrah dan Pengenaan Caj Kompaun dalam Kad Kredit-i berasaskan Ujrah 1. Pengiraan rebat (ibra’) bagi pengenaan ujrah efektif/sebenar berdasarkan baki tertunggak hutang hasil daripada kontrak pinjaman (qard) adalah tidak dibenarkan.. 2. Ujrah dan caj lewat bayar tidak boleh dikira secara kompaun (compounded). 1 Mesyuarat MPS 221, 229, dan 250 2026 Adaptasi Fiqah (takyif fiqhi) bagi Hasil Tawarruq dan Pembayaran Balik (Repayment) oleh Pemegang Kad dalam Kad Kredit-i Berasaskan Tawarruq 1. Takyif fiqhi qard, wadi`ah yad amanah, dayn, rahn dan wakalah bi al-daf` (wakil pembayaran) bagi hasil tawarruq dan pembayaran balik seterusnya oleh pemegang kad (selepas penggunaan kad) adalah dibenarkan. 2. Tiada elemen qard jarra naf`an (pinjaman yang memberikan manfaat kepada pemberi pinjaman) dalam takyif fiqhi qard memandangkan pinjaman tersebut bersifat sampingan (incidental) dan diadaptasi semata-mata untuk memudahkan operasi kredit pusingan. 3. IKI hendaklah memastikan pengoperasian produk kad kredit-i berasaskan tawarruq, termasuk dokumentasi perundangan dan pengolahan perakaunan, adalah selaras dengan takyif fiqhi yang diluluskan. Bahagian II: Peruntukan Undang-Undang dan Pemakaiannya 2.1 Bahagian 1 Pernyataan MPS dibuat menurut seksyen 52(1)(b) dan seksyen 55(1) Akta Bank Negara Malaysia 2009 (ABNM). 2.2 Bank Negara Malaysia (BNM) menetapkan Bahagian 1 Pernyataan MPS ini sebagai standard di bawah seksyen 29(1) APKI dan seksyen 33E(1) AIKP, berkuat kuasa 3 Julai 2026 dan terpakai pada IKI yang berikut: (i) bank Islam berlesen di bawah APKI; (ii) bank berlesen dan bank pelaburan berlesen yang diluluskan di bawah seksyen 15(1) Akta Perkhidmatan Kewangan 2013 (APK) untuk menjalankan perniagaan perbankan Islam; dan (iii) institusi yang ditetapkan dan diluluskan di bawah seksyen 33B(1) AIKP untuk menjalankan perniagaan kewangan Islam. 2.3 Pernyataan MPS ini hendaklah dibaca bersama dengan instrumen perundangan lain yang berkaitan serta dokumen dasar yang diterbitkan oleh BNM, khususnya Credit Card and Credit Card-i Policy Document yang diterbitkan pada 19 Disember 2025 (termasuk pindaan dari semasa ke semasa). Bahagian III: Latar Belakang Kad kredit-i berasaskan ujrah 3.1. Produk kad kredit-i berasaskan ujrah terdiri daripada dua kontrak Syariah utama iaitu qard dan ujrah. Qard merujuk kemudahan kredit yang ditawarkan oleh IKI kepada pemegang kad, manakala ujrah dikenakan ke atas perkhidmatan, manfaat dan keistimewaan. 2 Mesyuarat MPS 221, 229, dan 250 2026 3.2. MPS pada mesyuarat ke-77 bertarikh 3 Julai 2008 dan mesyuarat ke-78 bertarikh 30 Julai 2008 telah memutuskan bahawa kad kredit-i berasaskan ujrah adalah dibenarkan, tertakluk pada syarat-syarat tertentu.1 3.3. Namun timbul persoalan yang berbangkit daripada amalan semasa dalam pasaran sama ada – (i) Syariah membenarkan mekanisme pengiraan ibra’ bagi pengenaan ujrah efektif/sebenar dalam produk kad kredit-i berasaskan ujrah yang berdasarkan baki tertunggak hutang hasil daripada kontrak qard; (ii) Syaria…
+
+
+#### 6.2.2 Pernyataan Majlis Penasihat Shariah Bank Negara Malaysia (MPS) dan Standard bawah Seksyen 29(1) Akta Perkhidmatan Kewangan Islam 2013 (APKI) dan Seksyen 33E(1) Akta Institusi Kewangan Pembangunan 2002 (AIKP) tentang Pembelian Inventori Berdasarkan Kontrak Istisna` Secara Selari
+
+- **Tarikh (listed):** 19 Dis 2025
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sacbnm-mtg-1225-bm
+- **English counterpart:** https://www.bnm.gov.my/-/sacbnm-mtg-1225
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/38335/sacmtg_1225-bm.pdf/
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Bahagian I: Pernyataan MPS menurut seksyen 52(1)(a) Akta Bank Negara Malaysia 2009 MPS pada mesyuarat ke-245 bertarikh 23 Januari 2025 dan mesyuarat ke-247 bertarikh 29 April 2025, telah menetapkan bahawa cadangan struktur produk pembelian inventori berdasarkan kontrak istisna` secara selari adalah dibenarkan seperti yang berikut: 1. Struktur produk pembelian inventori melibatkan dua (2) urus niaga istisna` antara tiga (3) pihak berkontrak, iaitu Institusi Kewangan Islam (IKI), Pembeli Akhir dan Pengeluar yang merupakan pelanggan IKI: (i) Kontrak istisna` pertama adalah antara IKI dengan Pembeli Akhir, iaitu IKI bertindak sebagai penjual (sani`). Pengeluar bertindak sebagai wakil IKI untuk melaksanakan kontrak istisna` pertama dengan Pembeli Akhir; dan (ii) Kontrak istisna` kedua adalah antara IKI dengan Pengeluar, iaitu IKI merupakan pembeli (mustasni`), manakala, Pengeluar bertindak sebagai penjual (sani`). 2. Pelaksanaan struktur istisna` secara selari seperti yang dicadangkan perlu mematuhi syarat- syarat yang berikut: (i) Dua (2) kontrak istisna` tersebut perlu dilaksanakan secara terpisah dan tiada keterikatan antara keduanya. Pembatalan salah satu kontrak istisna` tidak boleh menyebabkan pembatalan kontrak istisna` yang satu lagi; (ii) Pengaturan wakalah antara IKI dengan Pengeluar untuk melaksanakan kontrak istisna` pertama perlu terpisah dengan kontrak istisna` kedua dan tiada keterikatan antara keduanya. Pembatalan kontrak istisna` kedua tidak boleh menggugurkan tanggungjawab IKI dalam kontrak istisna` pertama; dan (iii) Sekiranya struktur istisna` secara selari tersebut melibatkan pengaturan kontrak kafalah (jaminan) daripada Pengeluar, maka pelaksanaan kontrak kafalah tersebut perlu terpisah daripada kontrak-kontrak lain. Bahagian II: Peruntukan Undang-Undang dan Pemakaiannya 2.1. Bahagian 1 Pernyataan MPS ini dibuat menurut seksyen 52(1)(a) Akta Bank Negara Malaysia 2009 (ABNM) dan seksyen 55(2)(a) ABNM. 1 Mesyuarat MPS ke-245 dan 247 2025 2.2. Bank Negara Malaysia menetapkan Bahagian 1 Pernyataan MPS ini sebagai standard di bawah seksyen 29(1) APKI dan seksyen 33E(1) AIKP, berkuat kuasa pada 17 Oktober 2025 dan terpakai pada IKI berikut: (i) bank Islam berlesen bawah APKI; (ii) bank berlesen dan bank pelaburan berlesen yang diluluskan di bawah seksyen 15(1) Akta Perkhidmatan Kewangan 2013 (APK) untuk menjalankan perniagaan perbankan Islam; dan (iii) institusi yang ditetapkan dan diluluskan di bawah seksyen 33B(1) AIKP untuk menjalankan perniagaan kewangan Islam. Bahagian III: Latar Belakang 3.1. Produk pembelian inventori yang menggunakan kontrak istisna` secara selari merupakan produk pembiayaan modal kerja patuh Syariah. Pembelian ini melibatkan pembelian inventori masa hadapan oleh IKI daripada Pengeluar bersandarkan pada pesanan belian oleh Pembeli Akhir. 3.2. Berdasarkan pesanan belian tersebut, IKI akan membuat sebahagian daripada bayaran pendahuluan kepada Pengeluar sebagai modal kerja untuk memulakan kerja pemprosesan barang yang dipesan sebelum dihantar kepada IKI dan seterusnya kepada Pembeli Akhir. 3.3. Antara ciri unik yang ditawarkan melalui produk ini ialah pembiayaan yang diberikan kepada Pengeluar tidak akan direkodkan sebagai hutang jangka pendek dalam penyata kewangan Pengeluar. Sebaliknya, pembiayaan ini akan direkodkan sebagai liabiliti semasa iaitu bayaran pendahuluan yang diterima daripada IKI untuk penghantaran aset pada masa hadapan yang mencerminkan urus niaga istisna` sebenar. Struktur Produk Pembelian Inventori Berdasarkan Kontrak Istisna` Secara Selari 3.4. Struktur produk ini melibatkan dua (2) urus niaga istisna` antara tiga (3) pihak berkontrak, iaitu IKI, Pembeli Akhir dan Pengeluar yang merupakan pelanggan IKI. Urus Niaga Istisna` Pertama 3.5. Apabila terdapat pesanan belian daripada Pembeli Akhir, Pengeluar akan menyerahkan pesanan belian tersebut kepada IKI untuk penilaian dan kelulusan pembiayaan. Sekiranya diluluskan, IKI akan melantik Pengeluar sebagai wakil yang tidak didedahkan (undisclosed agent) untuk melaksanakan kontrak istisna` pertama dengan Pembeli Akhir. Sila rujuk Rajah 1 bagi ilustrasi kontrak istisna` pertama. 2 Mesyuarat MPS ke-245 dan 247 2025 Rajah 1: Ilustrasi kontrak istisna` pertama Urus Niaga Istisna` Kedua 3.6. Seterusnya, IKI akan melaksanakan kontrak istisna` kedua dengan Pengeluar dan membayar sebahagian daripada harga istisna` kedua secara tunai sebagai modal kerja bagi membiayai kerja pemprosesan aset istisna`. Sila rujuk Rajah 2 bagi ilust…
+
+
+#### 6.2.3 Pernyataan Majlis Penasihat Shariah Bank Negara Malaysia (MPS) dan Standard bawah Seksyen 29(1) Akta Perkhidmatan Kewangan Islam 2013 (APKI) dan Seksyen 33E(1) Akta Institusi Kewangan Pembangunan 2002 (AIKP) tentang Perlindungan Insurans Korporat oleh Institusi Kewangan Islam
+
+- **Tarikh (listed):** 17 Okt 2025
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sacbnm-mtg-249-bm
+- **English counterpart:** https://www.bnm.gov.my/-/sacbnm-mtg-249
+- **PDF (BM):** https://bnm.gov.my/documents/20124/38335/sacbnm-mtg-249-bm.pdf
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Bahagian I: Pernyataan MPS menurut seksyen 52(1)(a) Akta Bank Negara Malaysia 2009 MPS dalam mesyuarat yang ke-249 bertarikh 24 Julai 2025 telah menetapkan bahawa parameter yang berikut hendaklah dipatuhi oleh Institusi Kewangan Islam (IKI) apabila mendapatkan perlindungan insurans korporat: 1. Menurut prinsip umum, IKI hanya dibenarkan untuk menggunakan produk konvensional sekiranya terdapat kesukaran nyata yang memenuhi prasyarat dan parameter seperti yang digariskan dalam Dokumen Dasar Hajah dan Darurah.1 2. IKI dibenarkan untuk mendapatkan perlindungan insurans bagi tujuan melindungi risiko korporat, tertakluk pada pematuhan parameter spesifik yang berikut: (i) Usaha yang sewajarnya telah diambil untuk memastikan tidak ada pengendali takaful yang mampu, bersedia atau mempunyai kapasiti untuk menaja jamin (underwrite) risiko tertentu bagi setiap kelas perniagaan yang memerlukan perlindungan; (ii) Usaha yang sewajarnya telah diambil oleh IKI untuk mendapatkan pengaturan yang mematuhi Syariah dengan syarikat induk atau kumpulan, namun disahkan oleh IKI sebagai tidak praktikal untuk dilaksanakan; dan (iii) Harga insurans hendaklah jauh lebih rendah berbanding dengan harga takaful, walau bagaimanapun: (a) Harga insurans sahaja tidak boleh dijadikan satu-satunya alasan untuk mendapatkan perlindungan insurans berbanding takaful; dan (b) Jawatankuasa Syariah IKI hendaklah meneliti dan membuat pertimbangan yang sewajarnya terhadap kesesuaian harga takaful yang ditawarkan oleh pengendali takaful. MPS turut memutuskan bahawa penggunaan perlindungan insurans korporat untuk melindungi risiko IKI dalam situasi yang dinyatakan di atas, dikategorikan sebagai hajah type 2 menurut Dokumen Dasar Hajah dan Darurah. 1 Dikeluarkan oleh Bank Negara Malaysia pada 3 Januari 2024 (BNM/RH/PD 028-129). 1 Mesyuarat MPS ke-249 2025 Bahagian II: Peruntukan Undang-Undang dan Pemakaiannya 2.1 Bahagian 1 Pernyataan MPS dibuat menurut seksyen 52(1)(a) dan seksyen 55(2)(a) Akta Bank Negara Malaysia 2009 (ABNM). 2.2 Bank Negara Malaysia menetapkan bahagian 1 Pernyataan MPS sebagai standard bawah seksyen 29(1) APKI dan seksyen 33E(1) AIKP, berkuat kuasa 2 Januari 2026, dan terpakai pada IKI yang berikut: (i) bank Islam berlesen bawah APKI; (ii) pengendali takaful berlesen bawah APKI termasuk pengendali takaful semula profesional; (iii) bank berlesen dan bank pelaburan berlesen yang diluluskan bawah seksyen 15(1) Akta Perkhidmatan Kewangan 2013 (APK) untuk menjalankan perniagaan perbankan Islam; dan (iv) institusi yang ditetapkan dan diluluskan bawah seksyen 33B(1) AIKP untuk menjalankan perniagaan kewangan Islam. Bahagian III: Latar Belakang 3.1 Perlindungan insurans atau takaful korporat bermaksud rangkaian produk insurans atau takaful yang melindungi syarikat korporat daripada pelbagai risiko, dan IKI mengambilnya sebagai sebahagian daripada pengurusan risiko institusi. Liputan perlindungan ini merangkumi jenayah komersial, liabiliti yang ditanggung pengarah dan pegawai serta keselamatan siber. 3.2 Dalam konteks kumpulan kewangan, perlindungan insurans atau takaful korporat secara menyeluruh lazimnya diperoleh pada peringkat induk atau kumpulan untuk perlindungan semua anak syarikatnya. Walaupun IKI telah berusaha untuk mendapatkan perlindungan takaful secara kendiri (stand-alone), IKI telah mengesahkan bahawa pendekatan tersebut adalah tidak praktikal, tidak tersedia, perlindungan yang tidak mencukupi atau menyebabkan kos tambahan. 3.3 MPS berpandangan bahawa terdapat keperluan untuk menetapkan parameter yang perlu dipatuhi oleh IKI dalam menentukan keharusan perlindungan insurans korporat, dengan mengambil kira penawaran pasaran takaful bagi setiap kelas perniagaan bawah perlindungan takaful korporat. Isu Syariah 3.4 MPS telah mempertimbangkan tentang keperluan untuk memberikan kejelasan Syariah berhubung dengan situasi yang membolehkan IKI mendapatkan perlindungan insurans korporat setelah segala usaha untuk mendapatkan perlindungan takaful telah dilaksanakan oleh IKI dan kesesuaian pengelasan penggunaan keperluan ini sebagai hajah type 2 berdasarkan Dokumen Dasar Hajah dan Darurah. MPS turut membincangkan sama ada faktor perbezaan harga antara produk takaful dengan 2 Mesyuarat MPS ke-249 2025 insurans boleh dijadikan pertimbangan yang sah untuk menggunakan hajah, dengan syarat faktor tersebut bukan satu-satunya justifikasi yang digunakan. Bahagian IV: Perbincangan Utama 4.1 Secara prinsip, IKI perlu memastikan semua pengendalian, hal ehwal dan …
+
+
+#### 6.2.4 Ringkasan Pernyataan Majlis Penasihat Shariah Bank Negara Malaysia (MPS) dan Standard bawah Seksyen 29(1) Akta Perkhidmatan Kewangan Islam 2013 (APKI) dan Seksyen 33E(1) Akta Institusi Kewangan Pembangunan 2002 (AIKP) tentang Cadangan Produk Pembiayaan Padi Berdasarkan Kontrak Bai` Salam
+
+- **Tarikh (listed):** 17 Okt 2025
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sacbnm-mtg-247-bm
+- **English counterpart:** https://www.bnm.gov.my/-/sacbnm-mtg-247
+- **PDF (BM):** https://bnm.gov.my/documents/20124/38335/sacbnm-mtg-247-bm.pdf
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Bahagian I: Pernyataan MPS menurut seksyen 52(1)(a) Akta Bank Negara Malaysia 2009 MPS pada mesyuarat yang ke-247 bertarikh 29 April 2025, telah menetapkan bahawa cadangan struktur bagi produk pembiayaan padi berdasarkan kontrak bai` salam1 (jualan hadapan) adalah dibenarkan, tertakluk pada syarat-syarat yang berikut: 1. Mekanisme istibdal 2 dibenarkan bagi menangani isu kegagalan penghantaran padi sekiranya berlaku penyelesaian awal, penstrukturan semula atau kecuaian3 oleh petani (pelanggan). Walau bagaimanapun, mekanisme ini hanya akan dianggap sebagai pengecualian dan bukanlah penyelesaian utama. Mekanisme ini tidak boleh menjadi sebahagian daripada ciri produk untuk dipromosikan kepada pelanggan; 2. Bagi penstrukturan semula apabila jumlah pembiayaan tertunggak masih berada dalam lingkungan harga pasaran komoditi semasa, istibdal boleh dilaksanakan pada harga pasaran semasa tanpa melibatkan aturan tawarruq. Bagi melaksanakan perkara ini, institusi kewangan Islam (IKI) dan petani boleh bersetuju dengan pelan pembayaran tertangguh bagi menyelesaikan hutang daripada istibdal tersebut serta petani hendaklah diberikan ibra’ (rebat) yang sewajarnya; dan 3. Apabila jumlah pembiayaan tertunggak melebihi harga pasaran komoditi semasa, penstrukturan semula dengan tawarruq dibenarkan berdasarkan panduan ketetapan hukum Syarak oleh MPS yang sedia ada berkenaan dengan penjadualan semula dan penstrukturan semula.4 Bahagian II: Peruntukan Undang-Undang dan Pemakaiannya 2.1. Bahagian 1 Pernyataan MPS ini dibuat menurut seksyen 52(1)(a) Akta Bank Negara Malaysia 2009 (ABNM) dan seksyen 55(2)(a) ABNM. 1 Kontrak bai` salam ialah perjanjian jualan hadapan iaitu penjual bersetuju untuk menyerahkan komoditi yang ditentukan pada tarikh akan datang sebagai balasan kepada bayaran penuh yang dibuat pada awal perjanjian. Komoditi, kuantiti, kualiti dan tarikh penghantaran telah ditetapkan terlebih dahulu dalam kontrak. 2 Istibdal dalam kontrak bai` salam merujuk penggantian atau pertukaran komoditi yang telah dipersetujui pada awalnya dengan sesuatu yang lain. Dalam konteks dokumen ini, istibdal merujuk penggantian hutang komoditi (padi) dengan wang. 3 Definisi kecuaian dalam kes kegagalan penghantaran padi oleh petani bergantung pada status ketersediaan padi dalam pasaran. Petani dianggap cuai sekiranya gagal menghantar padi sedangkan bekalan padi masih tersedia dalam pasaran. 4 Contoh Pernyataan MPS terpakai yang perlu dipatuhi semasa penstrukturan semula ialah larangan penggandaan keuntungan seperti yang diputuskan dalam mesyuarat MPS ke-214 pada 30 Jun 2021. Keputusan tersebut menyatakan bahawa IKI tidak boleh memasukkan keuntungan terkumpul daripada pembiayaan asal ke dalam jumlah prinsipal baharu pembiayaan penstrukturan semula dan penjadualan semula (R&R). 1 TERHAD Mesyuarat MPS ke-247 2025 2.2. Bank Negara Malaysia menetapkan Bahagian 1 Pernyataan MPS sebagai standard di bawah seksyen 29(1) APKI dan seksyen 33E(1) AIKP, berkuat kuasa 17 Oktober 2025 dan terpakai kepada IKI yang berikut: (i) bank Islam berlesen bawah APKI; (ii) bank berlesen dan bank pelaburan berlesen yang diluluskan bawah seksyen 15(1) Akta Perkhidmatan Kewangan 2013 (APK) untuk menjalankan perniagaan perbankan Islam; dan (iii) institusi yang ditetapkan dan diluluskan di bawah seksyen 33B(1) AIKP untuk menjalankan perniagaan kewangan Islam. Sekiranya terdapat sebarang percanggahan antara versi Bahasa Inggeris dengan Bahasa Melayu, versi Bahasa Melayu akan diutamakan. 2 TERHAD
+
+
+#### 6.2.5 Ringkasan Pernyataan Majlis Penasihat Shariah Bank Negara Malaysia (MPS) dan Standard bawah Seksyen 29(1) Akta Perkhidmatan Kewangan Islam 2013 (APKI) dan Seksyen 33E(1) Akta Institusi Kewangan Pembangunan 2002 (AIKP) tentang Pembelian Inventori Berdasarkan Kontrak Istisna` Secara Selari
+
+- **Tarikh (listed):** 17 Okt 2025
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sacbnm-mtg-245-247-bm
+- **English counterpart:** https://www.bnm.gov.my/-/sacbnm-mtg-245-247
+- **PDF (BM):** https://bnm.gov.my/documents/20124/38335/sacbnm-mtg-245-247-bm.pdf
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Bahagian I: Pernyataan MPS menurut seksyen 52(1)(a) Akta Bank Negara Malaysia 2009 MPS pada mesyuarat ke-245 bertarikh 23 Januari 2025 dan mesyuarat ke-247 bertarikh 29 April 2025, telah menetapkan bahawa cadangan struktur produk pembelian inventori berdasarkan kontrak istisna` secara selari adalah dibenarkan, seperti yang berikut: 1. Struktur produk pembelian inventori melibatkan dua (2) urus niaga istisna` antara tiga (3) pihak berkontrak, iaitu institusi Kewangan Islam (IKI), Pembeli Akhir dan Pengeluar yang juga merupakan pelanggan IKI: (i) Kontrak istisna` pertama adalah antara IKI dengan Pembeli Akhir, iaitu IKI bertindak sebagai penjual (sani`). Pengeluar bertindak sebagai wakil IKI untuk melaksanakan kontrak istisna` pertama dengan Pembeli Akhir; dan (ii) Kontrak istisna` kedua adalah antara IKI dengan Pengeluar, iaitu IKI merupakan pembeli (mustasni`) manakala Pengeluar bertindak sebagai penjual (sani`). 2. Pelaksanaan struktur istisna` secara selari yang dicadangkan perlu mematuhi syarat-syarat yang berikut: (i) Dua (2) kontrak istisna` tersebut perlu dilaksanakan secara terpisah dan tiada keterikatan antara keduanya. Pembatalan salah satu kontrak istisna` tidak boleh menyebabkan pembatalan kontrak istisna` yang satu lagi; (ii) Pengaturan wakalah antara IKI dengan Pengeluar untuk melaksanakan kontrak istisna` pertama perlu terpisah daripada kontrak istisna` kedua dan tiada keterikatan antara keduanya. Pembatalan kontrak istisna` kedua tidak boleh menggugurkan obligasi IKI dalam kontrak istisna` pertama; dan (iii) Sekiranya struktur istisna` secara selari tersebut melibatkan pengaturan kafalah (jaminan) daripada Pengeluar, maka pelaksanaan kontrak kafalah tersebut perlu terpisah daripada kontrak-kontrak lain. Bahagian II: Peruntukan Undang-Undang dan Pemakaiannya 2.1. Bahagian 1 Pernyataan MPS ini dibuat menurut seksyen 52(1)(a) Akta Bank Negara Malaysia 2009 (ABNM) dan seksyen 55(2)(a) ABNM. 2.2. Bank Negara Malaysia menetapkan Bahagian 1 Pernyataan MPS ini sebagai standard bawah seksyen 29(1) APKI dan seksyen 33E(1) AIKP, berkuat kuasa 17 Oktober 2025 dan terpakai Mesyuarat MPS ke-245 & 247 2025 pada IKI yang berikut: (i) bank Islam berlesen bawah APKI; (ii) bank berlesen dan bank pelaburan berlesen yang diluluskan bawah seksyen 15(1) Akta Perkhidmatan Kewangan 2013 (APK) untuk menjalankan perniagaan perbankan Islam; dan (iii) institusi yang ditetapkan dan diluluskan di bawah seksyen 33B(1) AIKP untuk menjalankan perniagaan kewangan Islam. Sekiranya terdapat sebarang percanggahan antara versi bahasa Inggeris dengan bahasa Melayu, versi bahasa Melayu akan diutamakan.
+
+
+#### 6.2.6 Pernyataan Majlis Penasihat Shariah Bank Negara Malaysia (MPS) tentang Kemudahan Pendanaan bagi Penyelesaian Pembayaran Runcit (FRPS) Melalui Sistem Pemindahan Dana dan Sekuriti Secara Elektronik Masa Nyata (RENTAS)
+
+- **Tarikh (listed):** 17 Okt 2025
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sacbnm-mtg-230-234-235-bm
+- **English counterpart:** https://www.bnm.gov.my/-/sacbnm-mtg-230-234-235
+- **PDF (BM):** https://bnm.gov.my/documents/20124/38335/sacbnm-mtg-230-234-235-bm.pdf
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Bahagian I: Pernyataan MPS menurut seksyen 52(1)(b) Akta Bank Negara Malaysia 2009 Kemudahan Pendanaan bagi Penyelesaian Pembayaran Runcit (Funding Facility for Retail Payments Settlement, FRPS)1 ialah kemudahan pendanaan yang ditawarkan oleh Bank Negara Malaysia (BNM) kepada peserta Sistem Pemindahan Dana dan Sekuriti Secara Elektronik Masa Nyata (Real Time Electronic Transfer of Funds and Securities, RENTAS) yang tidak dapat melakukan penyelesaian runcit disebabkan oleh dana yang tidak mencukupi dalam akaun tunai RENTAS mereka. MPS pada mesyuarat yang ke-230 bertarikh 29 Mei 2023, mesyuarat ke-234 bertarikh 25 September 2023 dan mesyuarat ke-235 bertarikh 30 November 2023 telah menetapkan bahawa cadangan struktur FRPS yang berikut adalah patuh Syariah: 1. Penjualan mutlak sekuriti oleh institusi kewangan Islam (IKI) kepada BNM, dan pembelian mutlak sekuriti oleh IKI daripada BNM pada hari yang sama (FRPS intrahari) atau pada hari operasi2 RENTAS yang berikutnya (FRPS semalaman). 2. Penjualan dan pembelian sekuriti bagi kedua-dua transaksi dilakukan secara automatik melalui pelantikan BNM selaku wakil kepada IKI untuk melaksanakan transaksi tersebut dalam RENTAS. 3. Pemindahan pemilikan sekuriti dalam RENTAS berlaku dengan cara penjual melepaskan hak pemilikan (takhliyah), yang menyebabkan pembeli memiliki akses (tamkin) kepada sekuriti tersebut melalui serah terima konstruktif (qabd hukmi). Setiap transaksi jual beli dibuktikan melalui pemberitahuan daripada BNM kepada IKI. Pemberitahuan ini mengandungi butiran transaksi termasuk kod stok, amaun nominal, harga dan pihak berkontrak. Bahagian II: Peruntukan Undang-Undang dan Pemakaiannya 2.1. Bahagian I Pernyataan MPS ini dibuat menurut seksyen 52(1)(b) dan seksyen 55(1)(b) Akta Bank Negara Malaysia 2009 (ABNM). 2.2. Pernyataan MPS ini bertujuan memberikan penjelasan dari segi Syariah berhubung dengan keharusan FRPS dan mengesahkan bahawa penggunaan semasa kemudahan ini oleh IKI adalah patuh Syariah. 2.3. Pernyataan MPS ini hendaklah dibaca bersama instrumen perundangan lain yang berkaitan serta dokumen dasar yang telah diterbitkan oleh BNM, khususnya Operational Procedures 1 Sebelum ini dikenali sebagai Automated Collateralized Overnight Funding Facility (ACOFF). Nama ini ditukar bagi mencerminkan mekanisme dan kontrak Syariah yang mendasarinya. 2 Merujuk mana-mana hari kalendar dari Isnin hingga Jumaat, kecuali cuti umum di Wilayah Persekutuan Kuala Lumpur. 1 Mesyuarat MPS 230, 234 dan 235 2025 for Malaysian Ringgit (MYR) Settlement in the Real Time Electronic Transfer of Funds and Securities System (RENTAS) yang diterbitkan pada 29 September 2025 (termasuk pindaan dari semasa ke semasa). Bahagian III: Latar Belakang 3.1 FRPS merupakan kemudahan pendanaan yang disediakan oleh BNM kepada peserta RENTAS bagi memudahkan: (i) IKI membuat Penyelesaian Pembayaran Runcit (Retail Payments Settlement, RPS) dan Penyelesaian Petang MYR (MYR Evening Settlement); dan (ii) Institusi kewangan konvensional menguruskan Kredit Intrahari MYR yang belum dibayar pada tempoh tamat masa (cut-off time) RPS dan Penyelesaian Petang MYR. 3.2 Kemudahan ini diberikan melalui penjualan mutlak sekuriti berkelayakan daripada akaun K3 peserta kepada BNM. Kemudian, pembelian sekuriti oleh peserta yang sama dilaksanakan pada hari yang sama atau pada hari operasi RENTAS yang berikutnya. 3.3 Model semasa Penyelesaian Bersih Tertangguh (Deferred Net Settlement, DNS) bagi RPS mendedahkan peserta RENTAS kepada risiko kredit dan risiko penyelesaian. Bank penerima mengkreditkan akaun pelanggan pada masa nyata namun menerima dana daripada bank pembayar secara tertangguh (T+1 melalui dua tetingkap penyelesaian dalam RENTAS). 3.4 Dedahan kredit antara bank pembayar dengan bank penerima dijangka terus meningkat seiring dengan trend peningkatan transaksi RPS. Dedahan kredit yang tinggi kebiasaannya dilihat pada hujung minggu dan cuti umum kerana penyelesaian hanya berlaku pada hari operasi RENTAS yang berikutnya. Bagi menangani risiko ini, BNM telah memperkenalkan RPS pada hujung minggu dan cuti umum. 3.5 Dalam hal ini, MPS telah dirujuk berkenaan dengan cadangan mekanisme baharu FRPS yang melibatkan transaksi penjualan dan pembelian secara automatik menggunakan kontrak wakalah seperti yang berikut: (i) Penjualan FRPS secara mutlak: Apabila baki dalam Akaun Penyelesaian MYR IKI berkurang, BNM bagi pihak IKI akan melaksanakan secara automatik penjualan mutlak sekuriti berkelayakan FRPS yang terdapat dalam akaun …
+
+
+#### 6.2.7 Pernyataan Majlis Penasihat Shariah Bank Negara Malaysia (MPS) dan Standard bawah Seksyen 29(1) Akta Perkhidmatan Kewangan Islam 2013 (APKI) dan Seksyen 33E(1) Akta Institusi Kewangan Pembangunan 2002 (AIKP) tentang Pelaksanaan Ciri-ciri Baharu Instrumen Perjanjian Jual dan Beli Balik
+
+- **Tarikh (listed):** 17 Okt 2025
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sacbnm-mtg-239-bm
+- **English counterpart:** https://www.bnm.gov.my/-/sacbnm-mtg-239
+- **PDF (BM):** https://bnm.gov.my/documents/20124/38335/sacbnm-mtg-239-bm.pdf
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Bahagian I: Pernyataan MPS Menurut Seksyen 52(1)(a) Akta Bank Negara Malaysia 2009 MPS pada mesyuarat yang ke-239 bertarikh 30 April 2024 telah menetapkan bahawa ciri-ciri baharu yang dicadangkan bagi instrumen SBBA seperti yang berikut adalah dibenarkan: 1. Pengurusan margin – Apabila terdapat pergerakan harga sekuriti pendasar yang berasaskan penilaian mengikut pasaran (mark-to-market), janji untuk menyediakan deposit sekuriti (wa`d bi hamish jiddiyyah) akan dicetuskan dan pihak yang berjanji (pembeli atau penjual, mengikut mana-mana yang berkenaan) dikehendaki memindahkan sejumlah wang tunai kepada rakan niaga (counterparty) sebagai deposit sekuriti untuk menjamin komitmen pihak yang berjanji untuk melaksanakan urus niaga peringkat kedua pada tarikh matang; 2. Pembayaran keuntungan – (i) Mekanisme 1– Pelaburan semula keuntungan: Amaun keuntungan yang diterima oleh pembeli SBBA akan ditolak daripada harga transaksi peringkat kedua pada tarikh matang. Harga tersebut akan dipersetujui secara bersama pada permulaan kontrak SBBA; dan (ii) Mekanisme 2 – Pemindahan keuntungan: Keuntungan yang dibayar oleh penerbit sekuriti kepada pembeli SBBA akan dipindahkan dengan serta-merta kepada penjual SBBA berdasarkan janji pembeli SBBA untuk memberikan hibah (wa`d bil hibah) kepada penjual pada tarikh pembayaran keuntungan. 3. Penggantian aset – Apabila berlaku peristiwa yang menyebabkan penggantian aset, pihak berkontrak SBBA bersetuju untuk mempercepat pelaksanaan transaksi peringkat kedua SBBA sebelum tarikh matang. Pihak berkontrak seterusnya akan memasuki kontrak SBBA baharu berdasarkan tarikh matang asal untuk menggantikan kontrak SBBA sedia ada. Pernyataan MPS berhubung dengan pelaksanaan ciri-ciri baharu instrumen SBBA ini hanya terpakai pada struktur dan kontrak Syariah yang dinyatakan dalam Pernyataan MPS ini sahaja. Sebarang cadangan pelaksanaan ciri baharu instrumen SBBA oleh institusi kewangan Islam (IKI) menggunakan struktur dan kontrak Syariah selain struktur atau kontrak Syariah yang dinyatakan dalam Pernyataan MPS ini perlu dirujuk kepada MPS bagi tujuan penentuan hukum Syarak. 1 Mesyuarat MPS ke-239 2024 Bahagian II: Peruntukan Undang-Undang dan Pemakaian 2.1. Bahagian I Pernyataan MPS ini dibuat menurut seksyen 52(1)(a) Akta Bank Negara Malaysia 2009 (ABNM) dan seksyen 55(2)(a) ABNM. 2.2. Bank Negara Malaysia menetapkan Bahagian I Pernyataan MPS ini sebagai standard bawah seksyen 29(1) APKI dan seksyen 33E(1) AIKP, berkuat kuasa 17 Oktober 2025, dan terpakai pada IKI yang berikut: (i) bank Islam berlesen bawah APKI; (ii) bank berlesen dan bank pelaburan berlesen yang diluluskan bawah seksyen 15(1) Akta Perkhidmatan Kewangan 2013 (APK) untuk menjalankan perniagaan perbankan Islam; dan (iii) institusi yang ditetapkan dan diluluskan bawah seksyen 33B(1) AIKP untuk menjalankan perniagaan kewangan Islam. Bahagian III: Latar Belakang 3.1. Perjanjian Jual dan Beli Balik (Sell and Buy Back Agreement, SBBA) ialah instrumen pasaran kewangan Islam yang melibatkan beberapa urus niaga berdasarkan aturan yang berikut: (i) penjualan mutlak sekuriti SBBA oleh penjual SBBA kepada pembeli SBBA berdasarkan prinsip Syariah jual beli (bai`) pada harga asal; (ii) suatu janji yang boleh berlaku dalam mana-mana bentuk yang berikut: (a) janji sebelah pihak (wa`d) oleh penjual SBBA untuk membeli balik sekuriti SBBA yang sama atau setara daripada pembeli SBBA pada tarikh hadapan berdasarkan harga jualan; (b) wa`d oleh pembeli SBBA untuk menjual sekuriti SBBA yang sama atau setara kepada penjual SBBA pada masa hadapan berdasarkan harga jualan; atau (c) janji dua hala (muwa`adah) oleh pembeli SBBA untuk menjual sekuriti SBBA dan janji oleh penjual SBBA untuk membeli balik sekuriti SBBA yang sama atau setara pada masa hadapan berdasarkan harga jualan; dan (iii) pembelian mutlak sekuriti SBBA yang sama atau setara oleh penjual SBBA daripada pembeli SBBA berdasarkan prinsip Syariah bai`. 3.2. Pada masa ini, transaksi SBBA masih kurang berkembang berbanding repo konvensional yang menyebabkan transaksi SBBA kurang aktif dalam pasaran repo antara bank. 3.3. Cabaran utama yang menghalang penggunaan SBBA secara meluas dalam kalangan peserta pasaran antara bank ialah struktur SBBA yang tidak selaras dengan standard Global Master Repurchase Agreement (GMRA) yang diterima pada peringkat global. 3.4. Usaha untuk mengharmonikan SBBA dengan standard GMRA adalah penting bagi meningkatkan penerimaan dan penggunaan SBBA pada peringkat global. Hal ini memb…
+
+
+#### 6.2.8 Ringkasan Keputusan Majlis Penasihat Shariah (MPS) Bank Negara Malaysia Berhubung dengan Pelaksanaan Ciri-ciri Baharu Instrumen Perjanjian Jual dan Beli Balik (Sell and Buy Back Agreement, SBBA)
+
+- **Tarikh (listed):** 16 Jul 2024
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sacbnm-239-mtg-ruling-bm
+- **English counterpart:** https://www.bnm.gov.my/-/sacbnm-239-mtg-ruling
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/13282254/Ringkasan-Keputusan-MPS-Berhubung-dengan-Pelaksanaan-Ciri-ciri-Baharu-Instrumen-SBBA.pdf
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> MPS pada mesyuaratnya ke-239 bertarikh 30 April 2024 telah memutuskan bahawa ciri-ciri baharu yang dicadangkan bagi instrumen SBBA seperti yang berikut adalah dibenarkan:  
+> Apabila terdapat pergerakan harga sekuriti pendasar (underlying securities) yang berasaskan penilaian yang dinilai mengikut pasaran (mark-to-market), perjanjian untuk menyediakan deposit sekuriti (wa`d bi hamish jiddiyyah) akan diaktifkan dan pihak yang berjanji (pembeli atau penjual, mengikut mana-mana yang berkenaan) dikehendaki memindahkan sejumlah wang tunai kepada rakan niaga (counterparty) sebagai deposit sekuriti untuk menjamin komitmen mereka melaksanakan urus niaga peringkat kedua pada tarikh matang;  
+> Amaun keuntungan yang diterima oleh pembeli SBBA akan ditolak daripada harga urus niaga peringkat kedua pada tarikh matang. Harga tersebut akan dipersetujui secara bersama pada permulaan kontrak SBBA; dan  
+> Keuntungan yang dibayar oleh penerbit sekuriti kepada pembeli SBBA akan dipindahkan dengan serta-merta kepada penjual SBBA berdasarkan janji pembeli SBBA untuk memberikan hibah (wa`d bil hibah) kepada penjual pada tarikh pembayaran keuntungan.  
+> Apabila berlaku peristiwa yang menyebabkan penggantian aset, pihak berkontrak SBBA bersetuju untuk mempercepat pelaksanaan urus niaga peringkat kedua SBBA sebelum tarikh matang. Pihak berkontrak seterusnya akan menandatangani kontrak SBBA baharu berdasarkan tarikh matang asal bagi menggantikan kontrak SBBA sedia ada.  
+> Keputusan MPS berhubung dengan pelaksanaan ciri-ciri baharu instrumen SBBA hanya terpakai pada struktur dan kontrak Syariah yang dinyatakan dalam keputusan ini. Sebarang cadangan pelaksanaan ciri-ciri baharu instrumen SBBA menggunakan struktur dan kontrak Syariah selain struktur atau kontrak Syariah yang dinyatakan dalam keputusan MPS ini perlu mendapatkan kelulusan MPS terlebih dahulu.  
+> bank-bank berlesen dan bank-bank pelaburan berlesen yang diluluskan di bawah seksyen 15(1) Akta Perkhidmatan Kewangan 2013 (APK) untuk menjalankan perniagaan kewangan Islam; dan  
+> institusi yang ditetapkan dan diluluskan di bawah seksyen 33B(1) Akta Institusi Kewangan Pembangunan 2002 (Development Financial Institutions Act, DFIA) untuk menjalankan perniagaan kewangan Islam.  
+
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Ringkasan Keputusan Majlis Penasihat Shariah Bank Negara Malaysia (MPS) Berhubung dengan Pelaksanaan Ciri-ciri Baharu Instrumen Perjanjian Jual dan Beli Balik (Sell and Buy Back Agreement, SBBA) Mesyuarat MPS ke-239 bertarikh 30 April 2024 Keputusan MPS, Tarikh Kuat Kuasa dan Penggunaan Menurut seksyen 52(1)(a) Akta Bank Negara Malaysia 2009, MPS telah memutuskan bahawa ciri-ciri baharu yang dicadangkan bagi instrumen SBBA seperti yang berikut adalah dibenarkan: 1. Pengurusan margin – Apabila terdapat pergerakan harga sekuriti pendasar yang berasaskan penilaian yang dinilai mengikut pasaran (mark-to-market), perjanjian untuk menyediakan deposit sekuriti (wa`d bi hamish jiddiyyah) akan diaktifkan dan pihak yang berjanji (pembeli atau penjual, mengikut mana-mana yang berkenaan) dikehendaki memindahkan sejumlah wang tunai kepada rakan niaga (counterparty) sebagai deposit sekuriti untuk menjamin komitmen mereka melaksanakan urus niaga peringkat kedua pada tarikh matang; 2. Pembayaran keuntungan – (a) Mekanisme 1: Pelaburan semula keuntungan: Amaun keuntungan yang diterima oleh pembeli SBBA akan ditolak daripada harga urus niaga peringkat kedua pada tarikh matang. Harga tersebut akan dipersetujui secara bersama pada permulaan kontrak SBBA; dan (b) Mekanisme 2: Pemindahan keuntungan: Keuntungan yang dibayar oleh penerbit sekuriti kepada pembeli SBBA akan dipindahkan dengan serta-merta kepada penjual SBBA berdasarkan janji pembeli SBBA untuk memberikan hibah (wa`d bil hibah) kepada penjual pada tarikh pembayaran keuntungan. 3. Penggantian aset – Apabila berlaku peristiwa yang menyebabkan penggantian aset, pihak berkontrak SBBA bersetuju untuk mempercepatkan pelaksanaan urus niaga peringkat kedua SBBA sebelum tarikh matang. Pihak berkontrak seterusnya akan memasuki kontrak SBBA baharu berdasarkan tarikh matang asal bagi menggantikan kontrak SBBA sedia ada. Keputusan MPS berhubung dengan pelaksanaan ciri-ciri baharu instrumen SBBA hanya terpakai kepada struktur dan kontrak Syariah yang dinyatakan dalam keputusan ini sahaja. Sebarang cadangan pelaksanaan ciri-ciri baharu instrumen SBBA menggunakan struktur dan kontrak Syariah selain struktur atau kontrak Syariah yang dinyatakan dalam keputusan MPS ini perlu mendapatkan kelulusan MPS. 1.1. Keperluan untuk mematuhi keputusan ini akan terpakai pada IKI yang berikut pada 30 Jun 2025 selari dengan tarikh kuat kuasa Dokumen Dasar Pembiayaan Cagaran Islam (Islamic Collateralised Funding, ICF) yang diterbitkan oleh Bank Negara Malaysia: (a) Bank-bank Islam berlesen di bawah Akta Perkhidmatan Kewangan Islam 2013 (APKI); (b) Bank-bank berlesen dan bank-bank pelaburan berlesen yang diluluskan di bawah seksyen 15(1) Akta Perkhidmatan Kewangan 2013 (APK) untuk menjalankan perniagaan kewangan Islam; dan (c) institusi yang ditetapkan dan diluluskan di bawah seksyen 33B(1) Akta Institusi Kewangan Pembangunan 2002 (Development Financial Institutions Act, DFIA) untuk menjalankan perniagaan kewangan Islam.
+
+
+#### 6.2.9 Keputusan Majlis Penasihat Shariah Bank Negara Malaysia (MPS) berhubung Parameter Syariah bagi Pemindahan Dana untuk Tujuan Pendanaan dan Pengurusan Risiko Mudah Tunai daripada Institusi Kewangan Islam kepada Institusi Kewangan Konvensional
+
+- **Tarikh (listed):** 31 Mei 2024
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sacbnm-217-mtg-ruling-bm
+- **English counterpart:** https://www.bnm.gov.my/-/sacbnm-217-mtg-ruling
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/13282254/20240531_bm_Kenyataan_MPS_Penyaluran_Dana.pdf
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> Menurut seksyen 52 Akta Bank Negara Malaysia 2009, MPS pada Mesyuarat MPS ke-217 pada 30 September 2021, Mesyuarat MPS ke-220 pada 24 Januari 2022 dan Mesyuarat MPS ke-236 pada 30 Januari 2024 telah membuat keputusan berhubung dengan Parameter Syariah bagi Pemindahan Dana untuk Tujuan Pendanaan dan Pengurusan Risiko Mudah Tunai daripada Institusi Kewangan Islam (IKI) kepada Institusi Kewangan Konvensional (IKK).  
+> Keputusan ini bertujuan untuk memperjelas parameter Syariah yang perlu dipatuhi IKI untuk menentukan keharusan pemindahan dana bagi tujuan pendanaan dan pengurusan risiko mudah tunai, daripada IKI kepada IKK.  
+> Keputusan MPS ini berkuat kuasa serta-merta sejurus keputusan ini diterbitkan dalam laman sesawang Bank Negara Malaysia pada 31 Mei 2024.  
+> Institusi-Institusi yang Ditetapkan di Bawah Akta Institusi Kewangan Pembangunan (AIKP)  
+> Parameter Syariah bagi Pemindahan Dana untuk Tujuan Pendanaan dan Pengurusan Risiko Mudah Tunai daripada Institusi Kewangan Islam kepada Institusi Kewangan Konvensional  
+
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Bahagian I: Keputusan MPS, Tarikh Kuat Kuasa dan Penggunaan Menurut seksyen 52 Akta Bank Negara Malaysia 2009, MPS telah memutuskan bahawa institusi kewangan Islam (IKI) perlu mematuhi semua parameter yang berikut untuk menentukan keharusan pemindahan dana bagi tujuan pendanaan dan pengurusan risiko mudah tunai, daripada IKI kepada institusi kewangan konvensional (IKK): 1. Secara prinsipnya, sebarang bentuk pemindahan dana daripada IKI kepada IKK adalah tidak dibenarkan kerana institusi tersebut tidak menjalankan perniagaan kewangan mengikut Syariah melainkan jika terdapat kepastian (al-yaqin) atau kebarangkalian tinggi (ghalib al- zann) bahawa dana tersebut tidak akan digunakan untuk aktiviti yang tidak patuh Syariah. 2. Walau apa pun ketetapan perenggan 1 di atas, pemindahan dana daripada IKI kepada IKK sama ada dalam kumpulan yang sama atau sebaliknya yang bertujuan untuk menangani situasi kesukaran adalah dibenarkan tertakluk kepada pematuhan terhadap keperluan yang ditetapkan dalam Dokumen Dasar Hajah dan Darurah (DD HD)2. Hal ini termasuk tetapi tidak terhad kepada takrifan kesukaran, prasyarat penggunaan hajah dan darurah, skop penggunaan yang dilarang serta parameter hajah jenis 1, hajah jenis 2 dan darurah. 3. Berkaitan dengan perenggan 2 di atas, MPS telah memutuskan bahawa transaksi berikut yang melibatkan pemindahan dana daripada IKI kepada IKK adalah dibenarkan, kerana termasuk dalam jenis hajah yang berikut: (i) Penggunaan akaun nostro konvensional: hajah jenis 1; dan (ii) Pemindahan dana atau lebihan aset mudah tunai berkualiti tinggi (high quality liquid assets, HQLA) kepada entiti kewangan lain dalam kumpulan yang sama, termasuk bank induk konvensionalnya semasa situasi tekanan: hajah jenis 2. 1 Pernyataan ini diterbitkan lanjutan daripada penerbitan Dokumen Dasar Hajah dan Darurah (DD HD) dan memberikan lebih kejelasan kepada IKI dalam mematuhi DD HD dan memastikan pelaksanaan hajah yang efektif oleh IKI. 2 Diterbitkan oleh BNM pada 3 Januari 2024. 1 Mesyuarat MPS ke-217, 220 & 236 2021 / 2022 / 2024 1.1. Keputusan ini berkuat kuasa serta merta pada tarikh penerbitannya dalam laman sesawang Bank Negara Malaysia dan terpakai ke atas IKI yang berikut: (a) bank Islam berlesen menurut Akta Perkhidmatan Kewangan Islam 2013 (APKI); (b) bank berlesen dan bank pelaburan berlesen yang diluluskan di bawah seksyen 15(1) Akta Perkhidmatan Kewangan 2013 (APK) untuk menjalankan perniagaan kewangan Islam; dan (c) institusi yang ditetapkan yang diluluskan di bawah seksyen 33B(1) Akta Institusi Kewangan Pembangunan 2002 (AIKP) untuk menjalankan perniagaan kewangan Islam. 1.2. Selaras dengan seksyen 28(1) dan (2) APKI atau seksyen 33D(1) dan (2) AIKP, mengikut mana-mana yang berkenaan, IKI dikehendaki mematuhi keputusan ini kerana pematuhan dengan apa-apa keputusan MPS berkenaan dengan sebarang matlamat tertentu dan pengendalian perniagaan, hal ehwal atau aktiviti IKI adalah disifatkan sebagai pematuhan kepada Syariah. Bahagian II: Latar Belakang 2.1. Pemindahan dana IKI kepada IKK bukan suatu amalan biasa kerana operasi IKI perlu dipastikan mematuhi Syariah. Walau bagaimanapun, terdapat situasi yang memerlukan pemindahan dana IKI kepada IKK sama ada ketika situasi biasa atau ketika situasi tekanan3. Dalam situasi biasa, pemindahan dana mungkin diperlukan bagi memudahkan transaksi khusus atau transaksi berdasarkan pasaran (market-based transactions) apabila IKI tidak beroperasi dalam pasaran tersebut atau tiada penyelesaian yang boleh dilaksanakan untuk memenuhi keperluan tertentu. Contoh aktiviti yang boleh berlaku dalam keadaan biasa atau keadaan tekanan adalah seperti yang berikut: • Penggunaan akaun nostro konvensional Keperluan untuk melaksanakan transaksi melalui akaun nostro konvensional adalah disebabkan oleh kekurangan akaun nostro patuh Syariah yang tersedia di negara lain, atau bagi mematuhi dasar pengurusan risiko dan kecekapan kumpulan. Transaksi yang dilakukan melalui akaun nostro secara umumnya adalah untuk memudahkan perdagangan antarabangsa dan transaksi pertukaran asing yang terdapat baki minimum 3 Antara situasi tekanan lain termasuk: a) Senario tekanan yang melibatkan keseluruhan sistem, meliputi peristiwa yang memberikan kesan ketara terhadap fungsi ekonomi benar dan sistem kewangan; b) Senario tekanan idiosinkratik, melibatkan peristiwa yang bersifat khusus institusi dan secara langsung boleh menggugat perniagaan dan operasi entiti penting yang tertentu, perniagaan utama atau seluruh institusi p…
+
+
+#### 6.2.10 Ringkasan Keputusan Majlis Penasihat Shariah (MPS): Pengeluaran Terbitan Pelaburan Kerajaan Malaysia (MGII) Berdasarkan Konsep Wakalah
+
+- **Tarikh (listed):** 29 Mei 2024
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/ringkasan-keputusan-majlis-penasihat-shariah-mps-pengeluaran-terbitan-pelaburan-kerajaan-malaysia-mgii-berdasarkan-konsep-wakalah
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> MPS Bank Negara Malaysia dalam mesyuaratnya yang ke-239 bertarikh 30 April 2024 telah memutuskan bahawa terbitan MGII berdasarkan konsep wakalah dan variasinya seperti wakalah bi al-istithmar (wakil untuk pelaburan) dan wakalah bi al-khadamat (wakil untuk perkhidmatan) adalah dibenarkan sebagai alternatif kepada murabahah dalam usaha untuk mempelbagaikan konsep pendasar Syariah bagi instrumen tersebut.  
+> MPS juga memutuskan bahawa selain aset ketara, penggunaan aset tidak ketara yang bukan hutang seperti manfaat, perkhidmatan dan hak kewangan juga adalah dibenarkan sebagai aset pendasar bagi MGII berasaskan wakalah.  
+
+
+#### 6.2.11 Keputusan Majlis Penasihat Shariah Bank Negara Malaysia (MPS) berhubung dengan Lindung Nilai Jangkaan
+
+- **Tarikh (listed):** 29 Mei 2024
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sacbnm-234mtg-ruling-bm
+- **English counterpart:** https://www.bnm.gov.my/-/sacbnm-234mtg-ruling
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/12144436/bm_SAC_Ruling_on_Hedging_234_SAC_Meeting_v2.pdf
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> Menurut seksyen 52 Akta Bank Negara Malaysia 2009, MPS pada mesyuaratnya yang ke-234 pada 25 September 2023 telah membuat keputusan berhubung dengan Lindung Nilai Jangkaan.  
+> Keputusan MPS ini bertujuan untuk menjelaskan keperluan Syariah bagi penggunaan Lindung Nilai Jangkaan dalam kewangan Islam.  
+> Keputusan MPS ini berkuat kuasa serta-merta sebaik sahaja diterbitkan dalam laman sesawang Bank Negara Malaysia pada 29 Mei 2024.  
+> Institusi-Institusi yang Ditetapkan di Bawah Akta Institusi Kewangan Pembangunan (AIKP)  
+> Keputusan Majlis Penasihat Shariah Bank Negara Malaysia (MPS) Berhubung dengan Lindung Nilai Jangkaan  
+
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Bahagian I: Keputusan MPS, Tarikh Kuat Kuasa dan Penggunaan MPS mengambil maklum bahawa lindung nilai jangkaan adalah amalan untuk mengurangkan dedahan risiko daripada transaksi yang diunjurkan atau dijangka berdasarkan rekod lepas dan/atau dokumen yang relevan. Menurut seksyen 52 Akta Bank Negara Malaysia 2009, MPS telah memutuskan bahawa lindung nilai jangkaan adalah dibenarkan berdasarkan kebarangkalian tinggi bahawa dedahan sebenar akan berlaku pada masa hadapan. Penggunaan lindung nilai jangkaan yang dibenarkan adalah terhad untuk tujuan pengurusan dedahan risiko. Sebarang unsur perjudian, spekulasi dan ketidakpastian yang signifikan (gharar fahisy) mestilah dielakkan. 0 1.1. Keputusan ini berkuat kuasa serta-merta pada tarikh penerbitannya dalam laman sesawang Bank Negara Malaysia dan terpakai ke atas institusi kewangan Islam (IKI) berikut: (a) IKI berlesen menurut Akta Perkhidmatan Kewangan Islam 2013 (APKI); (b) bank berlesen dan bank pelaburan berlesen yang diluluskan di bawah seksyen 15(1) Akta Perkhidmatan Kewangan 2013 (APK) untuk menjalankan perniagaan perbankan Islam; dan (c) institusi yang ditetapkan yang diluluskan di bawah seksyen 33B(1) Akta Institusi Kewangan Pembangunan 2002 (AIKP) untuk menjalankan perniagaan kewangan Islam. 1.2. Selaras dengan seksyen 28(1) dan (2) APKI serta seksyen 33D(1) dan (2) AIKP, mengikut mana-mana yang berkenaan, IKI dikehendaki mematuhi keputusan ini kerana pematuhan dengan apa-apa keputusan MPS berkenaan dengan sebarang matlamat tertentu dan pengendalian perniagaan, hal ehwal atau aktiviti IKI tersebut adalah disifatkan sebagai pematuhan kepada Syariah. Bahagian II: Latar Belakang 2.1. Sebagai sebahagian daripada inisiatif industri untuk meningkatkan aktiviti pasaran sekunder bagi transaksi derivatif Islam antara bank dan juga untuk membangunkan pasaran kewangan Islam, industri telah mencadangkan untuk mengembangkan penggunaan lindung nilai supaya turut meliputi lindung nilai jangkaan yang akan membolehkan IKI melindung nilai dedahan yang diunjurkan. Oleh itu, kejelasan diperlukan berhubung dengan keharusan penggunaan lindung nilai jangkaan dari perspektif Syariah bagi membantu menggalakkan aktiviti pasaran. 2.2. Lindung nilai1 atau lindung nilai pasti (firm hedging) dalam kewangan melibatkan penggunaan instrumen pasaran untuk mengimbangi risiko dalam pelaburan dan liabiliti. Instrumen yang digunakan untuk lindung nilai adalah derivatif. Oleh itu, lindung nilai pelaburan bermaksud menggunakan instrumen secara strategik, seperti derivatif, untuk 1 Untuk tujuan kenyataan ini, lindung nilai akan dirujuk sebagai "lindung nilai pasti" bagi membezakan sifatnya daripada lindung nilai jangkaan. 1 Mesyuarat MPS ke-234 2023 mengimbangi risiko sebarang perubahan harga yang merugikan.2 Sebaliknya, lindung nilai jangkaan adalah transaksi yang bertujuan untuk melindungi daripada risiko berkaitan transaksi masa hadapan yang diunjurkan. 2.3. Contoh penggunaan lindung nilai jangkaan dalam perniagaan kewangan Islam adalah seperti yang berikut: i) Melindung nilai dedahan yang timbul daripada perniagaan/aktiviti pelanggan yang berulang Contoh: seorang pengimport kebiasaannya akan membeli bahan mentah bernilai USD 10 juta pada setiap suku tahun dan invois juga akan dikeluarkan pada setiap suku tahun. Apabila keadaan pasaran dan kadar lani (spot) bersesuaian dengan perancangannya, pengimport ingin memuktamadkan kos bahan mentah yang diimport untuk seluruh tahun bagi memastikan kos barang akhir dan harga kepada pelanggan tidak terjejas. Melindung nilai untuk import bahan mentah bagi suku kedua hingga keempat adalah bersifat jangkaan bagi perniagaan pengimport kerana dokumen belum lagi tersedia pada permulaan transaksi lindung nilai. ii) Melindung nilai dedahan kepada risiko kadar keuntungan daripada transaksi yang dijangka Contoh: pembiayaan dalam mata wang asing dengan kadar terapung telah dimuktamadkan tetapi masih menunggu dokumen akhir dan pengeluaran pembiayaan. Walau bagaimanapun, pelanggan ingin memuktamadkan pembiayaannya pada harga tetap bagi memastikan perancangan aliran tunai yang lebih baik kerana tahap itu berada dalam lingkungan kadar yang dirancang. Cross Currency Profit Rate Swap (CCPRS) boleh dilaksanakan sebelum pengeluaran pembiayaan dan sebelum semua dokumen yang berkaitan dimuktamadkan. iii) Lindung nilai dilaksanakan lebih awal bagi sesuatu transaksi disebabkan oleh…
+
+
+#### 6.2.12 Keputusan Majlis Penasihat Shariah BNM berhubung Kemudahan Beli Sekarang Bayar Kemudian
+
+- **Tarikh (listed):** 24 Jan 2024
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-ruling-bnpl-bm
+- **English counterpart:** https://www.bnm.gov.my/-/sac-ruling-bnpl
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/13282254/Keputusan_MPS_berhubung_BNPL_MPS_ke_220_228_231.pdf
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> Menurut seksyen 52 Akta Bank Negara Malaysia 2009, Majlis Penasihat Shariah BNM (MPS) pada mesyuarat ke-220 pada 24 Januari 2022, mesyuarat ke-228 pada 28 Februari 2023, dan mesyuarat ke-231 pada 26 Jun 2023, telah membuat keputusan berhubung kemudahan Beli Sekarang Bayar Kemudian (Buy Now Pay Later, BNPL).  
+> Keputusan ini bertujuan untuk menjelaskan keperluan Syariah bagi kemudahan BNPL secara Islam.  
+> Keputusan MPS ini berkuat kuasa serta-merta sejurus keputusan ini diterbitkan dalam laman sesawang BNM pada 24 Januari 2024  
+> Keputusan Majlis Penasihat Shariah Bank Negara Malaysia berhubung Kemudahan Beli Sekarang Bayar Kemudian (Buy Now Pay Later, BNPL)  
+
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Bahagian I: Keputusan MPS, Tarikh Kuat Kuasa dan Pemakaian Menurut seksyen 52 Akta Bank Negara Malaysia 2009, MPS pada mesyuarat ke-220 telah memutuskan bahawa kemudahan Beli Sekarang Bayar Kemudian (Buy Now Pay Later, BNPL) adalah dibenarkan, dengan syarat kemudahan tersebut distruktur menggunakan kontrak Syariah yang bersesuaian bagi memelihara hak dan kewajipan pihak-pihak yang berkontrak. Oleh itu, kelulusan secara bertulis daripada jawatankuasa Syariah bagi penyedia perkhidmatan kewangan Islam (Islamic financial service provider) adalah diperlukan dalam memastikan struktur kemudahan BNPL serta terma dan syarat kontrak mematuhi Syariah. Seterusnya, MPS pada mesyuarat ke-228 dan ke-231 telah memutuskan bahawa kemudahan BNPL yang melibatkan transaksi pembelian emas dan perak (barangan ribawi) yang mempunyai 'illah wang, mesti dilakukan secara lani. Walau bagaimanapun, tempoh penyelesaian sehingga T+2 adalah dibenarkan disebabkan oleh kekangan operasi dan amalan pasaran perniagaan ('urf tijari). Selaras dengan maqasid Syariah, MPS menggalakkan penyedia perkhidmatan kewangan Islam untuk menerapkan amalan bertanggungjawab dalam menilai kemampuan pengguna dengan mengadakan proses penilaian kredit secara menyeluruh. Hal ini bertujuan untuk menggalakkan penggunaan kemudahan BNPL secara berhemah dan bertanggungjawab, serta memastikan kesejahteraan kewangan pengguna agar tidak terjejas. 1.1. Keputusan ini berkuat kuasa serta merta sejurus keputusan ini diterbitkan dalam laman sesawang Bank Negara Malaysia pada 24 Januari 2024 dan terpakai ke atas institusi kewangan berikut: (a) bank-bank Islam berlesen menurut Akta Perkhidmatan Kewangan Islam 2013 (APKI) termasuk yang menjalankan perniagaan perbankan digital Islam; (b) bank berlesen dan bank pelaburan berlesen yang diluluskan di bawah seksyen 15(1) Akta Perkhidmatan Kewangan 2013 (APK) untuk menjalankan perniagaan kewangan Islam; dan (c) institusi ditetapkan yang diluluskan di bawah seksyen 33B(1) Akta Institusi Kewangan Pembangunan 2002 (AIKP) untuk menjalankan perniagaan kewangan Islam. Bagi maksud keputusan ini, mana-mana orang di atas hendaklah dirujuk sebagai "penyedia perkhidmatan kewangan Islam (PPK Islam)". 1.2. Selaras dengan seksyen 28(1) dan (2) APKI dan seksyen 33D(1) dan (2) AIKP, mengikut mana-mana yang berkenaan, PPK Islam dikehendaki mematuhi keputusan ini kerana pematuhan dengan apa-apa keputusan MPS berkenaan dengan sebarang matlamat tertentu dan pengendalian perniagaan, hal ehwal atau aktiviti PPK Islam tersebut adalah disifatkan sebagai pematuhan kepada Syariah. 1 Mesyuarat MPS 220, 228 dan 231 2024 Bahagian II: Latar Belakang 2.1. Secara umumnya, kemudahan BNPL membolehkan pengguna membeli barangan atau perkhidmatan daripada peniaga dengan pilihan untuk menangguhkan pembayaran dan/atau membahagikan harga belian kepada ansuran bulanan. Penyedia BNPL kebiasaannya membuat pendahuluan penyelesaian penuh atau separa kepada peniaga bagi pihak pengguna, dan seterusnya pengguna akan membuat pembayaran kepada penyedia BNPL berdasarkan terma dan syarat yang dipersetujui1. 2.2. Dari sudut Syariah, kemudahan BNPL boleh dianggap sebagai lanjutan kontrak jualan tradisional2 sedia ada yang dibenarkan dalam Islam, dengan syarat transaksi penjualan dijalankan selaras dengan prinsip Syariah. 2.3. Buat masa ini, kemudahan BNPL yang ditawarkan oleh penyedia bukan bank tidak termasuk dalam bidang kuasa pengawalseliaan Bank atau mana-mana badan kawal selia. Cadangan penggubalan Akta Kredit Pengguna (Consumer Credit Act, CCA) akan membentuk Lembaga Pemantauan Kredit Pengguna (Consumer Credit Oversight Board, CCOB) sebagai pihak berkuasa kompeten dan bebas untuk mengawal selia, antara lain, BNPL Islamik. 2.4. Kemudahan BNPL membolehkan peniaga untuk mendapatkan penyelesaian (settlement) dengan lebih pantas, serta membolehkan pengguna menangguhkan pembayaran bagi pembelian barangan dan perkhidmatan tanpa tertakluk kepada kadar keuntungan, dengan syarat bayaran ansuran dilakukan tepat pada masanya. Terdapat peningkatan permintaan yang sederhana bagi kemudahan BNPL, dan disokong oleh peningkatan bilangan penyedia BNPL bukan bank yang memasuki ruang pasaran BNPL. Walaupun institusi kewangan berlesen masih belum menawarkan kemudahan BNPL pada masa ini, institusi kewangan berlesen boleh menawarkan kemudahan BNPL mereka secara mandiri atau melalui usaha sama dengan penyedia BNPL yang lain (sedia ada). 2.5. Secara ringkas, kemudahan BNPL (sedia ada) beroperasi mengikut struktur berik…
+
+
+#### 6.2.13 Keputusan Majlis Penasihat Shariah BNM berhubung Pengagihan Risiko Takaful Secara Alir Keluar kepada Syarikat Insurans dalam Situasi Kesukaran
+
+- **Tarikh (listed):** 5 Jan 2024
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sacbnm-226mtg-ruling-bm
+- **English counterpart:** https://www.bnm.gov.my/-/sacbnm-226mtg-ruling
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/38335/sacbnm-mtg-226-bm.pdf/
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> MPS pada mesyuarat ke-226 bertarikh 26 Oktober 2022 telah memutuskan bahawa perkara (ii) dalam keputusan MPS pada mesyuarat ke-113 bertarikh 23 Jun 2011 dan mesyuarat ke-114 bertarikh 28 Julai 2011 berhubung “Takaful semula dengan Syarikat Insurans dan Insurans Semula Konvensional” (Keputusan Sedia Ada) telah disemak seperti berikut:  
+> (ii) Pengendali takaful berlesen (termasuklah pengendali takaful semula profesional berlesen) tidak dibenarkan untuk mengagihkan risiko takaful secara alir keluar kepada penanggung insurans (termasuklah penanggung insurans semula profesional berlesen) kecuali dalam keadaan berikut:  
+> i. pengendali takaful berlesen sedia ada tidak menerima atau tidak mampu menerima risiko tersebut;  
+> ii. pengendali takaful berlesen sedia ada tidak mempunyai kapasiti atau kepakaran untuk menerima risiko tersebut; atau  
+> iii. suatu pengaturan pengagihan risiko secara alir keluar kepada pengendali takaful berlesen yang lain menyebabkan atau boleh menyebabkan kemudaratan kepada dana takaful bagi pengendali takaful berlesen.  
+> Keputusan ini menggantikan item (ii) Keputusan Sedia Ada, manakala baki bahagian Keputusan Sedia Ada adalah tetap terpakai.  
+> Keputusan ini berkuat kuasa serta merta sejurus Keputusan ini diterbitkan dalam laman sesawang Bank Negara Malaysia pada pada 5 Januari 2024.  
+> Keputusan Majlis Penasihat Shariah Bank Negara Malaysia (MPS) Berhubung Pengagihan Risiko Takaful Secara Alir Keluar kepada Syarikat Insurans dalam Situasi Kesukaran  
+
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Bahagian I: Keputusan MPS, Tarikh Kuat Kuasa dan Pemakaian Menurut seksyen 52 Akta Bank Negara Malaysia 2009, MPS pada mesyuarat ke-226 bertarikh 26 Oktober 2022 telah memutuskan bahawa perkara (ii) dalam keputusan MPS pada mesyuarat ke-113 bertarikh 23 Jun 2011 dan mesyuarat ke-114 bertarikh 28 Julai 2011 berhubung “Takaful semula dengan Syarikat Insurans dan Insurans Semula Konvensional” (Keputusan Sedia Ada) telah disemak seperti berikut: (ii) Pengendali takaful berlesen (termasuklah pengendali takaful semula profesional berlesen) tidak dibenarkan untuk mengagihkan risiko takaful secara alir keluar kepada penanggung insurans (termasuklah penanggung insurans semula profesional berlesen) kecuali dalam keadaan berikut: i. pengendali takaful berlesen sedia ada tidak menerima atau tidak mampu menerima risiko tersebut; ii. pengendali takaful berlesen sedia ada tidak mempunyai kapasiti atau kepakaran untuk menerima risiko tersebut; atau iii. pengaturan pengagihan risiko secara alir keluar kepada pengendali takaful berlesen yang lain menyebabkan atau boleh menyebabkan kemudaratan kepada dana takaful bagi pengendali takaful berlesen. Dalam keadaan di atas, keperluan (hajah) untuk mengagihkan risiko takaful melalui pengaturan pengagihan risiko secara alir keluar kepada penanggung insurans untuk menangani sebarang situasi kesukaran yang dihadapi pengendali takaful berlesen perlu dinilai dan diperakui oleh jawatankuasa Syariah pengendali takaful berlesen. Keputusan ini menggantikan item (ii) Keputusan Sedia Ada, manakala baki bahagian Keputusan Sedia Ada adalah tetap terpakai. Nota: Sila rujuk Lampiran 1 bagi Keputusan Sedia Ada 1.1. Keputusan ini berkuat kuasa pada 5 Januari 2024 dan ianya terpakai kepada pengendali takaful berlesen (termasuk pengendali takaful semula profesional)2 yang diluluskan di bawah Akta Perkhidmatan Kewangan Islam 2013 (APKI) untuk menjalankan perniagaan takaful. Sebarang rujukan kepada "penanggung insurans" dalam kenyataan ini adalah termasuk rujukan kepada "penanggung insurans semula". 1.2. Selaras dengan seksyen 28(1) dan (2) APKI, pengendali takaful berlesen dikehendaki mematuhi keputusan ini. Pematuhan dengan apa-apa keputusan MPS berkenaan dengan sebarang matlamat tertentu dan pengendalian, perniagaan, hal ehwal dan aktiviti institusi kewangan Islam (IKI) adalah disifatkan sebagai pematuhan kepada Syariah. 1 Kenyataan ini diterbitkan lanjutan daripada penerbitan Dokumen Polisi Hajah dan Darurah bagi memberikan panduan tambahan dan jangkaan yang jelas berhubung pelaksanaan hajah yang efektif. 2 Rujukan kepada "pengendali takaful berlesen" dalam kenyataan ini termasuklah rujukan kepada "pengendali takaful semula profesional", sekiranya berkenaan. 1 Mesyuarat MPS ke-226 2022 Bahagian II: Latar Belakang 2.1. Pengaturan takaful semula merujuk kepada perkongsian risiko takaful antara pengendali takaful berlesen dengan pengendali takaful berlesen yang lain. Melalui pengaturan takaful semula yang berkesan, pengendali takaful berlesen dapat meningkatkan kapasitinya dan menstabilkan prestasi pengunderaitannya, serta dapat melindungi dana takaful daripada beban kewangan yang signifikan sekiranya terdapat pengalaman tuntutan tidak dijangka yang memudaratkan. 2.2. MPS terdahulu telah memutuskan3 bahawa pengendali takaful berlesen tidak dibenarkan untuk mengagih risiko takaful melalui pengaturan takaful semula alir keluar kepada penanggung insurans kecuali bagi menangani situasi kesukaran. Dalam keadaan sedemikian, pengendali takaful berlesen dikehendaki mendapatkan pandangan dan pengesahan jawatankuasa Syariah berhubung keperluan (hajah) untuk mengagih risiko takaful kepada penanggung insurans. Lembaga pengarah bagi pengendali takaful berlesen mempunyai tanggungjawab pengawasan terhadap pelaksanaan keputusan jawatankuasa Syariah berhubung pengaturan pengagihan risiko secara alir keluar tersebut. 2.3. Dalam pemerhatian Bank Negara Malaysia (Bank) terhadap isu-isu yang meluas dalam industri takaful berhubung pengagihan perniagaan takaful kepada penanggung insurans, terdapat pengaturan pengagihan risiko secara alir keluar yang dilaksanakan oleh pengendali takaful berlesen yang tidak termasuk di bawah keadaan yang ditetapkan di dalam Keputusan Sedia Ada. Ini termasuk pengaturan pengagihan risiko takaful secara alir keluar dengan penanggung insurans yang dilaksanakan semata-mata berdasarkan pertimbangan perniagaan pengendali takaful berlesen untuk menangani risiko kehilangan peluang perniagaan atau risiko keberu…
+
+
+#### 6.2.14 Pelantikan Ahli-ahli Majlis Penasihat Shariah Bank Negara Malaysia
+
+- **Tarikh (listed):** 25 Jan 2023
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/reappointment-sacbnm-members-2023-bm
+- **English counterpart:** https://www.bnm.gov.my/-/reappointment-sacbnm-members-2023
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> Bank Negara Malaysia (BNM) ingin mengumumkan pelantikan semula empat ahli Majlis Penasihat Shariah (MPS) untuk tempoh tiga tahun dan pelantikan dua orang ahli MPS yang baharu untuk tempoh dua tahun, berkuat kuasa mulai 1 Januari 2023. Pelantikan ini dibuat menurut seksyen 53(1) Akta Bank Negara Malaysia 2009.  
+> MPS dibarisi sembilan orang ahli yang berkepakaran dan berpengalaman dalam bidang Syariah, ekonomi Islam, undang-undang dan kewangan.  
+> Profesor, Institut Perbankan dan Kewangan Islam, Universiti Islam Antarabangsa Malaysia dan Timbalan Pengerusi baharu MPS  
+> Pengarah, Jaminan Kualiti Penyelidikan dan Penerbitan, Pusat Pengurusan Penyelidikan ISRA, Universiti INCEIF  
+> Pengasas dan Rakan Kongsi Kanan, Zainal Abidin & Co. (Peguambela dan Peguamcara)  
+> MPS merupakan badan berautoriti tertinggi bagi menentukan hukum syarak berhubung dengan perniagaan kewangan Islam di Malaysia. MPS memainkan peranan penting untuk menggalakkan kepastian pada Syariah serta mengekalkan keyakinan orang ramai terhadap industri kewangan Islam. MPS juga berfungsi sebagai penasihat kepada BNM mengenai sebarang isu Syariah yang berkaitan dengan perniagaan kewangan Islam, aktiviti atau transaksi kewangan Islam yang dijalankan oleh BNM. Keputusan Syariah yang dibuat oleh MPS menjadi sumber rujukan institusi kewangan Islam bagi memastikan operasi perniagaan mereka mematuhi prinsip Syariah. Selain itu, keputusan MPS juga boleh digunakan sebagai rujukan mahkamah dan penimbang tara. MPS telah mengadakan mesyuarat pertama bagi tahun 2023 pada hari ini.  
+> BNM juga ingin merakamkan setinggi-tinggi penghargaan kepada Tan Sri Dr. Mohd Daud Bakar dan Dato’ A. Aziz A. Rahim yang telah menyempurnakan tempoh perkhidmatan mereka sebagai ahli MPS. Tan Sri Dr. Mohd Daud Bakar dilantik sebagai ahli MPS pada 1 Mei 1997 dan telah memegang jawatan sebagai Pengerusi MPS sejak 27 Disember 2006. Sementara itu, Dato’ A. Aziz A. Rahim telah menjadi ahli MPS sejak 1 November 2016.  
+> Gabenor Bank Negara Malaysia, Tan Sri Nor Shamsiah Mohd Yunus berkata, “MPS memainkan peranan penting dalam memajukan aspirasi kewangan Islam di Malaysia. Sepanjang tempoh ini, Tan Sri Dr. Mohd Daud Bakar dan Dato’ A. Aziz A. Rahim telah memberikan sumbangan yang sangat besar dalam proses tersebut, dan saya ingin merakamkan setinggi-tinggi ucapan terima kasih terhadap komitmen dan dedikasi mereka yang tidak berbelah bahagi.”  
+
+
+#### 6.2.15 Ruling of the Bank's Shariah Advisory Council
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/keputusan-mesyuarat-majlis-penasihat-shariah-bnm-ke-218
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/6123519/SAC_Mesyuarat_ke_218_MYOR-i_bm_v2.pdf
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> Majlis Penasihat Shariah Bank Negara Malaysia (MPS) pada mesyuarat ke-218 bertarikh 28 Oktober 2021 telah membuat keputusan berhubung Kadar Rujukan Islam Baharu iaitu Malaysia Islamic Overnight Rate (MYOR-i).  
+> Keputusan MPS ini bertujuan untuk menjelaskan status Shariah bagi metodologi pengiraan kadar MYOR-i dalam situasi biasa dan luar jangka.  
+> Keputusan ini berkuat kuasa berdasarkan garis panduan MYOR-i yang akan dikeluarkan oleh Bank Negara Malaysia (BNM).  
+
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Bahagian I: Keputusan MPS, Tarikh Kuat Kuasa dan Pemakaian Menurut seksyen 52 Akta Bank Negara Malaysia 2009, MPS telah memutuskan bahawa kadar rujukan Islam yang baharu iaitu Malaysia Islamic Overnight Rate (MYOR-i) dan metodologi pengiraannya dalam situasi biasa dan situasi luar jangka adalah patuh Syariah memandangkan ia hanya mengambil kira transaksi patuh Syariah. 1.1. Keputusan ini berkuat kuasa berdasarkan garis panduan yang akan dikeluarkan oleh Bank Negara Malaysia (BNM) dan terpakai ke atas IKI berikut: (a) institusi kewangan Islam berlesen menurut Akta Perkhidmatan Kewangan Islam 2013 (APKI); (b) bank berlesen dan bank pelaburan berlesen yang diluluskan di bawah seksyen 15(1) Akta Perkhidmatan Kewangan 2013 (APK) untuk menjalankan perniagaan kewangan Islam; dan (c) institusi yang ditetapkan yang diluluskan di bawah seksyen 33B(1) Akta Institusi Kewangan Pembangunan 2002 (DFIA) untuk menjalankan perniagaan kewangan Islam. 1.2. Selaras dengan seksyen 28(1) dan (2) APKI atau seksyen 33D (1) dan (2) DFIA, mengikut mana-mana yang berkenaan, IKI dikehendaki mematuhi keputusan ini kerana pematuhan dengan apa-apa keputusan MPS berkenaan dengan sebarang matlamat tertentu dan pengendalian perniagaan, hal ehwal atau aktiviti IKI tersebut adalah disifatkan sebagai pematuhan kepada Syariah. Bahagian II: Latar Belakang 2.1. Usaha pembaharuan kadar rujukan kewangan sedang dijalankan di pelbagai negara untuk meningkatkan integriti dan kualiti kadar rujukan faedah, selaras dengan saranan oleh Lembaga Kestabilan Kewangan (Financial Stability Board, FSB). Antara saranan utama FSB ialah pembangunan Kadar Rujukan Alternatif (Alternative Reference Rate, ARR) yang hampir bebas risiko (near risk-free) dan pengukuhan Kadar Tawaran Antara Bank (Interbank Offered Rate, IBOR) sedia ada bagi pasaran di negara masing-masing. 2.2. Selaras dengan usaha pembaharuan kadar rujukan kewangan di peringkat global ini, BNM telah melantik Jawatankuasa Pasaran Kewangan (Financial Markets Committee, FMC) untuk menyelia pembangunan kadar ARR yang berasaskan transaksi sebenar yang berlaku di pasaran. 2.3. Sama seperti negara lain, kadar rujukan alternatif bagi pasaran Malaysia iaitu Malaysian Overnight Rate (MYOR) akan dibangunkan berdasarkan kadar yang hampir bebas risiko dan transaksi semalaman dalam pasaran wang antara bank. Ianya akan dilaksanakan seiring 1 Mesyuarat MPS 218 2021 dengan Kadar Tawaran Antara Bank Kuala Lumpur (Kuala Lumpur Interbank Offered Rate, KLIBOR) yang sedia ada. 2.4. Bagi pasaran kewangan Islam pula, Kadar Rujukan Islam Kuala Lumpur (Kuala Lumpur Islamic Reference Rate, KLIRR) yang sedia ada akan dimansuhkan dan diganti dengan kadar rujukan yang baharu iaitu, Kadar Islam Semalaman Malaysia (Malaysia Islamic Overnight Rate, “MYOR-i”). Ini berikutan penggunaan KLIRR yang rendah dan ketidakpatuhannya kepada piawaian global bagi kadar rujukan kewangan. MYOR-i dirumus berdasarkan prinsip-prinsip bagi kadar rujukan kewangan yang digariskan oleh International Organisation of Securities Commission, IOSCO. Ia dibangunkan dengan kerjasama antara FMC dan Jawatankuasa Teknikal dan Pembangunan Pasaran Islam (Islamic Market Technical and Development Committee, IMTDC) yang ditubuhkan bersama oleh AIBIM-FMAM1. 2.5. Metodologi pengiraan MYOR-i adalah berdasarkan kadar pulangan purata bagi transaksi semalaman antara bank patuh Syariah dalam denominasi Ringgit Malaysia yang tidak bercagar dan berwajaran berdasarkan bilangan transaksi (volume-weighted average rate), yang dibundarkan kepada dua titik perpuluhan. 2.6. Ciri-ciri utama MYOR-i adalah: (i) berdasarkan kadar hampir bebas risiko; dan (ii) mewakili transaksi sebenar dan patuh Syariah dalam pasaran wang antara bank. 2.7. Transaksi yang diambil kira bagi pengiraan kadar MYOR-i terdiri daripada transaksi berikut: • Transaksi antara bank tanpa cagaran (sama ada melalui broker atau secara langsung/dua hala); dan • Operasi monetari semalaman oleh pihak BNM, yang terdiri daripada tender yang dijalankan melalui Sistem Automatik Sepenuhnya untuk Pengeluaran/Tender (Fully Automated System for Issuing/Tendering, FAST) atau operasi manual, dan transaksi semalaman secara terus antara Bank dan institusi di pasaran wang antara bank, tetapi tidak termasuk Kemudahan Tersedia (Standing Facilities). 2.8. Pada masa ini, instrumen kewangan yang diambil kira dalam metodologi pengiraan MYOR-i adalah instrumen berasaskan Murabahah Komoditi (“Commodity Murabahah”) yang diurus niagakan di pasaran wang antara b…
+
+
+#### 6.2.16 Keputusan Mesyuarat Majlis Penasihat Shariah BNM ke-217
+
+- **Tarikh (listed):** 27 Dis 2021
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/bnm-sac-217th-mtg-ruling-bm
+- **English counterpart:** https://www.bnm.gov.my/-/bnm-sac-217th-mtg-ruling
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/2629002/SAC_217th_Meeting_Ruling_bm.pdf
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> Majlis Penasihat Shariah Bank Negara Malaysia (MPS) pada mesyuarat ke-217 bertarikh 30 September 2021 telah membuat keputusan berhubung Ciri Pengeluaran Awal Pembiayaan Sebelum Kontrak Tawarruq Dilaksanakan bagi Produk Pembiayaan Perdagangan Berasaskan Tawarruq.  
+> Keputusan MPS ini bertujuan untuk menjelaskan status Shariah bagi ciri pengeluaran awal pembiayaan sebelum kontrak Tawarruq dilaksanakan dan keperluan operasi bagi pelaksanaannya untuk mencegah risiko ketidakpatuhan Shariah.  
+> Keputusan ini berkuat kuasa serta merta pada tarikh penerbitannya dalam laman sesawang Bank Negara Malaysia pada 27 Disember 2021.  
+
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Bahagian I: Keputusan MPS, Tarikh Kuat Kuasa dan Pemakaian Menurut seksyen 52 Akta Bank Negara Malaysia 2009, MPS telah memutuskan bahawa apabila terdapat kekangan operasi bagi pelaksanaan tawarruq dalam tempoh masa tertentu, pengeluaran awal pembiayaan (early financing disbursement) sebelum tawarruq dilaksanakan yang dibayar terus kepada pihak ketiga dalam produk pembiayaan perdagangan adalah dibenarkan tertakluk kepada pematuhan segala keperluan Syariah dan operasi seperti berikut: a) Institusi perbankan Islam (IPI) tidak dibenarkan mengambil sebarang keuntungan atau mengenakan caj ke atas jumlah pengeluaran awal pembiayaan dengan apa cara sekalipun seperti: i. Mengambil kira tempoh pengeluaran awal pembiayaan1 dalam pengiraan keuntungan transaksi tawarruq susulan; ii. Melanjutkan tempoh pembiayaan melebihi tempoh asal yang telah dipersetujui bersama pelanggan dengan tujuan untuk menampung keuntungan pada hari pengeluaran awal pembiayaan yang terpaksa dilepaskan susulan poin (i) di atas;2 dan/atau iii. Apa-apa kaedah pengiraan keuntungan yang memberi kesan kepada larangan yang disebutkan dalam keputusan MPS ini. b) IPI mestilah memastikan kawalan dalaman yang ketat dan kukuh bagi mengelakkan pengambilan sebarang keuntungan atau caj ke atas jumlah pengeluaran awal pembiayaan, dan kawalan ini termasuklah memastikan kemampuan sistem yang utuh dan prosedur operasi yang mantap; c) Takyif fiqhi atau kontrak Syariah yang terpakai bagi dana pengeluaran awal pembiayaan sebelum pelaksanaan kontrak tawarruq yang dilakukan tanpa pengetahuan pelanggan adalah qard insidental; d) Walau bagaimanapun, IPI boleh menggunakan kontrak Syariah atau takyif fiqhi lain selain daripada qard insidental mengikut kesesuaian dengan ciri pengeluaran awal pembiayaan. Namun, IPI mestilah mematuhi segala keperluan Syariah yang relevan bagi kontrak tersebut. 1.1. Keputusan ini berkuat kuasa serta merta pada tarikh penerbitannya dalam laman sesawang Bank Negara Malaysia pada 27 Disember 2021 dan terpakai ke atas IPI berikut: (a) bank Islam berlesen menurut Akta Perkhidmatan Kewangan Islam 2013 (APKI); (b) bank berlesen dan bank pelaburan berlesen yang diluluskan di bawah seksyen 15(1) Akta Perkhidmatan Kewangan 2013 (APK) untuk menjalankan perniagaan kewangan Islam; dan (c) institusi yang ditetapkan yang diluluskan di bawah seksyen 33B(1) Akta Institusi Kewangan Pembangunan 2002 (DFIA) untuk menjalankan perniagaan kewangan Islam. 1.2. Selaras dengan seksyen 28(1) dan (2) APKI atau seksyen 33D (1) dan (2) DFIA, mengikut mana-mana yang berkenaan, IPI dikehendaki mematuhi keputusan ini kerana pematuhan dengan apa-apa keputusan MPS berkenaan dengan sebarang matlamat tertentu dan 1 Tempoh pengeluaran awal pembiayaan merujuk kepada tempoh apabila pengeluaran awal pembiayaan berlaku sehingga tawarruq dilaksanakan. 2 Sebagai contoh, jika tempoh pembiayaan asal yang dipersetujui dengan pelanggan (tanpa situasi pengeluaran awal pembiayaan) adalah 30 hari bermula dari 1 Disember 2021 hingga 30 Disember 2021, pengeluaran awal pembiayaan yang berlaku pada 1 Disember 2021 tidak boleh menyebabkan pelanjutan tempoh melepasi 30 Disember 2021, dengan tujuan untuk menampung keuntungan yang terpaksa dilepaskan pada 1 Disember 2021 disebabkan pengeluaran awal pembiayaan sebelum pelaksanaan tawarruq. 1 Mesyuarat MPS 217 2021 pengendalian perniagaan, hal ehwal atau aktiviti IPI tersebut adalah disifatkan sebagai pematuhan kepada Syariah. Bahagian II: Latar Belakang 2.1. Bank Negara Malaysia (Bank) menerima cadangan daripada sebuah IPI berhubung produk pembiayaan perdagangan Trust Receipt-i dan Invoice Financing-i berasaskan tawarruq dengan ciri pengeluaran awal pembiayaan kepada pihak ketiga sebelum kontrak tawarruq dilaksanakan. 2.2. Situasi pengeluaran awal pembiayaan timbul apabila pelanggan meminta IPI untuk membuat penyelesaian kepada pembekal/pengeksport pada hari penyerahan dokumen perdagangan kepada IPI. Bayaran segera tersebut diperlukan oleh pelanggan, antaranya, untuk mendapatkan diskaun atau manfaat tertentu atau bagi memastikan bayaran kepada pembekal/pengeksport dilakukan dalam tempoh perdagangan yang telah dipersetujui. 2.3. Disebabkan kekangan operasi IPI berkenaan yang hanya boleh melaksanakan tawarruq mengikut had waktu tertentu (cut-off time), IPI tidak dapat melaksanakan tawarruq bagi pihak pelanggan sebagaimana diminta lantas menyebabkan pengeluaran pembiayaan melalui prosedur operasi biasa tidak dapat dilaksanakan. Sebagai contoh, IPI perlu melaksanak…
+
+
+#### 6.2.17 Ruling of the Bank's Shariah Advisory Council
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac20210708
+- **PDF (EN):** https://www.bnm.gov.my/documents/20124/1085561/%5BFor+issuance%5D+SAC+213+Meeting+Statement+-+Application+of+TVM+for+Qard.pdf
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/1085561/%5BUntuk+penerbitan%5D+Kenyataan+Mesyuarat+MPS+ke-213+Aplikasi+TVM+bagi+Qard.pdf
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> Majlis Penasihat Shariah (MPS) Bank Negara Malaysia pada mesyuarat ke-213 bertarikh 27 April 2021 telah memutuskan bahawa kaedah pengukuran perakaunan bagi transaksi qard (pinjaman tanpa faedah) antara dana pemegang saham dan dana takaful di bawah keperluan MFRS 17 Kontrak Insurans dan MFRS 9 Instrumen Kewangan dibenarkan. Ini adalah kerana jumlah bayaran balik amaun qard tidak akan bertambah walaupun prinsip nilai wang mengikut masa (time value of money (TVM) diterapkan dalam kaedah pengukuran. Keputusan ini tertakluk kepada penzahiran maklumat komprehensif dalam nota penyata kewangan seperti berikut:  
+> Keperluan pengendali takaful memberi qard daripada dana pemegang saham apabila terdapat kekurangan dalam dana takaful;  
+> Sifat kontrak qard, jumlah asal qard yang diberikan kepada dana takaful dan tempoh bayaran balik yang dijangka apabila terdapat lebihan dalam dana takaful; dan  
+> Penjelasan berhubung pengukuran perakaunan seperti penerapan prinsip TVM untuk menentukan nilai kini (present value) dan nilai masa hadapan (future value) bagi qard serta kesan terhadap jumlah asal qard dan pelarasan nilai saksama (fair value) yang diperlukan untuk mencapai jumlah asal. Penjelasan tersebut hendaklah merangkumi “hak dana pemegang saham untuk menerima jumlah qard asal” dan “obligasi dana takaful membayar balik jumlah qard asal” yang tidak berubah amaunnya sepanjang tempoh bayaran balik qard.  
+
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Bahagian I: Keputusan MPS, Tarikh Kuat Kuasa dan Pemakaian Menurut seksyen 52 Akta Bank Negara Malaysia 2009 berkaitan fungsi MPS, MPS memutuskan bahawa kaedah pengukuran perakaunan bagi transaksi qard (pinjaman tanpa faedah) antara dana pemegang saham dan dana takaful di bawah keperluan MFRS 17 Kontrak Insurans 1 dan MFRS 9 Instrumen Kewangan 2 dibenarkan. Ini adalah kerana jumlah bayaran balik amaun qard tidak akan bertambah walaupun prinsip nilai wang mengikut masa (time value of money (TVM) diterapkan dalam kaedah pengukuran. Keputusan ini tertakluk kepada penzahiran maklumat komprehensif dalam nota penyata kewangan seperti berikut: i. Keperluan pengendali takaful memberi qard daripada dana pemegang saham apabila terdapat kekurangan dalam dana takaful; ii. Sifat kontrak qard, jumlah asal qard yang diberikan kepada dana takaful dan tempoh bayaran balik yang dijangka apabila terdapat lebihan dalam dana takaful; dan iii. Penjelasan berhubung pengukuran perakaunan seperti penerapan prinsip TVM untuk menentukan nilai kini (present value) dan nilai masa hadapan (future value) bagi qard serta kesan terhadap jumlah asal qard dan pelarasan nilai saksama (fair value) yang diperlukan untuk mencapai jumlah asal. Penjelasan tersebut hendaklah merangkumi “hak dana pemegang saham untuk menerima jumlah qard asal” dan “obligasi dana takaful membayar balik jumlah qard asal” yang tidak berubah amaunnya sepanjang tempoh bayaran balik qard. Keputusan ini berkuat kuasa serta merta pada tarikh penerbitannya dalam laman sesawang Bank Negara Malaysia pada 8 Julai 2021 dan terpakai kepada pengendali takaful berlesen termasuk pengendali takaful semula profesional yang diluluskan di bawah Akta Perkhidmatan Kewangan Islam 2013 (APKI) untuk menjalankan perniagaan takaful. Selaras dengan seksyen 28(1) dan (2) APKI, mengikut mana-mana yang berkenaan, pengendali takaful berlesen dikehendaki mematuhi keputusan ini kerana pematuhan dengan apa-apa keputusan MPS berkenaan dengan sebarang matlamat tertentu dan pengendalian perniagaan, hal ehwal atau aktiviti pengendali takaful berlesen tersebut adalah disifatkan sebagai pematuhan kepada Syariah. 1 Piawaian Pelaporan Kewangan Malaysia 17 Kontrak Insurans 2 Piawaian Pelaporan Kewangan Malaysia 9 Instrumen Kewangan 1 Mesyuarat MPS ke-213 2021 Bahagian II: Latar Belakang Pengolahan perakaunan di bawah MFRS  Mengikut amalan semasa, MFRS 4 Kontrak Insurans 3 membenarkan pengendali takaful berlesen mengukur qard yang diberi untuk menampung kekurangan dana takaful 4 pada nilai kos di dalam penyata kewangan pengendali takaful dan dana takaful. Memandangkan MFRS 4 akan digantikan sepenuhnya oleh MFRS 17 berkuat kuasa 1 Januari 2023, terdapat keperluan untuk mengkaji semula pengolahan perakaunan sedia ada untuk memenuhi keperluan pengukuran baharu di bawah MFRS 17. Oleh itu, penilaian ini turut mempertimbangkan keperluan perakaunan yang berkaitan dengan transaksi qard di bawah piawaian perakaunan lain terutamanya piawaian MFRS 9.  Lembaga Piawaian Perakaunan Malaysia (MASB) 5, telah mengesyorkan pengolahan perakaunan yang merangkumi perspektif dana takaful dan pengendali takaful. Khususnya, prinsip TVM akan diguna pakai dalam kaedah penilaian qard bertepatan dengan keperluan MFRS. Cadangan pengolahan perakaunan adalah seperti berikut: o Dari perspektif dana takaful, qard dianggap sebagai sebahagian daripada pemenuhan aliran tunai (fulfilment cash flows) di bawah MFRS 17 dan diukur berdasarkan kaedah nilai kini di mana pemasaan aliran tunai (timing of cash flows) dipertimbangkan. o Dari perspektif pengendali takaful 6, qard dianggap sebagai aset kewangan di bawah MFRS 9 dan pada awalnya diukur pada nilai saksama, di mana faktor diskaun berdasarkan anggaran pulangan komersial atas nilai nominal 7 akan digunakan untuk menganggarkan nilai saksama pada permulaan qard. Kesan pengolahan perakaunan terhadap penyata kewangan  Sewaktu pengukuran awal qard, penggunaan prinsip TVM akan menghasilkan nilai jangkaan qard yang lebih rendah yang perlu dibayar pada masa hadapan memandangkan qard pada dasarnya adalah bersifat bebas faedah dan tidak mengambil kira TVM. Dalam hal ini, perbezaan antara nilai pengukuran awal dan nilai nominal (nilai asal) qard akan menggambarkan kesan TVM dan direkod dalam penyata kewangan masing-masing sebagai keuntungan kepada dana takaful dan kerugian kepada pengendali takaful.  Sepanjang tempoh bayaran balik qard, nilai qard akan dilaraskan untuk merungkai kesan TVM dengan keuntungan dan keru…
+
+
+#### 6.2.18 Ruling of the Bank's Shariah Advisory Council on the Adoption of Risk-Free Rate
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/ruling-of-the-bank-s-shariah-advisory-council-on-the-adoption-of-risk-free-rate
+- **PDF (EN):** https://www.bnm.gov.my/documents/20124/2629002/SAC+Statement+-+210+meeting_en.pdf
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/2629002/SAC+Statement+-+210+meeting_bm.pdf
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> Keputusan Majlis Penasihat Shariah BNM mengenai Penggunaan Kadar Bebas Risiko  
+> Majlis Penasihat Shariah (MPS) Bank Negara Malaysia pada mesyuarat ke-210 bertarikh 23 Disember 2020 telah memutuskan bahawa penggunaan kadar bebas risiko (RFR) sebagai kadar rujukan alternatif atau sandaran bagi menggantikan Kadar Tawaran Antara Bank London (LIBOR) selepas penamatannya secara kekal adalah dibenarkan atas pertimbangan berikut:  
+> Kaedah kompaun hanyalah kaedah aritmetik untuk menentukan kadar tempoh yang tidak menjejaskan pematuhan Syariah sesuatu urus niaga; dan  
+> Ketidakpastian (gharar) yang berlaku dalam sesuatu kontrak yang terhasil daripada penggunaan kadar purata bebas risiko atau kadar tempoh berasaskan pandang ke belakang (backward-looking) pada waktu pembayaran boleh diatasi. Antaranya melalui penentuan dan pendedahan harga jualan siling dan formula pengiraan pembayaran berkala kepada pelanggan pada awal kontrak.  
+> Dalam proses peralihan kepada kadar bebas risiko alternatif, Jawatankuasa Syariah setiap institusi kewangan Islam hendaklah menentukan kesesuaian penggunaan kaedah anggap setuju (deemed consent) dalam memperakui persetujuan pelanggan bagi memasukkan peruntukan sandaran (fallback provision) ke dalam terma dan syarat kontrak.  
+
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Bahagian I: Keputusan MPS, Tarikh Kuat Kuasa dan Pemakaian Menurut seksyen 52 Akta Bank Negara Malaysia 2009, MPS telah memutuskan bahawa penggunaan kadar bebas risiko (RFR) sebagai kadar rujukan alternatif atau sandaran bagi menggantikan Kadar Tawaran Antara Bank London (LIBOR) selepas penamatannya secara kekal adalah dibenarkan atas pertimbangan berikut: i. Kaedah kompaun hanyalah kaedah aritmetik untuk menentukan kadar tempoh yang tidak menjejaskan pematuhan Syariah sesuatu urus niaga; dan ii. Ketidakpastian (gharar) yang berlaku dalam sesuatu kontrak yang terhasil daripada penggunaan kadar purata bebas risiko atau kadar tempoh berasaskan pandang ke belakang (backward-looking) pada waktu pembayaran boleh diatasi. Antaranya melalui penentuan dan pendedahan harga jualan siling dan formula pengiraan pembayaran berkala kepada pelanggan pada awal kontrak. Dalam proses peralihan kepada kadar alternatif bebas risiko, Jawatankuasa Syariah setiap institusi kewangan Islam hendaklah menentukan kesesuaian penggunaan kaedah anggap setuju (deemed consent) dalam memperakui persetujuan pelanggan bagi memasukkan peruntukan sandaran (fallback provision) ke dalam terma dan syarat kontrak. Keputusan ini berkuat kuasa serta merta pada tarikh penerbitannya dalam laman sesawang Bank Negara Malaysia pada 22 Mac 2021 dan terpakai ke atas institusi kewangan Islam (IKI) berikut: (a) orang berlesen menurut Akta Perkhidmatan Kewangan Islam 2013 (APKI); (b) bank berlesen dan bank pelaburan berlesen yang diluluskan di bawah seksyen 15(1) Akta Perkhidmatan Kewangan 2013 (APK) untuk menjalankan perniagaan kewangan Islam; dan (c) institusi yang ditetapkan yang diluluskan di bawah seksyen 33B(1) Akta Institusi Kewangan Pembangunan 2002 (DFIA) untuk menjalankan perniagaan kewangan Islam. Selaras dengan seksyen 28(1) dan (2) APKI atau seksyen 33D(1) dan (2) DFIA, mengikut mana-mana yang berkenaan, IKI dikehendaki mematuhi keputusan ini kerana pematuhan dengan apa-apa keputusan MPS berkenaan dengan sebarang matlamat tertentu dan pengendalian perniagaan, hal ehwal atau aktiviti IKI tersebut adalah disifatkan sebagai pematuhan kepada Syariah. Bahagian II: Latar Belakang  Pada tahun 2017, Financial Conduct Authority United Kingdom (FCA) telah mengumumkan bahawa penerbitan Kadar Tawaran Antara Bank London (LIBOR) akan ditamatkan pada akhir tahun 2021. Kekurangan bilangan urus niaga yang benar-benar berdasarkan LIBOR menjadikan kadar rujukan tersebut tidak lagi tepat bagi menggambarkan keadaan pasaran dan tidak mampan. Oleh itu, semua kontrak sedia ada yang merujuk kepada LIBOR perlu beralih kepada kadar rujukan alternatif sebelum akhir tahun 2021. 1 Mesyuarat MPS 210 2020  Berikutan perkembangan ini, di peringkat global, pasaran kewangan telah bersetuju untuk menggunapakai kadar bebas risiko (risk-free rate, RFR) sebagai kadar penanda aras alternatif bagi menggantikan LIBOR. Ini memandangkan ianya berasaskan urus niaga sebenar dan lebih mencerminkan keadaan pasaran.  Perbandingan antara RFR dan LIBOR adalah seperti berikut: Aspek Kadar Bebas Risiko Alternatif (RFR) Kadar Tawaran Antara Bank London (LIBOR) Pentadbir Bank pusat bagi setiap mata wang, Intercontinental Exchange (ICE). kecuali kadar bebas risiko Swiss Average Rate Overnight (SARON) yang ditadbir oleh Swiss Exchange. Kaedah Berdasarkan urus niaga sebenar di Serahan data harian berdasarkan pasaran wang. pandangan bank-bank panel. Kadar Hanya mempunyai kadar semalaman Mempunyai kadar semalaman dan juga Tempoh kadar tempoh bagi pelbagai jangka Kadar tempoh diperolehi berdasarkan masa berdasarkan pendekatan kaedah kompaun secara tertunggak pandang ke hadapan. Pendekatan (compounded setting in-arrears). Oleh yang digunapakai membolehkan jumlah itu, kadar tempoh sebenar dan jumlah pembayaran diketahui pada awal pembayaran tidak diketahui pada awal tempoh pembayaran. tempoh pembayaran 1. Premium Tidak mengandungi spread risiko kredit Mengandungi spread risiko kredit bank. Risiko bank yang menjadikan ia kebiasaannya lebih rendah berbanding LIBOR. Turun Naik Lebih stabil kerana pergerakannya yang Turut dipengaruhi komponen spread (Volatility) seiring dengan kadar polisi bank pusat. risiko kredit bank. Pergerakannya mencerminkan perubahan pada risiko…
+
+
+#### 6.2.19 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 30th Special meeting (revised on 16 October 2020)
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/the-shariah-advisory-council-of-bank-negara-malaysia-the-sac-30th-special-meeting-1
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> Artikel ini cuma terdapat dalam Bahasa Inggeris buat masa sekarang.  
+
+
+#### 6.2.20 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 190th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-190th-meeting
+- **PDF (EN):** https://www.bnm.gov.my/documents/20124/1085561/190th+Meeting+Statement+%28Eng%29.pdf
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/1085561/190th+Meeting+Statement+%28BM%29.pdf
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> Keputusan Mesyuarat Majlis Penasihat Shariah (MPS) Bank Negara Malaysia ke-190  
+> Majlis Penasihat Shariah (MPS) Bank Negara Malaysia pada mesyuarat ke-190 bertarikh 26 Februari 2019 telah memutuskan bahawa cadangan produk murabahah komoditi bercagar yang menggunakan aset kewangan tanpa skrip sebagai aset cagaran yang merangkumi konsep tawarruq (murabahah komoditi) dan rahn (cagaran) adalah dibenarkan berdasarkan kepada syarat berikut:  
+> Pertukaran pendaftaran aset cagaran (marhun) daripada penggadai (rahin) kepada pemegang gadaian (murtahin) bukanlah pemindahan hak milik sebenar kerana ia hanya melibatkan pemindahan hak perundangan (legal title) semata-mata sedangkan hak benefisial masih kekal di tangan penggadai;  
+> Penggadai masih lagi menanggung kesemua liabiliti berhubung aset cagaran dan berhak mendapat ganjaran yang terhasil daripada aset cagaran tersebut;  
+> Pemegang gadaian tidak berhak untuk menjual aset cagaran kepada pihak ketiga kecuali bagi tujuan pencairan aset apabila berlakunya kemungkiran;  
+> Pemegang gadaian tidak berhak untuk mencagarkan aset cagaran kepada pihak ketiga kecuali dengan izin penggadai; dan  
+> Pemegang gadaian mempunyai kewajipan untuk memulangkan semula aset cagaran kepada penggadai apabila semua hutang murabahah komoditi telah dilunaskan.  
+
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Bahagian I: Keputusan MPS, Tarikh Kuat Kuasa dan Pemakaian Menurut seksyen 52 Akta Bank Negara Malaysia 2009, MPS telah memutuskan bahawa cadangan produk murabahah komoditi bercagar yang menggunakan aset kewangan tanpa skrip sebagai aset cagaran yang merangkumi konsep tawarruq (murabahah komoditi) dan rahn (cagaran) adalah dibenarkan1 berdasarkan kepada syarat berikut: i. Pertukaran pendaftaran aset cagaran (marhun) daripada penggadai (rahin) kepada pemegang gadaian (murtahin) bukanlah pemindahan hak milik sebenar kerana ia hanya melibatkan pemindahan hak perundangan (legal title) semata-mata sedangkan hak benefisial masih kekal di tangan penggadai; ii. Penggadai masih lagi menanggung kesemua liabiliti berhubung aset cagaran2 dan berhak mendapat ganjaran yang terhasil daripada aset cagaran tersebut; iii. Pemegang gadaian tidak berhak untuk menjual aset cagaran kepada pihak ketiga kecuali bagi tujuan pencairan aset apabila berlakunya kemungkiran3; iv. Pemegang gadaian tidak berhak untuk mencagarkan aset cagaran kepada pihak ketiga kecuali dengan izin penggadai4; dan v. Pemegang gadaian mempunyai kewajipan untuk memulangkan semula aset cagaran kepada penggadai apabila semua hutang murabahah komoditi telah dilunaskan5. Keputusan ini berkuatkuasa setelah MPS memutuskan keputusannya pada 26 Februari 2019 dan terpakai ke atas institusi kewangan Islam (IKI) berikut: (a) orang berlesen menurut Akta Perkhidmatan Kewangan Islam 2013 (APKI); (b) bank berlesen atau bank pelaburan berlesen yang diluluskan di bawah seksyen 15(1) Akta Perkhidmatan Kewangan 2013 (APK) untuk menjalankan perniagaan kewangan Islam; dan (c) institusi yang ditetapkan yang diluluskan di bawah seksyen 33B(1) Akta Institusi Kewangan Pembangunan 2002 (DFIA) untuk menjalankan perniagaan kewangan Islam. Selaras dengan seksyen 28(1) dan (2) APKI atau seksyen 33D (1) dan (2) DFIA, mengikut mana-mana yang berkenaan, IKI dikehendaki mematuhi keputusan ini kerana pematuhan dengan apa-apa keputusan MPS berkenaan dengan sebarang matlamat tertentu dan pengendalian, perniagaan, hal ehwal atau aktiviti IKI tersebut adalah disifatkan sebagai pematuhan kepada Syariah. Bahagian II: Latar Belakang  Sebuah IKI telah mencadangkan suatu instrumen kecairan yang dikenali sebagai murabahah komoditi bercagar (Collateralised Commodity Murabahah - CCM). CCM adalah instrumen kewangan Islam yang diperkenalkan bertujuan untuk meningkatkan kecairan dalam pasaran 1 Perenggan 19.1 dokumen polisi Rahn (DP Rahn). 2 Perenggan 16.2 dan 16. 3 DP Rahn. 3 Perenggan 14.10 DP Rahn. 4 Perenggan 15.3(a) DP Rahn. 5 Perenggan 14.13 dan 27.2 DP Rahn. 1 Mesyuarat MPS ke-190 2019 kewangan Islam dan menyediakan instrumen tambahan bagi IKI untuk mendapatkan dana melalui peletakan dana oleh institusi perbankan lain dan/atau institusi bukan perbankan/pelanggan.  CCM adalah aturan yang merangkumkan konsep tawarruq (murabahah komoditi) dan rahn. Pelabur meletakkan dana dengan memeterai perjanjian murabahah komoditi dengan IKI. Oleh itu, IKI perlu membayar harga jualan tertangguh (prinsipal ditambah keuntungan) kepada pelabur pada tarikh matang. IKI (sebagai penghutang) mencagarkan aset kewangan tanpa skrip kepada pelabur sebagai jaminan ke atas keberhutangannya. Memandangkan aset cagaran yang terlibat adalah sekuriti tanpa skrip atau instrumen kewangan6, hak perundangan bagi aset cagaran akan dipindahkan kepada pelabur dan direkodkan dalam akaun kustodian (custodian account) melalui RENTAS7 atau sistem penyelesaian yang lain. Ini bertujuan melindungi hak pelabur/pemiutang untuk mencairkan aset cagaran sekiranya berlaku situasi kemungkiran. Pada tarikh matang, sebaik sahaja IKI melunaskan obligasi pembayaran tertangguh, pelabur akan mengembalikan aset cagaran kepada IKI. Penerangan ringkas berhubung produk yang dicadangkan 1. Pelabur memeterai perjanjian murabahah komoditi dan meletakkan dana dengan IKI. Pelabur melantik IKI sebagai wakil untuk membeli komoditi. 2. IKI membeli komoditi daripada pembekal komoditi A bagi pihak pelabur secara tunai. 3. IKI seterusnya membeli komoditi daripada pelabur dengan harga tertangguh. 4. IKI menjual komoditi kepada pembekal komoditi B secara tunai. 5. IKI perlu mencagarkan aset sepanjang tempoh keberhutangan bagi menjamin hutangnya. Dalam hal ini: a. Aset yang dicagarkan mesti memenuhi keperluan modal pengawalseliaan (regulatory capital requirement). 6 Perenggan 14.1 (b) DP Rahn. 7 Sistem Pemindahan Dana dan Sekuriti Secara Elektronik Masa Nyata (Real-time Electronic…
+
+
+#### 6.2.21 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 194th and 195th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/mesyuarat-ke-194-195-majlis-penasihat-shariah-bank-negara-malaysia
+- **PDF (EN):** https://www.bnm.gov.my/documents/20124/1085561/SAC+194th+%26+195th+Meeting+Statement+%28ENG%29.pdf
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/1085561/SAC+194th+%26+195th+Meeting+Statement+%28BM%29.pdf
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> Keputusan Mesyuarat Majlis Penasihat Shariah (MPS) ke-194 dan ke-195  
+> Majlis Penasihat Shariah (MPS) Bank Negara Malaysia pada mesyuarat ke-194 bertarikh 25 Jun 2019 dan mesyuarat ke-195 bertarikh 31 Julai 2019 telah memutuskan bahawa struktur semasa produk ar-rahnu yang ditawarkan oleh institusi kewangan Islam (IKI) berasaskan gabungan kontrak qard (pinjaman), rahn (cagaran), wadi`ah (simpanan) dan ujrah (upah simpan) tidak memenuhi keperluan Syariah yang ditetapkan dalam Dokumen Polisi (PD) Rahn berdasarkan hujah-hujah berikut:  
+> Keberkaitan dan kebergantungan kontrak, rahn, wadi`ah dan ujrah dengan kontrak qard dalam struktur produk ini menimbulkan isu qard jarra naf`an (pinjaman yang menjana manfaat kepada pemberi pinjam) dan bai` wa salaf (gabungan kontrak jual beli dan pinjaman) yang tidak dibenarkan Syarak. Dalam struktur produk ini, salah satu kontrak tidak akan efektif tanpa kewujudan kontrak lain. Sebagai contoh, qard hanya diberikan dengan syarat pelanggan menyimpan emas dan membayar upah simpanan emas tersebut. Hal ini secara tidak langsung mewujudkan keberkaitan antara qard dan caj upah simpan yang membawa kepada isu qard jarra naf’an; dan  
+> Kombinasi rahn dan qard dalam produk ar-rahnu bagi menjana keuntungan tidak menepati objektif kontrak (muqtada `aqd) rahn dan qard memandangkan objektif asal kedua-dua kontrak adalah untuk cagaran dan kebajikan (charity).  
+> MPS pada mesyuarat ke-195 turut memutuskan perkara-perkara berikut:  
+> Tarikh kuatkuasa keputusan MPS pada mesyuarat ke-194 bertarikh 25 Jun 2019 berhubung produk ar-rahnu yang menggunakan struktur di atas adalah pada 1 Februari 2020;  
+> IKI dibenarkan secara sementara menggunapakai pandangan Jawatankuasa Syariah (JKS) masing-masing berkenaan produk ar-rahnu sehingga tarikh keputusan MPS berkuatkuasa; dan  
+> Pembiayaan ar-rahnu yang berdasarkan keputusan terdahulu JKS IKI yang masih tertunggak dan sebarang penawaran baru sebelum tarikh berkuatkuasa keputusan MPS termasuk pendapatan yang diperoleh daripada portfolio tersebut, boleh diteruskan sehingga ianya matang.  
+
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Mesyuarat MPS ke-195 2019 Mesyuarat Majlis Penasihat Shariah (MPS) Bank Negara Malaysia Ke-194 dan Ke-195 MPS pada mesyuarat ke-194 bertarikh 25 Jun 2019 dan mesyuarat ke-195 bertarikh 31 Julai 2019 telah memutuskan perkara berikut: Pematuhan Produk Pajak Gadai Islam (Ar-Rahnu) Terhadap Dokumen Polisi Rahn (PD Rahn) Keputusan MPS pada mesyuarat ke-194 bertarikh 25 Jun 2019 memutuskan bahawa struktur semasa produk ar-rahnu yang ditawarkan oleh institusi kewangan Islam (IKI) berasaskan gabungan kontrak qard (pinjaman), rahn (cagaran), wadi`ah (simpanan) dan ujrah (upah simpan) tidak memenuhi keperluan Syariah yang ditetapkan dalam PD Rahn berdasarkan hujah-hujah berikut: (i) Keberkaitan dan kebergantungan kontrak, rahn, wadi`ah dan ujrah dengan kontrak qard dalam struktur produk ini menimbulkan isu qard jarra naf`an (pinjaman yang menjana manfaat kepada pemberi pinjam) dan bai` wa salaf (gabungan kontrak jual beli dan pinjaman) yang tidak dibenarkan Syarak. Dalam struktur produk ini, salah satu kontrak tidak akan efektif tanpa kewujudan kontrak lain. Sebagai contoh, qard hanya diberikan dengan syarat pelanggan menyimpan emas dan membayar upah simpanan emas tersebut. Hal ini secara tidak langsung mewujudkan keberkaitan antara qard dan caj upah simpan yang membawa kepada isu qard jarra naf’an; dan (ii) Kombinasi rahn dan qard dalam produk ar-rahnu bagi menjana keuntungan tidak menepati objektif kontrak (muqtada `aqd) rahn dan qard memandangkan objektif asal kedua-dua kontrak adalah untuk cagaran dan kebajikan (charity). MPS pada mesyuarat ke-195 turut memutuskan perkara-perkara berikut: (i) Tarikh kuatkuasa keputusan MPS pada mesyuarat ke-194 bertarikh 25 Jun 2019 berhubung produk ar-rahnu yang menggunakan struktur di atas adalah pada 1 Februari 2020; (ii) IKI dibenarkan secara sementara menggunapakai pandangan Jawatankuasa Syariah (JKS) masing-masing berkenaan produk ar-rahnu sehingga tarikh keputusan MPS berkuatkuasa; dan (iii) Pembiayaan ar-rahnu yang berdasarkan keputusan terdahulu JKS IKI yang masih tertunggak dan sebarang penawaran baru sebelum tarikh berkuatkuasa keputusan MPS termasuk pendapatan yang diperoleh daripada portfolio tersebut, boleh diteruskan sehingga ianya matang. Latar Belakang  Produk ar-rahnu adalah alternatif kepada amalan pajak gadai konvensional yang melibatkan riba.  Secara umumnya, produk ar-rahnu yang ditawarkan oleh IKI melibatkan empat kontrak Syariah iaitu qard (pinjaman), rahn (cagaran), wadi`ah (simpanan) dan ujrah (upah simpan). Pembiayaan berasaskan ar-rahnu dilaksanakan melalui proses pencagaran emas yang diterima sebagai syarat bagi pinjaman yang akan diberikan oleh IKI. IKI akan menyimpan aset cagaran tersebut berdasarkan konsep wadi`ah dan caj upah simpan akan dikenakan ke atas perkhidmatan tersebut. 1 Mesyuarat MPS ke-195 2019  Bank Negara Malaysia telah menerbitkan PD Rahn (berkuatkuasa 1 Ogos 2019) yang menggariskan keperluan Syariah dan operasi berkaitan dengan kontrak Rahn. Dalam hal ini, keperluan yang ditetapkan dalam PD Rahn adalah terpakai bagi penawaran produk ar-rahnu memandangkan ia menggunapakai kontrak rahn.  PD Rahn menetapkan bahawa caj yang dikenakan berkaitan kontrak rahn mestilah terhad kepada kos yang berkait langsung dengan transaksi rahn tanpa sebarang elemen keuntungan.  Berdasarkan perkara tersebut, terdapat persoalan berkenaan status kepatuhan Syariah produk ar-rahnu sedia ada terhadap keperluan PD Rahn. Sehubungan itu, MPS telah dirujuk berkenaan perkara di atas. Isu Syariah Adakah produk ar-rahnu sedia ada memenuhi keperluan Syariah? Ilustrasi Struktur Produk Ar-Rahnu Isu Utama Perbincangan MPS Kebergantungan dan persyaratan antara qard dengan kontrak upah simpanan aset cagaran  Dalam struktur ar-rahnu, hanya pelanggan yang menyimpan dan mencagarkan emas mereka kepada IKI akan layak untuk mendapatkan pinjaman dari IKI. Upah bagi perkhidmatan penyimpanan emas akan dikenakan kepada pelanggan bergantung kepada nilai emas yang dicagarkan.  Berdasarkan amalan tersebut, didapati terdapat persyaratan dan kebergantungan yang jelas antara kontrak qard dan kontrak upah perkhidmatan simpanan yang dimeterai antara pihak IKI dan pelanggan. 2 Mesyuarat MPS ke-195 2019 Elemen keuntungan dalam upah simpanan ke atas aset cagaran  Dalam amalan semasa, kadar upah simpanan emas yang dikenakan oleh IKI kepada pelanggan ditentukan berdasarkan nilai emas yang dicagarkan. Kaedah penentuan kadar upah simpanan ini didapati mengandungi elemen keuntungan dan ini adalah tid…
+
+
+#### 6.2.22 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 194th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-194th-meeting
+- **PDF (EN):** https://www.bnm.gov.my/documents/20124/1085561/SAC+194th+Meeting+Statement+%28Eng%29.pdf
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/1085561/SAC+194th+Meeting+Statement+%28BM%29.pdf
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> MPS Bank Negara Malaysia pada mesyuarat ke-194 bertarikh 25 Jun 2019 telah memutuskan perkara berikut:  
+> MPS meluluskan struktur cadangan produk pembiayaan import Surat Kredit Islamik (Surat Kredit-i) berasaskan kontrak bai` istijrar (jual beli bekalan dengan harga tangguh) tertakluk kepada syarat-syarat berikut:  
+> Perjanjian Fasiliti (Facility Agreement) bagi produk ini hendaklah memperincikan perkara-perkara berikut:  
+> Tanggungjawab pengimport (pelanggan) sebagai wakil untuk melaksanakan pembelian barangan bagi pihak institusi kewangan Islam (IKI);  
+> Tanggungjawab pengimport untuk membeli barangan daripada IKI ketika penerimaan barangan dan/atau dokumen; dan  
+> Risiko dan liabiliti pihak-pihak berkontrak berkaitan pemilikan barangan pada setiap peringkat transaksi jual beli.  
+> Memastikan transaksi di atas dilaksanakan dalam aturan proses yang betul iaitu tanggungjawab pengimport sebagai wakil pembelian barangan bagi pihak IKI mestilah disempurnakan terlebih dahulu sebelum pembelian barangan oleh pengimport daripada pihak IKI dilaksanakan.  
+> Kelulusan MPS berhubung kontrak bai` istijrar ini hanya terhad kepada struktur yang dicadangkan sahaja berikutan terdapat keperluan yang khusus berhubung produk pembiayaan bagi pelaksanaan pembiayaan perdagangan.  
+
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Mesyuarat MPS ke-194 2019 Mesyuarat Majlis Penasihat Shariah (MPS) Bank Negara Malaysia Ke-194 MPS Bank Negara Malaysia pada mesyuarat ke-194 bertarikh 25 Jun 2019 telah memutuskan perkara berikut: Produk Pembiayaan Import Surat Kredit Islamik Berasaskan Kontrak Bai` Istijrar Keputusan MPS meluluskan struktur cadangan produk pembiayaan import Surat Kredit Islamik (Surat Kredit-i) berasaskan kontrak bai` istijrar (jual beli bekalan dengan harga tangguh) tertakluk kepada syarat-syarat berikut: i. Perjanjian Fasiliti (Facility Agreement) bagi produk ini hendaklah memperincikan perkara-perkara berikut: a. Tanggungjawab pengimport (pelanggan) sebagai wakil untuk melaksanakan pembelian barangan bagi pihak institusi kewangan Islam (IKI); b. Tanggungjawab pengimport untuk membeli barangan daripada IKI ketika penerimaan barangan dan/atau dokumen; dan c. Risiko dan liabiliti pihak-pihak berkontrak berkaitan pemilikan barangan pada setiap peringkat transaksi jual beli. ii. Memastikan transaksi di atas dilaksanakan dalam aturan proses yang betul iaitu tanggungjawab pengimport sebagai wakil pembelian barangan bagi pihak IKI mestilah disempurnakan terlebih dahulu sebelum pembelian barangan oleh pengimport daripada pihak IKI dilaksanakan. Kelulusan MPS berhubung kontrak bai` istijrar ini hanya terhad kepada struktur yang dicadangkan sahaja berikutan terdapat keperluan yang khusus berhubung produk pembiayaan bagi pelaksanaan pembiayaan perdagangan. Latar Belakang  Terdapat cadangan daripada IKI untuk menawarkan produk pembiayaan import Surat Kredit-i berasaskan kontrak bai` istijrar. Pembiayaan import Surat Kredit-i memberi kemudahan kepada pengimport untuk mendapatkan pembiayaan bagi pembelian barangan daripada pihak pengeksport berdasarkan Surat Kredit-i yang dikeluarkan oleh IKI.  Cadangan untuk menggunakan kontrak bai` istijrar merupakan alternatif kepada amalan pasaran semasa yang mengaplikasikan kontrak murabahah dan/atau tawarruq dalam menstruktur produk pembiayaan Surat Kredit-i. Isu Syariah  Adakah struktur pembiayaan import Surat Kredit-i berasaskan kontrak bai` istijrar yang dicadangkan patuh Syariah? 1 Mesyuarat MPS ke-194 2019 Ilustrasi struktur pembiayaan import Surat Kredit-i yang dicadangkan 2 Pengimport 6 Pengeksport 11 9 3 1 5 7 4 Bank Bank Pengeluar Penasihat 8 (IKI) 10 1. Penawaran fasiliti:  Pihak-pihak berkontrak menandatangi Perjanjian Fasiliti;  Lantikan wakil – lantikan IKI sebagai pengeluar Surat Kredit-i, menyemak dokumen dan membuat pembayaran kepada pengeksport. Lantikan pengimport sebagai wakil pembelian bagi pihak IKI; dan  Janji (wa`d) pengimport untuk membeli barangan daripada IKI selepas penerimaan barangan/dokumen; 2. Pengimport membuat pesanan barangan bagi pihak IKI; 3. Pengimport membuat permohonan pengeluaran Surat Kredit-i; 4. IKI mengeluarkan Surat Kredit-i; 5. Bank penasihat memaklumkan pengeksport berhubung Surat Kredit-i; 6. Pengeksport membuat penghantaran barang kepada pengimport; 7. Pengeksport mengemukakan dokumen kepada bank penasihat; 8. Bank penasihat mengemukakan dokumen kepada IKI; 9. IKI menyerahkan dokumen kepada pengimport; * 10. IKI membuat pembayaran harga mengikut invois kepada pengeksport melalui bank penasihat; dan 11. Pengimport membuat bayaran ke atas harga jualan pada tempoh matang. * Nota: Bagi penghantaran barangan melalui kapal yang melibatkan Bill of Lading, jualan barangan daripada IKI kepada pengimport akan berlaku semasa serahan dokumen. Manakala bagi penghantaran barangan selain melalui kapal contohnya melalui keretapi, kapal terbang atau melalui Pesanan Penghantaran (Delivery Order), terdapat kemungkinan pengimport akan mengambil atau menerima barangan lebih awal sebelum penerimaan dokumen daripada IKI. Dalam situasi ini, jualan barangan oleh IKI kepada pengimport berlaku ketika pengimport mengambil barangan tersebut. Pengiraan harga jualan akan dimuktamadkan pada masa hadapan apabila IKI menyerahkan dokumen kepada pengimport. 2…
+
+
+#### 6.2.23 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 191st Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-191st-meeting
+- **PDF (EN):** https://www.bnm.gov.my/documents/20124/1085561/SAC+191st+Meeting+Statement+%28Eng%29.pdf
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/1085561/SAC+191st+Meeting+Statement+%28BM%29.pdf
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> MPS Bank Negara Malaysia pada mesyuarat ke-191 bertarikh 26 Mac 2019 telah memutuskan perkara berikut:  
+> Mekanisme Pengurangan Rebat (ibra’) bagi Menampung Sebahagian Kos Dalam Produk Pembiayaan Aliran Tunai (cashline)  
+> MPS memutuskan bahawa tiada halangan Syarak dalam meluluskan cadangan mekanisme pengurangan rebat (ibra’) ke atas baki pembiayaan aliran tunai (cashline-i) yang belum digunakan (unutilised) berasaskan murabahah / tawarruq bagi menampung sebahagian kos yang ditanggung oleh pembiaya yang terhasil daripada pematuhan Piawaian Pelaporan Kewangan Malaysia 9 (MFRS 9). Bagi tujuan menyelaraskan amalan, Bank Negara Malaysia selaku pengawal selia boleh menentukan dasar atau garis panduan yang bersesuaian berhubung pelaksanaan mekanisme tersebut dalam industri kewangan Islam di Malaysia bagi memastikan kepentingan semua pihak diambil kira.  
+
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Mesyuarat MPS ke-191 2019 Mesyuarat Majlis Penasihat Shariah (MPS) Bank Negara Malaysia Ke-191 MPS Bank Negara Malaysia pada mesyuarat ke-191 bertarikh 26 Mac 2019 telah memutuskan perkara berikut: Mekanisme Pengurangan Rebat (ibra’) bagi Menampung Sebahagian Kos Dalam Produk Pembiayaan Aliran Tunai (cashline) Keputusan MPS memutuskan bahawa tiada halangan Syarak dalam meluluskan cadangan mekanisme pengurangan rebat (ibra’) ke atas baki pembiayaan aliran tunai (cashline-i) yang belum digunakan (unutilised) berasaskan murabahah / tawarruq bagi menampung sebahagian kos yang ditanggung oleh pembiaya yang terhasil daripada pematuhan Piawaian Pelaporan Kewangan Malaysia 9 (MFRS 9). Bagi tujuan menyelaraskan amalan, Bank Negara Malaysia selaku pengawal selia boleh menentukan dasar atau garis panduan yang bersesuaian berhubung pelaksanaan mekanisme tersebut dalam industri kewangan Islam di Malaysia bagi memastikan kepentingan semua pihak diambil kira. Latar Belakang  Secara umumnya, institusi kewangan perlu menanggung kos-kos tertentu dalam memberikan kemudahan pembiayaan kepada pelanggan. Kos ini boleh meningkat dengan pelaksanaan MFRS 9 (yang menggantikan piawaian MFRS 139) bermula tahun kewangan 1 Januari 2018, khususnya berkenaan peruntukan jejas nilai baharu yang lebih bersifat memandang ke hadapan. Piawaian peruntukan ini memerlukan institusi kewangan membuat anggaran jangkaan kerugian kredit sama ada untuk 12 bulan akan datang atau sepanjang tempoh kemudahan dengan mengambil kira perkembangan mikro dan makroekonomi di masa lalu, semasa dan masa hadapan. Ini berbeza dengan MFRS 139, yang hanya mengambil kira peruntukan jejas nilai apabila terdapat bukti jejas nilai yang jelas iaitu pendekatan kerugian ditanggung. 1 Mesyuarat MPS ke-191 2019  Dalam konteks produk cashline-i, berdasarkan ii. Sekiranya pelanggan menggunakan piawaian MFRS 9, institusi kewangan Islam keseluruhan amaun kemudahan, kadar ibra’ (IKI) perlu membuat peruntukan jejas nilai yang diberikan adalah perbezaan antara kadar (impairment provision) atas kemudahan fasiliti keuntungan siling dan kadar keuntungan yang diberikan termasuk baki amaun kemudahan efektif. yang tidak digunakan. Kesan daripada iii. Sekiranya terdapat baki kemudahan yang pematuhan piawaian ini, IKI perlu menanggung belum digunakan, maka kadar ibra’ yang kos yang lebih tinggi memandangkan IKI tidak diberikan adalah lebih rendah tertakluk dibenarkan untuk mengenakan sebarang caj atas kepada perbezaan antara kadar keuntungan baki kemudahan yang tidak digunakan. siling dan kadar keuntungan lantai.  Bagi menangani isu ini, Persatuan Institusi  Berikut adalah ilustrasi perbezaan kadar Perbankan Islam Malaysia (AIBIM) yang pengurangan ibra’ semasa dan kadar yang mewakili pihak industri kewangan Islam telah dicadangkan: mengemukakan cadangan mekanisme Jadual Kadar Ibra’ pengurangan rebat (ibra’) atas baki pembiayaan Amalan aliran tunai yang belum digunakan bagi Jenis kadar Cadangan menampung sebahagian kos yang terhasil semasa daripada peruntukan jejas nilai yang tinggi di Kadar keuntungan siling 12% 12% bawah MFRS 9. Kadar keuntungan efektif ke atas amaun 8% 8%  Berikut adalah huraian terhadap cadangan yang pembiayaan yang (Ibra’ = 4%) (Ibra’ = 4%) dikemukakan: digunakan i. AIBIM mencadangkan jenis kadar yang Kadar keuntungan ke baharu iaitu kadar keuntungan lantai yang atas baki amaun pembiayaan yang tidak 0% akan dikenakan sekiranya amaun 1% digunakan (sebagai (Ibra’ = kemudahan tidak digunakan sepenuhnya. (Ibra’ = 11%) illustrasi kadar 12%) Kadar keuntungan lantai ini merupakan keuntungan lantai tambahan kepada struktu…
+
+
+#### 6.2.24 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 188th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-188th-meeting
+- **PDF (EN):** https://www.bnm.gov.my/documents/20124/1085561/SAC+188th+Meeting+Statement+%28ENG%29.pdf
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/1085561/Kenyataan+Keputusan+Mesyuarat+MPS+ke-188.pdf
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> Majlis Penasihat Shariah (MPS) Bank Negara Malaysia pada mesyuarat ke-188 bertarikh 30 Oktober 2018 telah memutuskan bahawa cadangan model financial retakaful (FinRe) berdasarkan konsep hibah bithawab (hibah disertai dengan imbalan) di antara pengendali takaful dan pengendali takaful adalah tidak dibenarkan berdasarkan hujah-hujah berikut:  
+> Secara prinsipnya, aplikasi konsep hibah bithawab adalah suatu bentuk tabarru` yang biasanya diamalkan untuk tujuan saling menghargai (mukaramah) dan berkasih sayang (widad). Oleh itu, ia tidak sesuai untuk diaplikasikan dalam konteks perniagaan yang bermotifkan keuntungan kerana ia akan menukar konsep hibah bithawab daripada tabarru` kepada mu`awadhat;  
+> Sehubungan itu, hibah bithawab yang bermotifkan perniagaan dan keuntungan adalah tidak dibenarkan. Sebaliknya, aplikasi kontrak tabarru` dalam takaful (dana risiko) yang berlaku sesama peserta untuk mendapatkan perlindungan takaful (tidak bermotifkan perniagaan/keuntungan secara substantif) adalah dibenarkan;  
+> Tambahan pula, konsep hibah bithawab yang melibatkan kedua-dua hibah dan obligasi thawab (imbalan) dalam bentuk wang boleh menjurus kepada transaksi yang mempunyai elemen riba; dan  
+> Konsep hibah bithawab tidak boleh diaplikasi atas dasar darurah atau hajah memandangkan terdapat konsep Syariah alternatif yang lebih sesuai bagi struktur model FinRe yang dicadangkan.  
+
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Mesyuarat MPS ke-188 2018 Mesyuarat Majlis Penasihat Shariah (MPS) Bank Negara Malaysia Ke-188 MPS Bank Negara Malaysia pada mesyuarat ke-188 bertarikh 30 Oktober 2018 telah memutuskan perkara berikut: Model Financial Retakaful berdasarkan Konsep Hibah Bithawab Keputusan MPS tidak meluluskan cadangan model financial retakaful (FinRe) berdasarkan konsep hibah bithawab (hibah disertai dengan imbalan) di antara pengendali takaful dan pengendali takaful semula berdasarkan hujah-hujah berikut:  Secara prinsipnya, aplikasi konsep hibah bithawab adalah suatu bentuk tabarru` yang biasanya diamalkan untuk tujuan saling menghargai (mukaramah) dan berkasih sayang (widad). Oleh itu, ia tidak sesuai untuk diaplikasikan dalam konteks perniagaan yang bermotifkan keuntungan kerana ia akan menukar konsep hibah bithawab daripada tabarru` kepada mu`awadhat;  Sehubungan itu, hibah bithawab yang bermotifkan perniagaan dan keuntungan adalah tidak dibenarkan. Sebaliknya, aplikasi kontrak tabarru` dalam takaful (dana risiko) yang berlaku sesama peserta untuk mendapatkan perlindungan takaful (tidak bermotifkan perniagaan/keuntungan secara substantif) adalah dibenarkan;  Tambahan pula, konsep hibah bithawab yang melibatkan kedua-dua hibah dan obligasi thawab (imbalan) dalam bentuk wang boleh menjurus kepada transaksi yang mempunyai elemen riba; dan  Konsep hibah bithawab tidak boleh diaplikasi atas dasar darurah atau hajah memandangkan terdapat konsep Syariah alternatif yang lebih sesuai bagi struktur model FinRe yang dicadangkan. Latar Belakang Isu Syariah  Cadangan FinRe berdasarkan hibah  Adakah struktur model FinRe hibah bithawab yang bithawab merupakan suatu pengaturan dicadangkan patuh Syariah? usaha sama antara pengendali takaful dan pengendali takaful semula bagi membantu  Adakah aplikasi konsep hibah bithawab dalam struktur pengendali takaful mengurus beban berikut menimbulkan sebarang isu Syariah? perbelanjaan (expense strain) bagi perniagaan baharu takaful dengan lebih Struktur Model FinRe yang Dicadangkan efektif.  Pengaturan ini merupakan salah satu strategi bagi mengurus beban perbelanjaan dana pemegang saham pengendali takaful, kesan daripada keperluan Minimum Allocation Rate (MAR)1 yang akan berkuatkuasa pada 1 Januari 2019. Keperluan MAR menetapkan kadar peruntukan minimum sumbangan peserta takaful yang perlu dikekalkan dalam dana unit bagi produk berkaitan pelaburan (investment-linked product).  Melalui konsep hibah bithawab, secara ringkasnya, pengendali takaful semula akan 1 Life Insurance and Family Takaful Framework, diterbitkan pada 23 November 2015. 1 Mesyuarat MPS ke-188 2018 memberi hibah kepada pengendali takaful untuk membantu menampung perbelanjaan perniagaan baharu.  Sebagai balasan ke atas hibah yang diterima, pengendali takaful bersetuju untuk berkongsi pendapatan yang diterima daripada perniagaan baharu tersebut. Isu dan Asas Pertimbangan MPS Pandangan ulama berhubung konsep hibah bithawab  Terdapat dua bentuk hibah bithawab yang telah dibincangkan oleh ulama. Pertama adalah hibah yang disertakan dengan imbalan (thawab) mengikut `uruf/kebiasaan masyarakat setempat dan yang kedua adalah hibah yang disyaratkan dengan pemberian imbalan2. Majoriti ulama mengharuskan hibah bithawab yang menjadi kebiasaan/`uruf masyarakat setempat. Namun begitu, ulama berbeza pandangan berhubung hibah bithawab yang mana imbalan menjadi syarat kepada pemberian hibah.3  Ulama dalam mazhab Syafii4 dan Hanbali berpandangan bahawa hibah bithawab adalah tidak sah sekiranya imbalan tidak diketahui (majhul). Di samping itu, ia juga bertentangan dengan muqtada akad (objektif kontrak) hibah. Namun sekiranya thawab telah ditetapkan (ta`yin), kontrak tersebut bukan lagi bersifat hibah malah ia telah bertukar kepada kontrak jual beli.5  Mazhab Hanafi pula menganggap ia kekal sebagai hibah di peringkat awal, namun selepas berlakunya serah terima (qabd) daripada kedua-dua pihak berkontrak, kontrak tersebut dikira sebagai kontrak jual beli.6  Mazhab Maliki melihat konsep hibah yang disyaratkan thawab adalah harus tetapi dikira sebagai kontrak…
+
+
+#### 6.2.25 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 187th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-187th-meeting
+- **PDF (EN):** https://www.bnm.gov.my/documents/20124/1085561/SAC+187th+Meeting+Statement+%28Eng%29.pdf
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/1085561/SAC+187th+Meeting+Statement+%28BM%29.pdf
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> Majlis Penasihat Shariah (MPS) Bank Negara Malaysia pada mesyuarat ke-187 bertarikh 27 Ogos 2018 telah memutuskan bahawa pengaplikasian kontrak musyarakah antara pengendali takaful dan pengendali takaful semula bagi mengurus beban perbelanjaan pengendali takaful berikutan pelaksanaan keperluan ‘Kadar Peruntukan Minimum’ dibenarkan, tertakluk kepada syarat-syarat berikut:  
+> Modal musyarakah terutamanya yang berbentuk wang tidak boleh dianggap sebagai fi wakalah pendahuluan (upfront wakalah fee) kerana ia tidak selari dengan ciri-ciri kontrak musyarakah;  
+> Modal musyarakah hendaklah diasingkan (ring-fenced) dan tidak bercampur dengan modal lain dalam dana pemegang saham dan dana-dana lain terutamanya dana tabarru`;  
+> Penentuan keuntungan dan kerugian musyarakah mestilah menggambarkan keuntungan dan kerugian sebenar bagi portfolio tertentu, yang perlu diasingkan (ring-fenced) daripada portfolio-portfolio yang lain; dan  
+> Modal musyarakah yang berbentuk bukan kewangan (sekiranya ada) hendaklah dinilai berdasarkan nilaian wang ketika pemeteraian kontrak musyarakah.  
+
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Mesyuarat MPS ke-187 2018 Mesyuarat Majlis Penasihat Shariah (MPS) Bank Negara Malaysia Ke-187 MPS Bank Negara Malaysia pada mesyuarat ke-187 bertarikh 27 Ogos 2018 telah memutuskan perkara berikut: Aplikasi Kontrak Musyarakah bagi Mengurus Beban Perbelanjaan Pengendali Takaful Keputusan MPS memutuskan bahawa pengaplikasian kontrak musyarakah antara pengendali takaful dan pengendali takaful semula bagi mengurus beban perbelanjaan pengendali takaful berikutan pelaksanaan keperluan ‘Kadar Peruntukan Minimum’ dibenarkan, tertakluk kepada syarat-syarat berikut: i. Modal musyarakah terutamanya yang berbentuk wang tidak boleh dianggap sebagai fi wakalah pendahuluan (upfront wakalah fee) kerana ia tidak selari dengan ciri-ciri kontrak musyarakah; ii. Modal musyarakah hendaklah diasingkan (ring-fenced) dan tidak bercampur dengan modal lain dalam dana pemegang saham dan dana-dana lain terutamanya dana tabarru`; iii. Penentuan keuntungan dan kerugian musyarakah mestilah menggambarkan keuntungan dan kerugian sebenar bagi portfolio tertentu, yang perlu diasingkan (ring-fenced) daripada portfolio- portfolio yang lain; dan iv. Modal musyarakah yang berbentuk bukan kewangan (sekiranya ada) hendaklah dinilai berdasarkan nilaian wang ketika pemeteraian kontrak musyarakah. Latar Belakang  Terdapat cadangan oleh pengendali takaful Isu Syariah untuk memeterai kontrak musyarakah dengan  Adakah struktur musyarakah yang pengendali takaful semula bagi membolehkan dicadangkan patuh Syariah? pengendali takaful mengurus beban perbelanjaan (expense strain) berkaitan Ilustrasi struktur musyarakah antara perniagaan baharu takaful dengan lebih efektif. pengendali takaful dan pengendali takaful semula  Pengaturan ini merupakan salah satu strategi bagi mengurus tekanan ke atas dana pemegang saham pengendali takaful, berikutan keperluan ‘Kadar Peruntukan Minimum’ (Minimum Allocation Rate, MAR)1 yang berkuatkuasa pada 1 Januari 2019. Keperluan MAR menetapkan kadar peruntukan minimum sumbangan peserta takaful yang perlu dikekalkan dalam dana unit bagi produk berkaitan pelaburan (investment- linked product).  Kedua-dua pengendali takaful dan takaful semula akan memasuki kontrak musyarakah bagi menanggung perbelanjaan portfolio tertentu secara bersama dalam tempoh waktu tertentu. 1 Rangka Kerja Insurans Hayat dan Takaful Keluarga (Life Insurance and Family Takaful Framework), diterbitkan pada 23 November 2015. 1 Mesyuarat MPS ke-187 2018 Isu Utama Perbincangan MPS Kaedah pengiraan dan pembahagian keuntungan dan kerugian bagi musyarakah  Pengiraan keuntungan adalah berdasarkan nilai yang melebihi modal musyarakah. Keuntungan dan kerugian kontrak musyarakah akan ditentukan berdasarkan pengagihan lebihan dan defisit bagi portfolio di bawah musyarakah.  Sumber keuntungan bagi musyarakah adalah hasil daripada aliran tunai bersih berdasarkan pengiraan seperti berikut:  Aliran tunai bersih = [Fi wakalah + caj sijil + lebihan dana tabarru`] tolak (-) [Komisen untuk ejen + perbelanjaan pengurusan]  Pembahagian keuntungan dan kerugian bagi rakan-rakan kongsi dalam musyarakah adalah berkadaran (proportionate) dengan sumbangan modal masing-masing. Justikasi pengagihan keuntungan kepada pihak pengendali takaful semula (salah satu rakan kongsi)  Pengendali takaful semula berhak untuk menerima keuntungan atas dasar sumbangan modal (harta) yang diberikan meskipun pengendali takaful semula tidak terlibat secara aktif dalam perniagaan takaful bagi portfolio di bawah musyarakah. Kaedah pengasingan portfolio takaful di bawah musyarakah  Portfolio takaful di bawah musyarakah akan diletakkan dalam dana tabarru` yang diuruskan secara berasingan daripada dana tabarru` bagi portfolio-portfolio takaful yang lain.  Portfolio takaful di bawah musyarakah akan diasingkan (ring-fenced) secara sepenuhnya dan direkodkan secara berasingan daripada perspektif perakaunan. Dalam hal ini, tiada percampuran dan subsidi bersilang antara dana tabarru` di bawah musyarakah dengan dana-dana tabarru` yang lain. Pelaksanaan qard apabila dana tabarru` di bawah musyarakah mengalami defisit  Obligasi untuk memberikan qard kepada dana tabarru` sekiranya berlaku defisit masih di bawah tanggungjawab pengendali takaful, selaras dengan ‘Garis Panduan Rangka Kerja Operasi Takaful’ yang diterbitkan oleh Bank Negara Malaysia (BNM).  Di samping itu, pihak pengendali takaful semula juga…
+
+
+#### 6.2.26 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 186th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac186th-meeting
+- **PDF (EN):** https://www.bnm.gov.my/documents/20124/1085561/SAC+186th+Meeting+Statement+%28Eng%29.pdf
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/1085561/SAC+186th+Meeting+Statement+%28BM%29.pdf
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> Majlis Penasihat Shariah (MPS) Bank Negara Malaysia pada mesyuarat ke-186 bertarikh 31 Julai 2018 telah memutuskan bahawa agihan baki lebihan dana takaful (setelah melunaskan kesemua hak peserta takaful dan liabiliti dana takaful tersebut) dalam situasi penggulungan sesebuah pengendali takaful ke dalamdana perlindungan takafulyang dimiliki dan ditadbir oleh Perbadanan Insurans Deposit Malaysia (PIDM) dibenarkan menurut Syarak, dengan syarat lebihan tersebut mestilah digunakan terlebih dahulu untuk menampung defisit dana-dana takaful lain dan liabiliti pengendali takaful yang digulung tersebut.  
+
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Mesyuarat MPS ke-186 2018 Mesyuarat Majlis Penasihat Shariah (MPS) Bank Negara Malaysia Ke-186 MPS Bank Negara Malaysia pada mesyuarat ke-186 bertarikh 31 Julai 2018 telah memutuskan perkara berikut: Pengagihan Baki Lebihan Dana Takaful dalam Situasi Penggulungan Sesebuah Pengendali Takaful Keputusan MPS memutuskan bahawa agihan baki lebihan dana takaful (setelah melunaskan kesemua hak peserta takaful dan liabiliti dana takaful tersebut) dalam situasi penggulungan sesebuah pengendali takaful ke dalam dana perlindungan takaful yang dimiliki dan ditadbir oleh Perbadanan Insurans Deposit Malaysia (PIDM) dibenarkan menurut Syarak, dengan syarat lebihan tersebut mestilah digunakan terlebih dahulu untuk menampung defisit dana-dana takaful lain dan liabiliti pengendali takaful yang digulung tersebut. Latar Belakang  Terdapat cadangan daripada pihak PIDM Isu Syariah untuk mengagihkan baki lebihan suatu dana takaful (yang ditadbir oleh pengendali  Adakah agihan baki lebihan dana takaful yang takaful) dalam situasi penggulungan dicadangkan patuh Syariah? sesebuah pengendali takaful ke dalam dana Ilustrasi agihan baki lebihan dana takaful perlindungan takaful yang dimiliki dan ditadbir oleh PIDM.  Cadangan agihan ini bertujuan mengukuhkan dana PIDM bagi melaksanakan mandatnya dalam memberi perlindungan terhadap kehilangan manfaat takaful sekiranya sesebuah pengendali takaful mengalami kegagalan; dan dalam masa yang sama dapat menggalak serta menyumbang kepada kestabilan sistem kewangan. Isu Utama Perbincangan MPS Status pemilikan lebihan dana takaful (yang ditadbir oleh pengendali takaful) dalam situasi penggulungan sesebuah pengendali takaful  Baki lebihan tersebut tidak lagi dimiliki oleh mana-mana peserta dan pengendali takaful. Ini kerana, segala liabiliti dana takaful dan hak-hak peserta telah dilunaskan sebelum lebihan dana takaful tersebut disalurkan ke dalam dana perlindungan takaful yang ditadbir dan dimiliki oleh PIDM. Kaedah agihan baki lebihan aset dana takaful ke dalam dana perlindungan takaful PIDM  Terdapat dua (2) jenis dana perlindungan takaful yang dimiliki dan ditadbir oleh PIDM iaitu Dana Perlindungan Takaful Am (DPTA) dan Dana Perlindungan Takaful Keluarga (DPTK).  Agihan baki lebihan sesuatu dana takaful kepada DPTA atau DPTK bergantung kepada jenis perniagaan pengendali takaful yang gagal tersebut, sama ada menjalankan perniagaan takaful am atau takaful keluarga.  Agihan baki lebihan ini juga hanya akan dilaksanakan setelah (i) hak-hak peserta takaful dan liabiliti dana tersebut dilunaskan, dan (ii) lebihan ini digunakan untuk menampung defisit dalam dana takaful lain dan juga liabiliti pengendali takaful yang digulung. 1 Mesyuarat MPS ke-186 2018 Tujuan penggunaan dana perlindungan takaful PIDM  Antara tujuan utama dana perlindungan takaful PIDM ialah seperti berikut: − Pembayaran manfaat takaful di dalam situasi penggulungan sesebuah pengendali takaful; − Penyelesaian kegagalan sesebuah pengendali takaful; dan − Pembayaran bagi perbelanjaan PIDM, termasuk pembangunan infrastruktur dan pengurusan modal insan bagi memastikan kesediaan (readiness) PIDM. Keharusan PIDM menggunakan baki lebihan dana takaful bagi tujuan perbelanjaan  Tiada halangan Syariah terhadap penggunaan baki lebihan dana takaful tersebut bagi tujuan perbelanjaan PIDM selagi mana ia memberi manfaat kepada sektor takaful secara keseluruhan dan mematuhi kehendak tadbir urus yang baik. Asas Pertimbangan  Keharusan kaedah pengagihan baki lebihan dana takaful dalam kes penggulungan sesebuah pengendali takaful sepertimana dicadangkan ini adalah berdasarkan pertimbangan siyasah syar`iyyah1 bagi mengukuhkan lagi dana perlindungan takaful PIDM. Ini penting bagi PIDM melaksanakan mandatnya dalam mentadbir sistem perlindungan yang efektif terhadap peserta-peserta takaful, lantas menyumbang kepada kestabilan sistem kewangan. Ianya sejajar dengan kaedah fiqah berikut: ‫تصرف اإلمام على الرعية منوط بالمصلحة‬ “Urusan pemimpin ke atas rakyat berpaksikan maslahah.” 2  Tambahan pula, baki lebihan dana takaful ini tidak lagi dimiliki oleh mana-mana pihak termasuk peserta dan pengendali takaful. Oleh itu, pihak pemerintah atau badan pengawal selia boleh menentukan kaedah agihan baki lebihan dana takaful tersebut, selaras dengan keputusan MPS terdahulu seperti berikut: MPS dalam mesyuarat ke-114 bertarikh 28 Julai 2011 telah memutuskan bahawa dalam kes penggulungan sesebuah pengendali takaful, lebihan kumpulan wang risiko peserta (setelah dilunaska…
+
+
+#### 6.2.27 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 182nd Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-182nd-meeting
+- **PDF (EN):** https://www.bnm.gov.my/documents/20124/1085561/SAC+182nd+Statement+%28BI%29+FINAL.pdf
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/1085561/Kenyataan+Mesyuarat+MPS+182+%28BM%29+FINAL.pdf
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> MPS memutuskan bahawa amalan pencagaran akaun deposit atau pelaburan terhadap obligasi hutang pembiayaan adalah dibenarkan. Dalam hal ini, akaun sebagai aset cagaran (marhun) tersebut boleh digunakan oleh institusi kewangan Islam (IKI) sebagai penerima cagaran (murtahin) dengan keizinan pelanggan sebagai pencagar (rahin) tertakluk kepada syarat-syarat berikut:  
+> Pelanggan diberi pilihan untuk mencagarkan mana-mana akaun sama ada yang berbentuk deposit atau pelaburan sebagai cagaran terhadap obligasi hutang pembiayaan; dan  
+> Obligasi yang ditanggung oleh pelanggan bukan terhasil daripada kontrak pinjaman (qard).  
+
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Mesyuarat MPS ke-182 2017 Mesyuarat Majlis Penasihat Shariah (MPS) Bank Negara Malaysia Ke-182 MPS Bank Negara Malaysia pada mesyuarat ke-182 bertarikh 28 November 2017 telah memutuskan perkara berikut: Pencagaran Akaun Deposit atau Pelaburan Dalam Institusi Kewangan Islam Keputusan MPS memutuskan bahawa amalan pencagaran akaun deposit atau pelaburan terhadap obligasi hutang pembiayaan adalah dibenarkan. Dalam hal ini, akaun sebagai aset cagaran (marhun) tersebut boleh digunakan oleh institusi kewangan Islam (IKI) sebagai penerima cagaran (murtahin) dengan keizinan pelanggan sebagai pencagar (rahin) tertakluk kepada syarat-syarat berikut: (i) Pelanggan diberi pilihan untuk mencagarkan mana-mana akaun sama ada yang berbentuk deposit atau pelaburan sebagai cagaran terhadap obligasi hutang pembiayaan; dan (ii) Obligasi yang ditanggung oleh pelanggan bukan terhasil daripada kontrak pinjaman (qard). Latar Belakang  Dalam industri perbankan Islam, terdapat Isu Syariah amalan menjadikan akaun deposit atau  Adakah aset berbentuk akaun deposit pelaburan sebagai cagaran terhadap obligasi atau pelaburan boleh diterima sebagai hutang pembiayaan. Jika berlaku kes aset cagaran? kemungkiran pembayaran, akaun cagaran tersebut akan digunakan oleh IKI untuk  Apakah penyesuaian fiqah bagi aset melunaskan baki hutang. cagaran yang berbentuk akaun deposit dan pelaburan serta hukum  Akaun tersebut akan berada dalam status lien penggunaannya oleh penerima cagaran sehingga keseluruhan obligasi hutang daripada perspektif Syariah? pembiayaan dilunaskan. Dalam masa yang sama, akaun tersebut juga masih beroperasi Ilustrasi contoh pencagaran akaun deposit sebagai akaun deposit atau pelaburan yang 1. Pelanggan mengambil pembiayaan daripada IKI dan akan digunakan oleh IKI untuk menjalankan mempunyai obligasi untuk membayar dalam tempoh operasi dan aktivitinya. yang dipersetujui  Sehubungan itu, MPS dirujuk berkaitan isu aset cagaran yang berbentuk akaun deposit atau pelaburan yang digunakan oleh IKI dan 2. Pelanggan mencagarkan akaun deposit kepada IKI pelayanannya daripada perspektif Syariah. Mesyuarat MPS ke-182 2017 Isu Utama Perbincangan MPS Apakah ciri-ciri aset yang boleh diterima sebagai aset cagaran?  Berdasarkan pemerhatian terhadap pandangan mazhab berhubung ciri-ciri aset cagaran, didapati ulama Hanafi mengambil pandangan yang paling ketat, contohnya aset yang berbentuk hutang dan musya` (aset yang tidak boleh dibahagikan) tidak boleh dijadikan sebagai cagaran manakala sebahagian ulama Maliki mengambil pendekatan yang lebih ringan kerana cagaran adalah sejenis kontrak sokongan, di mana aset yang mempunyai unsur gharar yang sedikit boleh dijadikan cagaran.  Di samping itu, jenis-jenis aset yang telah diiktiraf fuqaha untuk dijadikan cagaran termasuklah aset yang berbentuk fizikal, hutang, musya` dan lain-lain.  Para fuqaha juga mengharuskan pencagaran wang tunai, yang mana mazhab Maliki mensyaratkan keperluan untuk memastikan wang tersebut tidak digunakan oleh penerima cagaran. Apakah resolusi Shariah dan pandangan ulama kontemporari berhubung akaun deposit yang digunakan sebagai aset cagaran?  Piawaian Syariah Accounting and Auditing Organization for Islamic Financial Institutions (AAOIFI) berhubung rahn1 menetapkan bahawa dalam kes akaun semasa dan aset tunai yang dijadikan cagaran, pihak IKI tidak dibenarkan menggunakan aset cagaran tersebut. Namun pihak IKI dan pelanggan boleh bersetuju untuk memindahkan amaun dalam akaun semasa tersebut ke akaun pelaburan yang mana hukumnya bertukar daripada qard kepada mudarabah. Manakala keuntungan yang dijana akan dikongsi berdasarkan nisbah keuntungan yang dipersetujui. Dalam hal ini, AAOIFI berpandangan bahawa keharusan aset cagaran berbentuk akaun tunai adalah bersandarkan kepada keharusan pencagar untuk mencagar aset miliknya yang berada dalam pegangan penerima cagaran.  Majma` Fiqh Islami2 memutuskan bahawa amalan mencagarkan akaun deposit adalah harus, sama ada ia akaun simpanan, akaun semasa atau akaun pelaburan. Ia mestilah dibuat dengan memastikan bahawa jumlah baki dalam akaun tidak dikeluarkan oleh pendeposit sepanjang tempoh cagaran. Sekiranya bank ialah penerima cagaran, amaun dalam akaun deposit mestilah dipindahkan ke akaun pelaburan dan kesannya adalah kontrak bertukar daripada qard kepada…
+
+
+#### 6.2.28 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 181st Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-181st-meeting
+- **PDF (EN):** https://www.bnm.gov.my/documents/20124/1085561/SAC+181st+Meeting+Statement+EN.pdf
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/1085561/Kenyataan+MPS+181_BM.pdf
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> Keputusan Majlis Penasihat Shariah (MPS) Bank Negara Malaysia  
+> MPS dalam mesyuarat ke-181 pada 27 Oktober 2017 telah membuat keputusan berhubung empat isu Syariah berkaitan dengan kontrak ijarah seperti yang berikut:  
+> ii. Pihak yang menanggung risiko sekiranya jumlah pampasan takaful / insurans tidak mencukupi untuk menampung baki pembiayaan ijarah dalam kes kerosakan keseluruhan (total loss).  
+> iii. Jenis-jenis kerosakan yang boleh membawa kepada penamatan kontrak ijarah.  
+
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Mesyuarat MPS ke-181 2017 Mesyuarat Majlis Penasihat Shariah (MPS) Bank Negara Malaysia Ke-181 MPS Bank Negara Malaysia pada mesyuarat ke-181 bertarikh 27 Oktober 2017 telah memutuskan perkara berikut: 1) Amalan perlindungan insurans bagi pembiayaan ijarah Keputusan MPS MPS memutuskan bahawa bagi tahun pertama pembiayaan ijarah, institusi kewangan Islam (IKI) hendaklah memastikan takaful menjadi pilihan pertama bagi pelan perlindungan. IKI hendaklah sedaya mungkin mengesyorkan perlindungan takaful bagi tahun kedua pembiayaan dan seterusnya. Pelanggan diberi kelonggaran untuk mengambil perlindungan insurans dalam keadaan- keadaan berikut: i. Perlindungan takaful tidak ditawarkan bagi sektor atau kelas tertentu; ii. Permohonan pelanggan tidak diterima oleh kesemua pengendali takaful; atau iii. Kos perlindungan insurans adalah lebih kompetitif secara signifikan berbanding kos perlindungan takaful. MPS turut bersetuju sekiranya pelan insurans diambil disebabkan keadaan-keadaan di atas, jumlah premium insurans tersebut boleh dimasukkan sebagai sebahagian daripada jumlah pembiayaan ijarah. Latar Belakang  Berdasarkan prinsip Syariah, pembiayaan secara Isu Syariah Islam perlu dilindungi oleh pelan perlindungan  Adakah diharuskan pembiayaan ijarah takaful. Namun, terdapat kelonggaran dalam dilindungi oleh perlindungan insurans. keadaan tertentu yang membenarkan pelanggan untuk mengambil perlindungan insurans. Sungguhpun begitu, memandangkan aset dalam Ilustrasi : Perkaitan antara pembiayaan dan pelindungan pembiayaan ijarah adalah milik IKI, maka takaful / insurans tanggungjawab IKI untuk memastikan aset kepunyaannya dilindungi oleh takaful menjadi lebih 1. Pelanggan mengambil pembiayaan kereta utama. berasaskan konsep al-ijarah thumma al- bai’ (AITAB)  Piawaian Syariah Ijarah menyatakan pemilik aset boleh mengambil pelindungan takaful bagi tujuan 2. Pelanggan mengambil pengurusan risiko kerosakan dan kerugian. perlindungan takaful / insurans bagi pembiayaan G 16.7 The lessor may mitigate specific risks yang diambil relating to loss, damage or impairment of the leased asset through a takaful coverage. IKI merupakan pemilik kereta Pengendali Takaful yang disewakan.  Dalam konteks amalan semasa, terdapat kes aset / Syarikat Insurans ijarah dilindungi menerusi perlindungan insurans dan bukannya takaful. 1 Mesyuarat MPS ke-181 2017 Isu Utama Perbincangan MPS Apakah amalan semasa berhubung perlindungan dalam ijarah?  Kebanyakan pembiayaan ijarah dilindungi menerusi perlindungan takaful.  Namun, terdapat situasi pelanggan mengambil perlindungan insurans bagi pembiayaan ijarah khususnya bagi produk sewa beli kenderaan. Pendekatan ini diambil atas beberapa pertimbangan berikut: i. Pilihan terletak di tangan pelanggan sama ada ingin mengambil perlindungan takaful ataupun insurans; ii. Pihak pengedar kenderaan mempunyai panel insurans tersendiri bagi urusan perlindungan kenderaan; iii. IKI hanya memberi penekanan terhadap perlindungan takaful bagi tahun pertama pembiayaan sahaja tanpa memberi penekanan untuk mengekalkan perlindungan takaful tersebut bagi tahun-tahun berikutnya; iv. Bilangan pelanggan yang ramai menimbulkan kesukaran terhadap IKI untuk memantau dan memastikan semua pelanggan mengambil perlindungan takaful sepanjang tempoh pembiayaan. Tambahan pula, kos perlindungan ditanggung sepenuhnya oleh pelanggan; atau v. Terdapat syarikat insurans menawarkan perlindungan pada harga yang lebih kompetitif kepada pelanggan. Adakah dibenarkan aset ijarah dilindungi oleh insurans?  Secara prinsipnya, aset ijarah hendaklah dilindungi oleh perlindungan takaful. Penekanan ini juga dapat memperkukuhkan lagi industri takaful dan pembangunan sektor kewangan Islam.  Namun, wujud situasi tertentu yang menimbulkan kesukaran pelanggan untuk mendapatkan perlindungan takaful bagi aset ijarah. Oleh itu, pelanggan sepatutnya diberikan kelonggaran un…
+
+
+#### 6.2.29 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 179th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-179th-meeting
+- **PDF (EN):** https://www.bnm.gov.my/documents/20124/1085561/SAC+179th+Meeting+Statement+EN.pdf
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/1085561/SAC+179th+Meeting+Statement+BM.pdf
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> Majlis Penasihat Shariah (MPS) memutuskan bahawa majlis akad bagi bai` al-sarf (pertukaran mata wang) merujuk kepada suatu tempoh masa berlakunya pemeteraian kontrak pertukaran mata wang yang bermula dengan penawaran (ijab) dan diiringi dengan penerimaan (qabul) serta diakhiri dengan perpisahan (disengagement) pihak-pihak berkontrak secara fizikal atau konstruktif, atau pelepasan hak untuk membatalkan kontrak (takhayur). Serah terima mata wang dalam bai` al-sarf mestilah berlaku ketika majlis akad.  
+> Amalan serah terima mata wang dalam bai` al-sarf, contohnya yang dilaksanakan pada hari kedua selepas tarikh transaksi (T+2) dianggap berlaku selepas majlis akad. Walau bagaimanapun, amalan tersebut boleh dibenarkan berdasarkan amalan pasaran (`urf tijari) ekoran daripada kekangan operasi. Di samping itu, serah terima mata wang selepas majlis akad juga boleh dibenarkan sekiranya berlaku gangguan di luar jangkaan (unexpected disruption).  
+
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Mesyuarat MPS ke-179 2017 Mesyuarat Majlis Penasihat Shariah (MPS) Bank Negara Malaysia Ke-179 MPS Bank Negara Malaysia pada mesyuarat ke-179 bertarikh 22 Ogos 2017 telah memutuskan perkara berikut: Penentuan Majlis Akad dan Serah Terima Bagi Bai` al-Sarf Dalam Operasi Kewangan Semasa Keputusan MPS memutuskan bahawa majlis akad bagi bai` al-sarf (pertukaran mata wang) merujuk kepada suatu tempoh masa berlakunya pemeteraian kontrak pertukaran mata wang yang bermula dengan penawaran (ijab) dan diiringi dengan penerimaan (qabul) serta diakhiri dengan perpisahan (disengagement) pihak-pihak berkontrak secara fizikal atau konstruktif, atau pelepasan hak untuk membatalkan kontrak (takhayur). Serah terima mata wang dalam bai` al-sarf mestilah berlaku ketika majlis akad. Amalan serah terima mata wang dalam bai` al-sarf, contohnya yang dilaksanakan pada hari kedua selepas tarikh transaksi (T+2) dianggap berlaku selepas majlis akad. Walau bagaimanapun, amalan tersebut boleh dibenarkan berdasarkan amalan pasaran (`urf tijari) ekoran daripada kekangan operasi. Di samping itu, serah terima mata wang selepas majlis akad juga boleh dibenarkan sekiranya berlaku gangguan di luar jangkaan (unexpected disruption). Latar Belakang  Bai` al-sarf merujuk kepada kontrak Isu Syariah pertukaran/jual beli mata wang. Dalam Syariah,  Apakah definisi majlis akad bagi bai` al-sarf serah terima mata wang (subjek akad) dalam dalam konteks operasi perbankan Islam bai` al-sarf mestilah berlaku secara lani (spot) semasa? dalam majlis akad (majlis al-`aqd).  Adakah serah terima yang berlaku pada hari  Dalam hal ini, terdapat keperluan untuk kedua selepas tarikh pemeteraian bai` al-sarf menentukan majlis akad bagi bai` al-sarf dalam (T+2) dianggap sebagai penyerahan semasa konteks operasi perbankan semasa dan juga atau selepas majlis akad? menentukan sama ada serah terima mata wang yang berlaku pada hari kedua selepas tarikh (Sila rujuk ilustrasi berhubung contoh transaksi (T+2) adalah dianggap sebagai kontrak pertukaran mata wang) disempurnakan semasa atau selepas majlis Ilustrasi : akad. Contoh kontrak pertukaran mata wang 1. Pelanggan membeli RM4000 daripada  Hal ini penting bagi memastikan kepatuhan IKI dengan bayaran harga USD1000 Syariah dalam pelaksanaan urus niaga mata wang asing oleh institusi-institusi kewangan Islam (IKI). 2. IKI menerima bayaran USD1000 daripada pelanggan lalu menyerahkan RM4000 kepada pelanggan Serah terima USD1000 dan RM4000 antara pelanggan dan IKI perlu dilakukan di dalam majlis akad. 1 Mesyuarat MPS ke-179 2017 Isu Utama Perbincangan MPS Apakah asas keperluan serah terima subjek akad bai` al-sarf dalam majlis akad?  Keperluan serah terima subjek akad bai` al-sarf dalam majlis akad adalah berdasarkan hadis Rasulullah SAW seperti berikut: ‫ الذهب بالذهب والفضة بالفضة والبر بالبر والشعير بالشعير والتمر بالتمر‬:‫ قال رسول اهلل صلى اهلل عليه وسلم‬:‫عن عبادة بن الصامت قال‬ .‫والملح بالملح مثال بمثل سواء بسواء يدا بيد فإذا اختلفت هذه األصناف فبيعوا كيف شئتم إذا كان يدا بيد‬ Maksudnya: “Dari `Ubadah bin Samit bahawa Rasulullah SAW bersabda: “(Penjualan/pertukaran) emas dengan emas, perak dengan perak, gandum dengan gandum, barli dengan barli, kurma dengan kurma, garam dengan garam, apabila ia sama jenisnya, hendaklah sama kadar atau timbangannya dan hendaklah secara lani. Sekiranya berlainan jenis, maka berjual belilah mengikut kehendak kamu tetapi dengan syarat pertukaran dua barangan tersebut berlaku secara lani (serahan tangan ke tangan).” 1  Tiada khilaf dalam kalangan fuqaha bahawa perkataan ‫( يدا بيد‬tangan dengan tangan) dalam hadis di atas membawa maksud penyerahan kedua-dua subjek akad bai` al-sarf kepada pihak-pihak berkontrak mestilah berlaku dalam majlis akad, sebelum pihak-pihak berkontrak berpisah.2 …
+
+
+#### 6.2.30 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 178th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-178th-meeting
+- **PDF (EN):** https://www.bnm.gov.my/documents/20124/1085561/SAC+178th+Meeting+Statement+%28English+Version%292.pdf
+- **PDF (BM):** https://www.bnm.gov.my/documents/20124/1085561/SAC+178th+Meeting+Statement+%28BM+version%292.pdf
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> Majlis Penasihat Shariah (MPS) Bank Negara Malaysia pada mesyuarat ke-178 telah memutuskan bahawa kontrak qard secara insidental boleh dilakukan melalui kaedah unjuk terima (mu`atah) dan fleksibiliti boleh diberikan oleh pihak pengawal selia untuk membenarkan institusi kewangan Islam (IKI) melaksanakan kontrak qard tersebut, tanpa memerlukan sebarang dokumentasi qard.  
+
+
+**Permulaan pernyataan (PDF BM, ekstrak teks):**
+
+> Mesyuarat MPS ke-178 2017 Mesyuarat Majlis Penasihat Shariah (MPS) Bank Negara Malaysia Ke-178 MPS Bank Negara Malaysia pada mesyuarat ke-178 bertarikh 25 Julai 2017 telah memutuskan perkara berikut: Pemeteraian Kontrak Qard Yang Bersifat Insidental 1 Secara Unjuk Terima (Mu`atah) Keputusan MPS memutuskan bahawa kontrak qard secara insidental boleh dilakukan melalui kaedah unjuk terima (mu`atah) dan fleksibiliti boleh diberikan oleh pihak pengawal selia untuk membenarkan institusi kewangan Islam (IKI) melaksanakan kontrak qard tersebut, tanpa memerlukan sebarang dokumentasi qard. Latar Belakang  Transaksi secara unjuk terima ialah transaksi Isu Syariah yang dilaksanakan hanya melalui perlakuan  Sama ada kontrak qard secara insidental boleh (conduct) tanpa melibatkan ekspresi dilaksanakan melalui kaedah unjuk terima tanpa penawaran dan penerimaan (ijab dan qabul) sebarang dokumentasi qard. yang jelas sama ada secara lisan atau (Sila rujuk Rajah 1 berhubung contoh kontrak dokumentasi. qard secara insidental)  Amalan unjuk terima dalam konteks tadbir urus masa kini agak tidak sesuai untuk diterima Rajah 1: pakai kerana ia sukar dibuktikan sekiranya Contoh kontrak qard secara insidental berlaku pertikaian (dispute) antara pihak-pihak 1. Pelanggan meletakkan deposit ke berkontrak. dalam akaun bagi melaksanakan tawarruq  Oleh itu, bagi memastikan ketelusan transaksi kewangan dan menjaga kepentingan pihak- pihak berkontrak, semua kontrak yang 2. IKI tidak dapat melaksanakan tawarruq pada hari yang dimeterai perlu dibuktikan dengan jelas melalui sama serta sukar untuk mengelak daripada menggunakan dokumentasi atau rekod. wang deposit pelanggan  Namun, keperluan dokumentasi penawaran dan penerimaan (ijab dan qabul) terutamanya Hakikatnya, penggunaan wang deposit pelanggan oleh bagi pelaksanaan kontrak qard yang bersifat IKI adalah dianggap sebagai qard secara insidental insidental menimbulkan kesukaran operasi IKI. Isu Utama Perbincangan MPS Apakah yang menyebabkan kesukaran operasi bagi melaksanakan kontrak qard secara insidental melalui dokumentasi?  Keperluan dokumentasi bagi kontrak qard secara insidental berkemungkinan melibatkan kos tambahan dan boleh menjejaskan kecekapan operasi IKI.  Tambahan pula, kontrak qard secara insidental tidak menjadi tujuan asal (not originally intended) dan hanya berkemungkinan berlaku pada situasi tertentu sahaja. Oleh itu, timbul kesukaran untuk menyediakan dokumentasi qard sekiranya ia berlaku secara insidental. Apakah pandangan fuqaha berhubung pelaksanaan kontrak melalui kaedah unjuk terima? 1. Pandangan mu`tamad dalam Mazhab Syafi`i  Pelaksanaan kontrak secara unjuk terima tidak diharuskan. Ini kerana, unjuk terima tidak semestinya mencerminkan niat dan persetujuan pihak-pihak berkontrak untuk melaksanakan kontrak tersebut. 2 1 Dalam konteks ini, kontrak insidental merujuk kepada kontrak yang tidak menjadi tujuan asal (originally unintended contract). 2 Zakariya al-Ansari, Asna al-Matalib Syarh Raudh al-Talib, Dar al-Kutub al-`Ilmiyyah, Beirut, jil. 2, hlm. 3. Al-Syarbini, Mughni al-Muhtaj, Dar al-Fikr, Beirut, jil. 2, hlm. 117. Mesyuarat MPS ke-178 2017  Meskipun begitu, mazhab Syafi`i membenarkan secara khusus pelaksanaan kontrak qard hukmi tanpa melibatkan penawaran dan penerimaan (ijab dan qabul). Contoh qard hukmi ialah mendahulukan bayaran bagi pihak yang lain dengan niat ia perlu dibayar balik.3 2. Majoriti fuqaha daripada mazhab Hanafi, Maliki dan Hanbali serta sebilangan fuqaha Syafi`i iaitu al- Nawawi, al-Mutawalli dan al-Baghawi  Pelaksanaan kontrak secara unjuk terima secara umumnya dibolehkan kerana ia memadai untuk menunjukkan persetujuan pihak-pihak berkontrak.4 Adakah unjuk terima dapat memenuhi ‘persetujuan’ pihak-pihak berkontrak?  Memandangan Syariah mengiktiraf kaedah pelaksanaan unjuk terima dalam kontrak utama, maka ia boleh juga digunakan dalam kontrak qard secara insidental. Ini kerana, unjuk te…
+
+
+#### 6.2.31 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 177th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-177th-meeting
+
+*No Bahasa Malaysia text found on this BNM page.*
+
+
+#### 6.2.32 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 176th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-176th-meeting
+
+*No Bahasa Malaysia text found on this BNM page.*
+
+
+#### 6.2.33 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 174th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-174th-meeting
+
+*No Bahasa Malaysia text found on this BNM page.*
+
+
+#### 6.2.34 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 173rd Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-173rd-meeting
+
+*No Bahasa Malaysia text found on this BNM page.*
+
+
+#### 6.2.35 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 172nd Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-172nd-meeting
+
+*No Bahasa Malaysia text found on this BNM page.*
+
+
+#### 6.2.36 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 170th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-170th-meeting
+
+*No Bahasa Malaysia text found on this BNM page.*
+
+
+#### 6.2.37 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 169th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-169th-meeting
+
+*No Bahasa Malaysia text found on this BNM page.*
+
+
+#### 6.2.38 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 168th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-168th-meeting
+
+*No Bahasa Malaysia text found on this BNM page.*
+
+
+#### 6.2.39 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 167th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-167th-meeting
+
+*No Bahasa Malaysia text found on this BNM page.*
+
+
+#### 6.2.40 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 166th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-166th-meeting
+
+*No Bahasa Malaysia text found on this BNM page.*
+
+
+#### 6.2.41 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 165th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-165th-meeting
+
+*No Bahasa Malaysia text found on this BNM page.*
+
+
+#### 6.2.42 Shariah Staff Working Paper
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/shariah-staff-working-paper
+- **PDF (EN):** https://www.bnm.gov.my/documents/20124/1085561/Shariah_WP+01+-+TF.pdf
+
+*No Bahasa Malaysia text found on this BNM page or in its attachments.*
+
+
+#### 6.2.43 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 162nd Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-162nd-meeting
+
+*No Bahasa Malaysia text found on this BNM page.*
+
+
+#### 6.2.44 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 160th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-160th-meeting
+- **PDF (Arabic):** https://www.bnm.gov.my/documents/20124/1085561/The+SAC+160th+Meeting+Statement-Arabic.pdf
+
+*No Bahasa Malaysia text found on this BNM page or in its attachments.*
+
+
+#### 6.2.45 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 159th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-159th-meeting
+
+*No Bahasa Malaysia text found on this BNM page.*
+
+
+#### 6.2.46 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 158th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-158th-meeting
+
+*No Bahasa Malaysia text found on this BNM page.*
+
+
+#### 6.2.47 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 157th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-157th-meeting
+
+*No Bahasa Malaysia text found on this BNM page.*
+
+
+#### 6.2.48 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 156th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-156th-meeting
+- **PDF (Arabic):** https://www.bnm.gov.my/documents/20124/1085561/Newsfeed+156+SAC+Meeting+Arab+ver.pdf
+
+*No Bahasa Malaysia text found on this BNM page or in its attachments.*
+
+
+#### 6.2.49 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 155th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-155th-meeting
+- **PDF (Arabic):** https://www.bnm.gov.my/documents/20124/1085561/The+SAC+155th+Meeting+Statement-Arabic.pdf
+
+*No Bahasa Malaysia text found on this BNM page or in its attachments.*
+
+
+#### 6.2.50 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 154th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-154th-meeting
+- **PDF (Arabic):** https://www.bnm.gov.my/documents/20124/1085561/The+SAC+154th+Meeting+Statement-Arabic.pdf
+
+*No Bahasa Malaysia text found on this BNM page or in its attachments.*
+
+
+#### 6.2.51 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 153rd Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-153rd-meeting
+- **PDF (Arabic):** https://www.bnm.gov.my/documents/20124/1085561/The+SAC+153rd+Meeting+Statement-Arabic.pdf
+
+*No Bahasa Malaysia text found on this BNM page or in its attachments.*
+
+
+#### 6.2.52 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 150th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-150th-meeting
+- **PDF (Arabic):** https://www.bnm.gov.my/documents/20124/1085561/The+SAC+150th+Meeting+Statement-Arabic.pdf
+
+*No Bahasa Malaysia text found on this BNM page or in its attachments.*
+
+
+#### 6.2.53 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 151st Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-151st-meeting
+- **PDF (Arabic):** https://www.bnm.gov.my/documents/20124/1085561/The+SAC+151st+Meeting+Statement-Arabic.pdf
+
+*No Bahasa Malaysia text found on this BNM page or in its attachments.*
+
+
+#### 6.2.54 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 148th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-148th-meeting-1
+- **PDF (Arabic):** https://www.bnm.gov.my/documents/20124/1085561/The+SAC+148th+Meeting+Statement-Arabic.pdf
+
+*No Bahasa Malaysia text found on this BNM page or in its attachments.*
+
+
+#### 6.2.55 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 147th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-147th-meeting-1
+- **PDF (Arabic):** https://www.bnm.gov.my/documents/20124/1085561/The+SAC+147th+Meeting+Statement-Arabic.pdf
+
+*No Bahasa Malaysia text found on this BNM page or in its attachments.*
+
+
+#### 6.2.56 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 146th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-146th-meeting
+- **PDF (Arabic):** https://www.bnm.gov.my/documents/20124/1085561/The+SAC+146th+Meeting+Statement-Arabic.pdf
+
+*No Bahasa Malaysia text found on this BNM page or in its attachments.*
+
+
+#### 6.2.57 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 145th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-145th-meeting
+- **PDF (Arabic):** https://www.bnm.gov.my/documents/20124/1085561/The+SAC+145th+Meeting+Statement-Arabic.pdf
+
+*No Bahasa Malaysia text found on this BNM page or in its attachments.*
+
+
+#### 6.2.58 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 144th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-144th-meeting
+- **PDF (Arabic):** https://www.bnm.gov.my/documents/20124/1085561/The+SAC+144th+Meeting+Statement-Arabic.pdf
+
+*No Bahasa Malaysia text found on this BNM page or in its attachments.*
+
+
+#### 6.2.59 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 143rd Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-143rd-meeting
+- **PDF (Arabic):** https://www.bnm.gov.my/documents/20124/1085561/The+SAC+143th+Meeting+Statement-Arabic.pdf
+
+*No Bahasa Malaysia text found on this BNM page or in its attachments.*
+
+
+#### 6.2.60 Exposure Drafts on Islamic Financial Contracts (Shariah Requirements and Optional Practices)
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/exposure-drafts-on-islamic-financial-contracts-shariah-requirements-and-optional-practices-3
+- **PDF (EN):** https://www.bnm.gov.my/documents/20124/761700/01_Hibah.pdf
+- **attachment:** https://www.bnm.gov.my/documents/20124/761700/02_Feedback+Form+-+Hibah.doc
+- **PDF (EN):** https://www.bnm.gov.my/documents/20124/761700/03_Bai+Inah.pdf
+- **attachment:** https://www.bnm.gov.my/documents/20124/761700/04_Feedback+Form+-+Inah.doc
+- **PDF (EN):** https://www.bnm.gov.my/documents/20124/761700/05_Kafalah.pdf
+- **attachment:** https://www.bnm.gov.my/documents/20124/761700/06_Feedback+Form+-+Kafalah.doc
+- **PDF (EN):** https://www.bnm.gov.my/documents/20124/761700/07_Wakalah.pdf
+- **attachment:** https://www.bnm.gov.my/documents/20124/761700/08_Feedback+Form+-+Wakalah.doc
+- **PDF (EN):** https://www.bnm.gov.my/documents/20124/761700/09_Wadi%60ah.pdf
+- **attachment:** https://www.bnm.gov.my/documents/20124/761700/10_Feedback+Form+-+Wadi%60ah.doc
+- **PDF (EN):** https://www.bnm.gov.my/documents/20124/761700/11_+Wa%27d.pdf
+- **attachment:** https://www.bnm.gov.my/documents/20124/761700/12_Feedback+Form+-+Wa%60d.doc
+- **PDF (EN):** https://www.bnm.gov.my/documents/20124/761700/13_Tawarruq.pdf
+- **attachment:** https://www.bnm.gov.my/documents/20124/761700/14_Feedback+Form+-+Tawarruq.doc
+
+*No Bahasa Malaysia text found on this BNM page or in its attachments.*
+
+
+#### 6.2.61 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 142nd Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-142nd-meeting
+- **PDF (Arabic):** https://www.bnm.gov.my/documents/20124/1085561/The+SAC+142nd+Meeting+Statement-Arabic.pdf
+
+*No Bahasa Malaysia text found on this BNM page or in its attachments.*
+
+
+#### 6.2.62 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 141st Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-141st-meeting
+
+*No Bahasa Malaysia text found on this BNM page.*
+
+
+#### 6.2.63 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 140th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-140th-meeting
+- **PDF (Arabic):** https://www.bnm.gov.my/documents/20124/1085561/The+SAC+140th+Meeting+Statement-Arabic.pdf
+
+*No Bahasa Malaysia text found on this BNM page or in its attachments.*
+
+
+#### 6.2.64 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 139th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-139th-meeting
+- **PDF (Arabic):** https://www.bnm.gov.my/documents/20124/1085561/The+SAC+139th+Meeting+Statement-Arabic.pdf
+
+*No Bahasa Malaysia text found on this BNM page or in its attachments.*
+
+
+#### 6.2.65 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 135th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-135th-meeting
+- **PDF (Arabic):** https://www.bnm.gov.my/documents/20124/1085561/The+SAC+135th+Meeting+Statement-Arabic.pdf
+
+*No Bahasa Malaysia text found on this BNM page or in its attachments.*
+
+
+#### 6.2.66 Mesyuarat MPS ke-135 (28 Mei 2013)
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/mesyuarat-sac-135
+
+**Teks halaman BNM (Bahasa Malaysia):**
+
+> Majlis Penasihat Syariah Bank Negara Malaysia (MPS), dalam mesyuaratnya yang ke-135 bertarikh 28 Mei 2013, telah membincangkan isu-isu Syariah seperti berikut:  
+> 1. Panduan Syariah bagi Pelaburan Emas dan Perak dalam Produk Perbankan Islam  
+> Bagi memastikan amalan perbankan yang lebih jelas berhubung dengan pelaburan emas dan perak, MPS telah membincangkan panduan Syariah bagi pelaburan emas yang merangkumi aspek pihak yang berakad, subjek akad, sighah dan penyerahan.  
+> Bagi memuktamadkan kandungan draf Shariah Standard on Musharakah, MPS telah membincangkan takyif fiqhi (penyesuaian fikah) bagi musyarakah mutanaqisah dengan memfokuskan kepada elemen-elemen utama dalam syirkah al-milk dan syirkah al-`aqd.  
+
+
+#### 6.2.67 The Shariah Advisory Council of Bank Negara Malaysia (the SAC) 134th Meeting
+
+- **Tarikh (listed):** tidak dinyatakan pada halaman (rujuk tarikh mesyuarat dalam teks)
+- **Halaman BNM (BM):** https://www.bnm.gov.my/-/sac-134th-meeting
+- **PDF (Arabic):** https://www.bnm.gov.my/documents/20124/1085561/The+SAC+134th+Meeting+Statement-Arabic.pdf
+
+*No Bahasa Malaysia text found on this BNM page or in its attachments.*
+
+
+---
+
+## 7. Latest updates (checked 10 November 2026)
+
+Checked on both the English and Malay SAC "Updates" pages on 10 Nov 2026: **both list the same 67 entries; the newest is the SAC Statement on Imposition of Cash Advance Fee and Annual Fee in Credit Card-i and Arising Matters in Ujrah-based and Tawarruq-based Credit Card-i, dated 3 July 2026** (221st, 229th and 250th meetings; item 4.2.1 / 6.2.1). Nothing newer was posted on those pages at the time of retrieval. BNM's 2026 meeting schedule shows later meetings (e.g. 16 July, 24 September, 20–21 October 2026), but no statements from them were published on the Updates pages when checked. I cannot tell from the website whether rulings from those meetings are pending publication.
+
+Recent SAC-related items (newest first):
+
+| Date | Item | Notes | Link |
+|---|---|---|---|
+| 3 Jul 2026 | SAC Statement and Standards (IFSA s.29(1) / DFIA s.33E(1)): cash advance fee and annual fee in Credit Card-i; ujrah- and tawarruq-based credit card-i | 221st (29 Mar 2022), 229th (30 Mar 2023), 250th (27 Aug 2025) meetings; effective 3 Jul 2026 | https://www.bnm.gov.my/-/sacbnm-mtg250 ; BM: https://www.bnm.gov.my/-/sacbnm-mtg250-bm |
+| 31 Dec 2025 | Press release: reappointment of three SAC members (1 Jan 2026 – 31 Dec 2028); SAC to comprise eight members from 1 Jan 2026 | Names in the release: Dato' Prof. Dr. Ashraf Md Hashim, Prof. Dr. Engku Rabiah Adawiah Engku Ali, Encik Burhanuddin Lukman; Datuk Prof. Dr. Mohamad Akram Laldin completed service on 31 Dec 2025 | https://www.bnm.gov.my/-/sacbnm-mbrs25 |
+| 19 Dec 2025 | SAC Statement and Standards: Inventory Purchase Product Based on Parallel Istisna' Contract | 245th (23 Jan 2025) and 247th (29 Apr 2025) meetings | https://www.bnm.gov.my/-/sacbnm-mtg-1225 |
+| 19 Dec 2025 | Policy Documents: Credit Card and Credit Card-i; Debit Card and Debit Card-i; Charge Card and Charge Card-i | See Section 5 | https://www.bnm.gov.my/standardsandguidelines |
+| 17 Oct 2025 | Published together: SAC Statements on (i) Corporate Insurance Coverage of IFIs (249th); (ii) Paddy Financing Product based on Bai' Salam (247th); (iii) Inventory Purchase based on Parallel Istisna' (245th & 247th, summary); (iv) Funding Facility for Retail Payments Settlement through RENTAS (230th, 234th, 235th); (v) Sell and Buy Back Agreement new features (239th) | Standards under IFSA s.29(1) / DFIA s.33E(1) | Section 4.2.2–4.2.7 |
+| 30 Sep 2025 | Policy Document: Personal Financing (Malay-language document on BNM's listing) | See Section 5 | https://www.bnm.gov.my/standardsandguidelines |
+| 29 Apr 2025 | Press release: appointment of Prof. Dr. Amir Shaharuddin and Prof. Dr. Abdul Rahim Abdul Rahman as new SAC members (1 May 2025 – 30 Apr 2027) | | https://www.bnm.gov.my/-/bnmsac-newmbrs-2025 |
+| 11 Nov 2024 | Discussion Paper: Shariah Contract Framework; Policy Document: Islamic Banking Window | See Section 5 | https://www.bnm.gov.my/standardsandguidelines |
+
+**Note on SAC membership.** BNM's "Members" page (https://www.bnm.gov.my/committees/sac/members) lists current members and also includes names that appear to belong to earlier terms, and I could not reliably separate current from past members from the page text. Use the press releases above for the appointment facts, and check the Members page directly for the current roster.
+
+---
+
+## 8. Bahasa Malaysia versions of Shariah-related reference documents and policy documents
+
+| Document | Malay-language availability on BNM site | Link |
+|---|---|---|
+| *Resolusi Syariah dalam Kewangan Islam*, Edisi Kedua (2010) – Malay edition of the 2nd edition (252 pages) | Malay PDF (listed on the Malay SAC References page) | https://www.bnm.gov.my/documents/20124/66548/shariah_resolutions_2nd_edition.pdf |
+| *Kompilasi Keputusan Syariah Dalam Kewangan Islam*, Edisi Ketiga (2017) | Malay only | https://www.bnm.gov.my/documents/20124/12144436/Kompilasi-Keputusan-Syariah-Dalam-Kewangan-Islam-Edisi-Ketiga-2011-2017.pdf |
+| Manual Rujukan Institusi Kewangan Islam kepada Majlis Penasihat Syariah (2016) | Malay only | https://www.bnm.gov.my/documents/20124/938039/Manual_Rujukan_IKI_kpd_MPS.pdf |
+| Manual Rujukan Mahkamah dan Penimbang Tara kepada Majlis Penasihat Syariah (2014) | Malay only | https://www.bnm.gov.my/documents/20124/38335/Manual+Rujukan+Mahkamah+dan+Penimbang+Tara.pdf |
+| Dokumen Dasar Tadbir Urus Syariah (Policy Document on Shariah Governance, 2019) | Listed on the Malay SAC References page under the Malay title; the linked PDF is the same file as the English-listed one (the text I extracted is English) | https://www.bnm.gov.my/documents/20124/761679/Shariah+Governance+Policy+Document+2019.pdf |
+| Hajah dan Darurah (Policy Document, 3 Jan 2024) | Malay title on the Malay listing; the linked PDF is the same file as the English listing — not verified whether it contains a Malay text | https://www.bnm.gov.my/documents/20124/938039/pd-Hajah-Darurah-Jan2024.pdf |
+| Pembiayaan Peribadi (Personal Financing, 30 Sep 2025) | Document is in Malay | https://www.bnm.gov.my/documents/20124/938039/Dokumen_Dasar_Pembiayaan_Peribadi.pdf |
+| Pelaporan Kewangan oleh Institusi Perbankan Islam (Financial Reporting for Islamic Banking Institutions, 29 Apr 2022) | Malay title on the Malay listing; same file as English listing; Malay content not verified | https://www.bnm.gov.my/documents/20124/938039/PD_Financial_Reporting_Islamic_Banks.pdf |
+| Rangka Kerja Kadar Rujukan (RRF) (Reference Rate Framework) + Consumer Guide (BM) | Malay title; BM consumer guide attached | https://www.bnm.gov.my/documents/20124/938039/Consumer+Guide_RRF_BM.pdf |
+
+I did not find separate Malay editions of the other Shariah contract policy documents (Murabahah, Tawarruq, Ijarah, etc.) on BNM's Malay "Standards & Guidelines" page; it links the same files as the English page. If Malay versions exist elsewhere on the site I did not locate them.
+
+---
+
 ## Appendix A. Shariah Resolutions in Islamic Finance, 2nd edition (2010) – table of contents (English, verbatim extract)
 
 ```
@@ -2165,4 +3165,231 @@ BAHAGIAN I: PRODUK PERBANKAN ISLAM 1
  Tier 2
  91. Parameter Syariah Berhubung Penggabungan Jual Beli Dengan Qard (Bai`
  Wa Salaf)
+```
+
+## Appendix C. Resolusi Syariah dalam Kewangan Islam, Edisi Kedua (2010, Malay edition) – table of contents (verbatim extract)
+
+```
+BAHAGIAN I: KONTRAK SYARIAH
+ IJARAH 3
+1. Penggunaan al-Ijarah thumma al-Bai` dalam Pembiayaan Kenderaan
+2. Pemindahan Tanggungan dalam al-Ijarah thumma al-Bai`
+3. Status Pemilikan Aset Ijarah
+4. Pembatalan Kontrak Ijarah
+5. Terbitan Nota Boleh Niaga Bank Negara Berasaskan Konsep Ijarah
+6. Kontrak Ijarah dengan Kadar Sewa Boleh Ubah
+7. Penanggungan Kos Berkaitan Hak Milik Aset dalam Ijarah
+8. Liabiliti Penyewa ke atas Aset Pihak Ketiga
+9. Keutamaan Penyewa untuk Membeli Aset dalam Kes Kemungkiran
+ Pembayaran Sewa
+10. Perkongsian Lebihan atas Penjualan Aset Ijarah antara Pemberi Sewa dengan
+ Penyewa
+11. Penggunaan Aset Pihak Ketiga yang Diperoleh Melalui Kontrak Mudarabah
+ sebagai Aset Sandaran (Underlying Asset) dalam Terbitan Sukuk Ijarah
+12. Penggunaan Konsep Ijarah Mawsufah fi al-Zimmah bagi Pembiayaan
+ Perumahan dalam Pembinaan Berasaskan Musyarakah Mutanaqisah
+13. Pembayaran Deposit dalam Sewa Beli secara Islam
+14. Penggunaan Aset Pihak Ketiga yang Diperoleh Melalui Konsep Jual dan Beli
+ dalam Terbitan Sukuk Ijarah
+iv
+ ISTISNA` 21
+ 15. Pembiayaan Projek Berasaskan Istisna` dengan Cagaran Bon Konvensional
+ MUDARABAH 24
+ 16. Instrumen Deposit Boleh Niaga secara Islam Berasaskan Mudarabah dengan
+ Berkadar Terapung
+ 17. Penggunaan Kontrak Mudarabah dalam Produk Akaun Semasa
+ 18. Sijil Pelaburan Mudarabah sebagai Subjek Gadaian
+ 19. Rizab Penyamaan Keuntungan (Profit Equalisation Reserve)
+ 20. Kos Penyelenggaraan dalam Akaun Deposit Mudarabah
+ 21. Urus Niaga Harian (Intra-Day Transaction) sebagai Satu Instrumen Pasaran
+ Wang secara Islam
+ 22. Perbelanjaan Tak Langsung (Indirect Expenses)
+ 23. Penggunaan Wajaran (Weightage)
+ 24. Amalan Institusi Kewangan Islam Mengalihkan Keuntungan Pelaburan
+ Mudarabah kepada Pelanggan untuk Mengelakkan Risiko Komersil Teralih
+ (Displaced Commercial Risk)
+ 25. Jaminan Pihak Ketiga ke atas Liabiliti Pihak yang Berurusan dengan Mudarib
+ bagi Urus Niaga Mudarabah
+ 26. Jaminan Mudarib ke atas Liabiliti Pihak yang Berurusan dengannya dalam
+ Usaha Niaga Mudarabah
+ 27. Sumbangan Modal Mudarib dalam Usaha Niaga Mudarabah
+ 28. Jaminan Pihak Ketiga ke atas Modal dan/atau Keuntungan dalam Urus Niaga
+ Mudarabah
+ MUSYARAKAH 40
+ 29. Produk Pembiayaan Berasaskan Musyarakah
+ 30. Pembiayaan Berasaskan Kontrak Musyarakah Mutanaqisah
+ 31. Penggunaan Konsep Wa`d sebagai Mekanisme Menangani Kemungkiran
+ Pelanggan dalam Pembiayaan Berasaskan Musyarakah Mutanaqisah
+ QARD 47
+ 32. Prinsip Qard dalam Kewangan Islam
+ 33. Instrumen Pengurusan Mudah Tunai Berasaskan Qard
+ 34. Penggabungan Pembayaran Awal secara Qard dengan Kontrak Murabahah
+ v
+ RAHN 53
+35. Dua Kemudahan Pembiayaan yang Bersandarkan Aset Cagaran yang Sama
+36. Berurusan dengan Aset yang Masih dalam Cagaran
+37. Sijil Deposit Tetap Konvensional sebagai Cagaran bagi Pembiayaan secara
+ Islam
+38. Penggunaan Sekuriti Hutang secara Islam sebagai Aset Cagaran
+39. Penjualan Aset Cagaran Sekiranya Penerima Biaya Gagal Membayar Semula
+ Amaun Pembiayaan kepada Pembiaya
+40. Keuntungan yang Terhasil daripada Aset Cagaran Sepanjang Tempoh
+ Cagaran
+ TAKAFUL 62
+41. Model Takaful Berasaskan Tabarru` dan Wakalah
+42. Pelaksanaan Konsep Musahamah dalam Pelan Takaful Am Komersial
+43. Model Perniagaan Takaful Semula Berasaskan Wakalah - Wakaf
+44. Perlindungan Takaful bagi Pembiayaan secara Islam
+45. Perlindungan Takaful bagi Pinjaman secara Konvensional
+46. Perlindungan Takaful ke atas Produk Kad Kredit Konvensional
+47. Takaful Semula dengan Syarikat Insurans dan Insurans Semula Konvensional
+48. Yuran Perkhidmatan Takaful Semula sebagai Pendapatan Dana Pemegang
+ Saham
+49. Perjanjian Takaful secara Bersama (Co-Takaful)
+50. Pengasingan Dana Takaful
+51. Pengenaan Fi Pengurusan ke atas Caruman Peserta Takaful
+52. Pengagihan Lebihan Dana Risiko Peserta
+53. Pengagihan Keuntungan Pelaburan daripada Dana Pelaburan Peserta dan
+ Dana Risiko Peserta
+54. Peruntukan Rizab dalam Perniagaan Takaful
+55. Mekanisme Menangani Defisit dalam Dana Risiko Peserta
+56. Hibah dalam Takaful
+57. Penamaan di bawah Skim Takaful yang Berasaskan Konsep Hibah
+58. Penggunaan Prinsip Penuh Percaya (Principle of Utmost Good Faith) dalam
+ Takaful
+59. Kepentingan Boleh Lindung (Insurable Interest) dalam Takaful
+vi
+ TAWARRUQ 94
+ 60. Produk Deposit Berasaskan Tawarruq
+ 61. Produk Pembiayaan Berasaskan Tawarruq
+ 62. Sukuk Ijarah dan Saham Berlandaskan Syariah sebagai Aset Sandaran dalam
+ Urus Niaga Tawarruq
+ 63. Penggunaan Tawarruq dalam Sukuk Murabahah Komoditi
+ 64. Cadangan Model Operasi Commodity Murabahah House (Kini dikenali
+ sebagai Suq Al-Sila`)
+ WADI`AH 101
+ 65. Takyif Wadi`ah Yad Dhamanah sebagai Qard
+ WAKALAH 103
+ 66. Penggunaan Wakalah bi al-Istithmar dalam Produk Deposit
+ BAI` DAYN 106
+ 67. Pembelian Semula Sijil Hutang Boleh Niaga secara Islam
+ 68. Jual Beli Hutang yang Bakal Terhasil daripada Perkhidmatan
+ BAI` `INAH 109
+ 69. Penggunaan Konsep Bai` `Inah dalam Terbitan Sijil Hutang Boleh Niaga secara
+ Islam
+ 70. Penggunaan Konsep Bai` `Inah dalam Pasaran Wang antara Bank secara Islam
+ 71. Penggunaan Kontrak “Jual dan Beli Balik“
+ 72. Syarat-syarat Sah Akad Bai` `Inah
+ 73. Pemasukan Syarat Pembelian Semula Aset ke dalam Akad Bai` `Inah
+ vii
+BAHAGIAN II: KONSEP SYARIAH SOKONGAN
+ HIBAH 117
+74. Hibah dalam Kontrak Pelaburan Mudarabah antara Bank
+75. Penggunaan Konsep Hibah dalam Kontrak al-Ijarah thumma al-Bai`
+76. Hibah dalam Kontrak Wadi`ah
+77. Hibah dalam Kontrak Qard
+ IBRA’ 123
+78. Ibra’ dalam Pembiayaan secara Islam
+79. Dua Bentuk Ibra’ dalam Satu Perjanjian Pembiayaan
+80. Ibra’ ke atas Produk Pembiayaan Perumahan yang Dihubungkan dengan
+ Akaun Deposit Wadi`ah atau Akaun Deposit Mudarabah
+ TA`WIDH DAN GHARAMAH 129
+81. Pengenaan Ta`widh dan Gharamah dalam Pembiayaan Kewangan Islam
+82. Pengenaan Ganti Rugi ke atas Pelanggan yang Membuat Penyelesaian Awal
+83. Kaedah Caj Lewat Bayar ke atas Hutang Penghakiman
+BAHAGIAN III: PRODUK KEWANGAN ISLAM
+ INSTRUMEN KEWANGAN DERIVATIF 137
+84. Urus Niaga Pertukaran Mata Wang Asing secara Lani (Spot) dan secara
+ Hadapan (Forward)
+85. Swap Kadar Keuntungan (Profit Rate Swap) secara Islam Berasaskan Bai`
+ `Inah
+86. Urus Niaga Hadapan (Forward) Mata Wang secara Bai` Mu’ajjal
+87. Opsyen Mata Wang Asing Berasaskan Konsep Hamish Jiddiyyah, Wa`d dan
+ Tawarruq
+88. Opsyen Mata Wang Asing Berasaskan Konsep Wa`d dan Dua Urus Niaga
+ Tawarruq yang Dibuat secara Berasingan
+viii
+ KAD KREDIT SECARA ISLAM 148
+ 89. Kad Kredit secara Islam Berasaskan Konsep Bai` `Inah dan Wadi`ah
+ 90. Kad Kredit secara Islam Berasaskan Konsep Ujrah
+ 91. Manfaat Perlindungan Takaful bagi Pemegang Kad Kredit secara Islam
+ 92. Rebat dalam Bentuk Pemberian Tunai (Cashback) ke atas Fi Tahunan Kad
+ Kredit
+ 93. Kad Kredit secara Islam Berasaskan Konsep Wakalah dan Kafalah
+ PRODUK HIBRID 155
+ 94. Produk Akaun Semasa Berasaskan Himpunan Kontrak Wadi`ah Yad
+ Dhamanah dan Mudarabah
+ 95. Produk Deposit Berasaskan Himpunan Kontrak Mudarabah dan Qard
+ 96. Produk Deposit Berasaskan Himpunan Kontrak Wadi`ah dan Mudarabah
+ 97. Pembiayaan Perumahan dalam Pembinaan Berasaskan Himpunan Kontrak
+ Istisna` Muwazi, Ijarah Mawsufah fi al-Zimmah dan Ijarah Muntahia bi
+ al-Tamlik
+ SUKUK BERASASKAN BAI` BITHAMAN AJIL (BBA) 160
+ 98. Pelaburan Mudarabah antara Bank sebagai Aset Sandaran dalam Jual Beli
+ secara Tangguh
+ 99. Kewujudan Aset Sandaran Sepanjang Tempoh Matang Sukuk
+ 100. Kaedah Pembidaan bagi Sukuk BBA
+ BAHAGIAN IV: ISU-ISU SYARIAH BERKAITAN OPERASI
+ INSTITUSI-INSTITUSI SOKONGAN DALAM KEWANGAN ISLAM
+ CREDIT GUARANTEE CORPORATION (M) BERHAD 165
+ 101. Konsep Syariah bagi Operasi Kemudahan Jaminan secara Islam oleh Credit
+ Guarantee Coorporation
+ 102. Jaminan Terhadap Harga Jualan
+ ix
+ DANAJAMIN NASIONAL BERHAD 168
+103. Konsep Syariah untuk Operasi Kemudahan Jaminan Danajamin Nasional
+ Berhad
+104. Pengasingan Modal dalam Operasi Danajamin
+105. Skop Jaminan Danajamin ke atas Sukuk
+106. Jaminan ke atas Obligasi yang Terhasil daripada Aku Janji Pembelian
+107. Caj Lewat Bayar dan Caj Tambahan Rekursa
+108. Pemilikan Aset Sandaran dalam Sukuk yang Berasaskan Kontrak Ijarah
+ PERBADANAN INSURANS DEPOSIT MALAYSIA 175
+109. Konsep Syariah bagi Operasi Insurans Deposit Islam
+110. Percampuran Dana yang Disumbangkan oleh Institusi Kewangan Islam dan
+ Konvensional dalam Insurans Deposit
+111. Had Jaminan Deposit Perbankan Islam oleh PIDM
+112. Definisi Terma “Deposit“ dalam Insurans Deposit Islam
+113. Kedudukan Tuntutan PIDM Berbanding dengan Tuntutan Pendeposit dalam
+ Kes Pembubaran Sesebuah Institusi Perbankan Islam
+114. Penggunaan Muqasah (Tolak Selesai) dalam Insurans Deposit Islam
+ PERBADANAN GADAI JANJI NASIONAL 182
+115. Kemudahan Jaminan Gadai Janji (Mortgage Guarantee Facility)
+BAHAGIAN V: ISU-ISU SYARIAH BERKAITAN KEWANGAN ISLAM
+ PEMBUBARAN INSTITUSI PERBANKAN ISLAM 187
+116. Keutamaan Pendeposit Mendapatkan Semula Deposit dalam Kes Pembubaran
+ Sesebuah Institusi Perbankan Islam
+117. Perkongsian Lebihan Selepas Proses Pencairan dan Pembayaran Tuntutan
+ antara Dana Perbankan Islam dengan Konvensional
+118. Status Dana Konvensional yang Diletakkan dalam Akaun Pelaburan Khas
+ Mudarabah dalam Kes Pembubaran Institusi Perbankan Islam
+x
+ PIAWAIAN PERAKAUNAN DAN PELAPORAN
+ KEWANGAN ISLAM 190
+ 119. Kaedah Pembahagian Untung
+ 120. Kaedah Pengiktirafan Pendapatan
+ 121. Penggunaan Prinsip “Substance Over Form“ dalam Kewangan Islam
+ 122. Penggunaan Prinsip Kebarangkalian (Probability) dalam Kewangan Islam
+ 123. Penggunaan Prinsip Nilai Masa dalam Kewangan (Time Value of Money)
+ LAIN-LAIN 197
+ 124. Deposit atau Dana Pelaburan Pelanggan daripada Sumber yang Diragui
+ 125. Pembiayaan kepada Pihak yang secara Jelas Menjalankan Aktiviti
+ Bertentangan dengan Syariah
+ 126. Penggunaan Overdraf secara Konvensional untuk Menampung Kekurangan
+ Akaun Semasa Wadi`ah
+ 127. Yuran Komitmen ke atas Baki Kemudahan Overdraf atau Kredit Pusingan
+ secara Islam yang Tidak Digunakan
+ 128. Instrumen Kewangan Islam sebagai Aset Sandaran dalam Urus Niaga secara
+ Konvensional
+ 129. Instrumen Pasaran Kewangan sebagai Aset Sandaran dalam Urus Niaga
+ Bertangguh
+ 130. Mekanisme Penentuan Jumlah Harga Penyelesaian dalam Pasaran Kewangan
+ 131. Penstrukturan Semula (Restructuring) dan Penjadualan Semula (Rescheduling)
+ dalam Perjanjian Pembiayaan secara Islam
+ 132. Konsep Pembidaan oleh Peniaga Utama (Principal Dealer) dalam Pasaran
+ Wang Islam
+ 133. Penyelesaian Pembiayaan Menerusi Pembiayaan Baharu
+ 134. Harga Jualan yang Tidak Ditentukan dalam Perjanjian Jual Beli
+ 135. Konsep Sandaran bagi Urus Niaga Pendiskaunan Blok secara Islam (Islamic
+ Block Discounting)
 ```
